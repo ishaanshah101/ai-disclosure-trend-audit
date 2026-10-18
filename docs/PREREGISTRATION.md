@@ -185,7 +185,7 @@ leakage.
 
 **Two blind passes.** Each sentence is assigned to exactly two of six rater
 identities by a fixed rule applied before rating begins. The raters are independent
-instances of Claude Sonnet 5.5 with no shared context, dispatched as subagents in
+instances of the blind-pass model with no shared context, dispatched as subagents in
 batches of about 40 sentences. The literal prompt is written to
 `docs/RATER_PROMPT.md` and committed before the first batch is dispatched, which
 closes the gap the companion study reported. Raters return one JSON line per
@@ -198,7 +198,8 @@ independent error estimate. Controls are excluded from every composition rate.
 
 **Third pass.** Every sentence on which the two passes disagree on class or on own
 use is rated a third time, blind to both prior verdicts and to the fact of
-disagreement, by a Claude Opus 5.5 instance, mixed with an equal number of agreed
+disagreement, by an instance of the third-pass model, a larger model from the same
+family, mixed with an equal number of agreed
 sentences so that selection does not reveal disagreement. Composition is reported two
 ways: agreed-only with the disputed set shown as a bound, which is the companion's
 convention, and majority-of-three.
@@ -206,7 +207,7 @@ convention, and majority-of-three.
 **Calibration pass.** A seeded sample of 120 sentences stratified over the five
 majority classes and three eras (2015 to 2019, 2020 to 2023, 2024 to 2026), with 10
 duplicated under a second identifier as self-consistency controls, is re-read blind by
-the orchestrating model (Claude Fable 5.1), which records a class and an own-use
+the orchestrating model, which records a class and an own-use
 judgement for each before the key is opened. The survival rate of each class and of
 each own-use value is measured. If a systematic bias appears, every rate in the paper
 is corrected by the companion's forward-transfer method and the correction is
@@ -255,8 +256,10 @@ reported, and excluded from the reuse analysis.
 ## 9. Who the raters are
 
 The raters, the third pass and the calibration pass are language models, not people:
-Claude Sonnet 5.5 for the two blind passes, Claude Opus 5.5 for the third pass, and
-Claude Fable 5.1, the model orchestrating the study, for the calibration pass. This
+a mid-sized commercial language model for the two blind passes, a larger model from
+the same family for the third pass, and the largest model in that family, the model
+orchestrating the study, for the calibration pass. Model identities and versions are
+recorded in a private model log held by the author. This
 study therefore does not measure human inter-rater agreement and no figure in it
 should be read that way. What it measures is whether independent, protocol-driven
 passes over the same text reach the same classification, how each pass performs on
@@ -343,6 +346,16 @@ from every one of its sentences, so a ticker that is itself an AI term is left i
 place. The registrant's name is still removed. This is recorded as a deviation
 rather than silently absorbed because it means that one registrant's sentences were
 shown with slightly less redaction than the others.
+
+**Amendment 5, 2026-10-18, before publication. Model vendor and version names are
+held in a private log rather than printed.** Sections 6 and 9 originally named the
+specific commercial models used for each pass. Those names are replaced here and in
+the paper by role descriptions (blind-pass model, third-pass model, orchestrating
+model, all from one commercial family) and the identities and versions are recorded
+in a private model log kept by the author and available on request. Nothing about
+which pass did what, or about the design, changes; the substitution is one of
+labels. The full statement of AI involvement in this study is being prepared as a
+separate document.
 
 **Note, not an amendment, 2026-10-18.** The usage limit on the rating model paused
 the blind passes for about seven hours after 45 of 108 batches had completed; the

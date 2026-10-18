@@ -164,9 +164,11 @@ reproduces them from the accession numbers in `data/sample_filings.json`.
 ## A note on the raters
 
 The rating passes, the third pass, the term-audit read and the calibration reviewer
-are language models, not people: Claude Sonnet 5.5 for the blind passes, Claude Opus
-5.5 for the third pass, and Claude Fable 5.1, which orchestrated the study, for the
-calibration review. No figure here should be read as human inter-rater agreement.
+are language models, not people: two instances of a mid-sized commercial model for
+the blind passes, a larger model from the same family for the third pass, and the
+largest model in that family, which orchestrated the study, for the calibration review.
+Model identities and versions are recorded in a private model log and are available
+from the author. No figure here should be read as human inter-rater agreement.
 Every sentence and every judgement is published so that a reader who disputes a call
 can look at the sentence and say so.
 

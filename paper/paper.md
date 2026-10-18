@@ -270,14 +270,14 @@ ticker which is itself an AI term (C3.ai trades as AI) was left alone so as not 
 erase the term being rated. Sentences were shuffled across filings and years under a
 fixed seed. Each sentence was assigned to two of six rater identities by cycling the
 fifteen rater pairs through the shuffled order. The raters were independent instances
-of Claude Sonnet 5.5 dispatched in batches of fifty with the literal prompt that is
+of a commercially available large language model, dispatched in batches of fifty with the literal prompt that is
 committed in `docs/RATER_PROMPT.md`, which closes the gap the companion reported.
 Thirty known-answer controls, sentences from the companion's calibration set whose
 class a blinded reviewer had fixed in September 2026 and whose automated passes had
 agreed, were inserted unmarked.
 
 Every sentence on which the two passes disagreed on class or on own use, 155 in all,
-was rated a third time by Claude Opus 5.5, blind to the prior verdicts and to the fact
+was rated a third time by a larger model from the same family, blind to the prior verdicts and to the fact
 of disagreement, mixed with 155 agreed sentences drawn at random so that selection
 could not reveal which were disputed. Composition is reported on two bases: agreed
 only, with the disputed set shown as a bound, which is the companion's convention, and
@@ -287,7 +287,7 @@ majority of three.
 
 A seeded sample of 120 sentences stratified over the five majority classes and three
 eras, with ten duplicated under second identifiers, was re-read blind by the
-orchestrating model, Claude Fable 5.1, which recorded a class and an own-use judgement
+orchestrating model, which recorded a class and an own-use judgement
 for all 130 displays before the key was opened. The survival rate of each class and
 each own-use value was measured, and every composition rate was corrected by the
 companion's forward-transfer method, with the correction's uncertainty obtained by
@@ -325,10 +325,12 @@ implementation against the reference package.
 
 ### 4.6 Who the raters are
 
-The raters, the third pass and the calibration reviewer are language models: Claude
-Sonnet 5.5 for the two blind passes, Claude Opus 5.5 for the third pass, and Claude
-Fable 5.1, which orchestrated the study, for the calibration review and the blinded
-read of the term-audit candidates. Nothing in the paper should be read as human
+The raters, the third pass and the calibration reviewer are language models, not
+people: two instances of a mid-sized commercial model for the blind passes, a larger
+model from the same family for the third pass, and the largest model in that family,
+which orchestrated the study, for the calibration review and the blinded read of the
+term-audit candidates. The model identities and versions are recorded in a private
+model log and are available from the author. Nothing in the paper should be read as human
 inter-rater agreement. What is measured is whether independent protocol-driven passes
 reach the same classification, how they perform on sentences with a previously fixed
 answer, and how far they survive review by a more careful pass. Every sentence and
@@ -345,8 +347,8 @@ the time with an alpha of 0.952. Of the 121 class disagreements, 73 are capabili
 against other, the boundary between using AI and saying what it achieves, and 21 are
 market against other. All 60 judgements on the 30 known-answer controls were correct,
 which bounds the error rate on sentences with a fixed answer below 6.0 percent at the
-Wilson lower limit. On the 155 agreed sentences mixed into the third pass, the Opus
-instance agreed with the two-pass consensus 147 times on class and 152 times on own
+Wilson lower limit. On the 155 agreed sentences mixed into the third pass, the third-pass
+model agreed with the two-pass consensus 147 times on class and 152 times on own
 use, and it resolved 150 of the 155 disputed sentences to a majority, leaving five with
 three different verdicts.
 
@@ -647,18 +649,18 @@ writing "artificial intelligence" is not in the frame, in any year. The companio
 counts for "machine learning" are published in the preregistration for comparison.
 
 **The raters are models, and the reviewer is the orchestrator.** No human read these
-sentences except the author in reviewing the calibration materials. The passes were
-checked against thirty known answers, against each other, against a third pass, and
-against a blinded review by a different model, and the blinded review is itself a model
-with a stake in the study. The materials for a human replication are in
+sentences. The passes were checked against thirty known answers, against each other,
+against a third pass, and against a blinded review by a different model, and the
+blinded review is itself the model that orchestrated the study, with a stake in the
+result. The materials for a human replication are in
 `data/rating/` and `data/calibration/`.
 
 **Blinding is imperfect.** Era cues reveal the period for 6.7 percent of sentences and
 a name token survives in 3.7 percent. Both are measured and neither raised agreement.
 
 **The third-pass model differs from the blind-pass models.** Majority labels mix two
-Sonnet verdicts with one Opus verdict on 155 sentences. The agreed-only basis, which
-uses no Opus verdict, gives the same era shares within four points.
+blind-pass verdicts with one third-pass verdict on 155 sentences. The agreed-only basis,
+which uses no third-pass verdict, gives the same era shares within four points.
 
 **The calibration cells are small.** Governance has eight units and capability thirty.
 The corrected rates carry the calibration uncertainty in their intervals, and the

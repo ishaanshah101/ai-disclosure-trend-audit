@@ -122,7 +122,7 @@ def score():
            "survival_by_era": {e: {"survived": v[0], "n": v[1], "rate": v[0] / v[1] if v[1] else None}
                                for e, v in era_surv.items()},
            "own_use": own,
-           "reviewer": "Claude Fable 5.1, orchestrating model, blind to the key"}
+           "reviewer": "orchestrating model, blind to the key"}
     os.makedirs(os.path.join(BASE, "results"), exist_ok=True)
     json.dump(res, open(os.path.join(BASE, "results", "calibration.json"), "w"), indent=1)
     print(json.dumps({k: v for k, v in res.items() if k not in ("transfer_matrix",)}, indent=1))
