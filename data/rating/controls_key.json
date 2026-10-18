@@ -1,0 +1,182 @@
+[
+ {
+  "did": "d00063",
+  "sid": "ctrl20",
+  "class": "market",
+  "source": "A034"
+ },
+ {
+  "did": "d00233",
+  "sid": "ctrl06",
+  "class": "capability",
+  "source": "A122"
+ },
+ {
+  "did": "d00254",
+  "sid": "ctrl21",
+  "class": "market",
+  "source": "A117"
+ },
+ {
+  "did": "d00385",
+  "sid": "ctrl00",
+  "class": "capability",
+  "source": "A021"
+ },
+ {
+  "did": "d00518",
+  "sid": "ctrl04",
+  "class": "capability",
+  "source": "A056"
+ },
+ {
+  "did": "d00535",
+  "sid": "ctrl08",
+  "class": "risk",
+  "source": "A066"
+ },
+ {
+  "did": "d00617",
+  "sid": "ctrl27",
+  "class": "other",
+  "source": "A036"
+ },
+ {
+  "did": "d00680",
+  "sid": "ctrl26",
+  "class": "other",
+  "source": "A107"
+ },
+ {
+  "did": "d00807",
+  "sid": "ctrl15",
+  "class": "risk",
+  "source": "A098"
+ },
+ {
+  "did": "d00863",
+  "sid": "ctrl14",
+  "class": "risk",
+  "source": "A020"
+ },
+ {
+  "did": "d00864",
+  "sid": "ctrl02",
+  "class": "capability",
+  "source": "A053"
+ },
+ {
+  "did": "d01179",
+  "sid": "ctrl23",
+  "class": "other",
+  "source": "A044"
+ },
+ {
+  "did": "d01231",
+  "sid": "ctrl28",
+  "class": "governance",
+  "source": "A062"
+ },
+ {
+  "did": "d01316",
+  "sid": "ctrl24",
+  "class": "other",
+  "source": "A123"
+ },
+ {
+  "did": "d01557",
+  "sid": "ctrl18",
+  "class": "market",
+  "source": "A031"
+ },
+ {
+  "did": "d01666",
+  "sid": "ctrl11",
+  "class": "risk",
+  "source": "A096"
+ },
+ {
+  "did": "d01667",
+  "sid": "ctrl25",
+  "class": "other",
+  "source": "A026"
+ },
+ {
+  "did": "d01840",
+  "sid": "ctrl22",
+  "class": "other",
+  "source": "A057"
+ },
+ {
+  "did": "d01972",
+  "sid": "ctrl09",
+  "class": "risk",
+  "source": "A106"
+ },
+ {
+  "did": "d02036",
+  "sid": "ctrl05",
+  "class": "capability",
+  "source": "A089"
+ },
+ {
+  "did": "d02199",
+  "sid": "ctrl01",
+  "class": "capability",
+  "source": "A087"
+ },
+ {
+  "did": "d02203",
+  "sid": "ctrl16",
+  "class": "market",
+  "source": "A001"
+ },
+ {
+  "did": "d02218",
+  "sid": "ctrl17",
+  "class": "market",
+  "source": "A055"
+ },
+ {
+  "did": "d02355",
+  "sid": "ctrl12",
+  "class": "risk",
+  "source": "A050"
+ },
+ {
+  "did": "d02375",
+  "sid": "ctrl19",
+  "class": "market",
+  "source": "A109"
+ },
+ {
+  "did": "d02388",
+  "sid": "ctrl03",
+  "class": "capability",
+  "source": "A091"
+ },
+ {
+  "did": "d02403",
+  "sid": "ctrl13",
+  "class": "risk",
+  "source": "A032"
+ },
+ {
+  "did": "d02478",
+  "sid": "ctrl07",
+  "class": "capability",
+  "source": "A085"
+ },
+ {
+  "did": "d02536",
+  "sid": "ctrl10",
+  "class": "risk",
+  "source": "A115"
+ },
+ {
+  "did": "d02567",
+  "sid": "ctrl29",
+  "class": "governance",
+  "source": "A037"
+ }
+]
