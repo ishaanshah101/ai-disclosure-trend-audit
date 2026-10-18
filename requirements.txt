@@ -3,3 +3,4 @@ scipy>=1.10
 statsmodels>=0.14
 matplotlib>=3.7
 openpyxl>=3.1
+krippendorff>=0.8

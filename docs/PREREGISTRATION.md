@@ -323,9 +323,14 @@ up to 1,000 documents and counts distinct registrants directly, with a censoring
 when the phrase has more hits than that. The window length L = 12 was confirmed by
 the pilot and is unchanged.
 
-**Amendment 3, 2026-10-18, at extraction and before any sentence was rated.
+**Amendment 3, 2026-10-18, first committed at 17:40:54 UTC, after the blind
+judgements (committed 17:06:40 UTC) and together with the analysis and the paper.
 Sentence-level rates are reported with filings weighted equally as the primary
 presentation, beside the sentence-weighted rates the preregistration implied.**
+The commit record is the only evidence of when this amendment was made, and it
+places the amendment after the ratings, so a reader should treat the choice of the
+filing-weighted presentation as made with the results in view. Both presentations
+are published for every estimate, and every prediction is reported on both.
 Extraction found that one 2023 registrant whose name contains the letters AI
 (C3.ai) contributed 448 of the 2,590 extracted sentences, and 154 of the 2,242
 that survive the term audit, so a sentence-weighted composition for 2023 is largely
@@ -356,6 +361,42 @@ in a private model log kept by the author and available on request. Nothing abou
 which pass did what, or about the design, changes; the substitution is one of
 labels. The full statement of AI involvement in this study is being prepared as a
 separate document.
+
+**Amendment 6, 2026-10-18, after the results were computed, the paper drafted and
+an independent check of the draft returned. Era and pooled estimates carry design
+weights.** Section 3.3 draws 30 filings in each of 2015, 2016 and 2017 and 25 in
+each later year, from frames of 36, 44 and 110 registrants in the first three years
+and up to 3,710 in the last. A pooled mean over the sample therefore gives 2015 to
+2017 nearly two thirds of the weight in the first era when those years are under a
+quarter of its frame. This amendment states the estimand of every era and pooled
+quantity as the frame of AI-mentioning 10-K filers: each sampled filing is weighted by
+its year's registrant count in the frame divided by the number drawn in that year, and
+the bootstrap resamples filings within year. Yearly estimates are unchanged, since the
+weight is constant within a year. The unweighted pooled-sample estimates are published
+beside the weighted ones in `results/analysis_unweighted.json`, produced by
+`src/analyze.py --unweighted`. This is a post hoc correction and is labelled as one.
+Its effect on the primary (filing-weighted, majority-of-three) results: the 2015 to
+2019 risk share moves from 7.5 to 12.0 percent, the capability share from 47.3 to
+40.6 and the own-use share from 56.8 to 51.5, the three era contrasts shrink from
+55.4, 30.4 and 24.4 points to 51.1, 24.9 and 20.3, and every interval that excluded
+zero still does. The filing-level own-use fraction in 2015 to 2019 moves from 66.2 to
+61.6 percent, so the overstatement factor in that era moves from 1.51 to 1.62 and
+Prediction 6, which held on its point estimate by 0.12 unweighted, becomes a
+difference of 0.01 with an interval from 0.42 below zero to 0.43 above: not
+supported. The sector comparison, which pools across years, is weighted the same way.
+
+**Deviations recorded on the same date, not separately amended.** Blind-pass batches
+held 50 sentences, not the "about 40" of Section 6. The phrase window of Section 7
+was moved right by up to five tokens when the twelve tokens from the AI term would
+otherwise have included a digit or an apostrophe, a rule applied uniformly and not
+recorded in `docs/PHRASE_PILOT.md`. The precision and recall of the flag against the
+own-use label, promised in Section 8, are reported in the paper. The second half of
+RQ4 (sector ordering under the raw mention measure) and the sector-level comparison
+in RQ5 were not carried out, because both need the sector of every 10-K filer in the
+denominator and that was not collected. The forward-transfer correction of Section 6
+is applied to the sentence-level composition rates and not to the filing-level
+fractions of RQ2 or to Table 3 of the paper, which are published uncorrected with the
+direction of the likely correction stated.
 
 **Note, not an amendment, 2026-10-18.** The usage limit on the rating model paused
 the blind passes for about seven hours after 45 of 108 batches had completed; the

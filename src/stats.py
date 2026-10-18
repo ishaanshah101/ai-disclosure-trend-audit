@@ -109,18 +109,19 @@ def _selfcheck():
     assert abs(lo - 0.0624) < 5e-4 and abs(hi - 0.1605) < 5e-4, (lo, hi)
     lo, hi = wilson(0, 75)
     assert lo == 0.0 and abs(hi - 0.0489) < 5e-4, (lo, hi)
-    # Krippendorff alpha: Krippendorff (2011) worked nominal example, alpha = 0.691
-    # (Computing Krippendorff's Alpha-Reliability, Table with units 1..12 coded by
-    # observers A and B on nominal values). Units with both codes:
+    # Krippendorff alpha, nominal: a ten-unit two-coder example with one disagreement,
+    # checked against the reference package (listed in requirements.txt). The value
+    # is asserted here so that a change to the implementation fails loudly.
     ex = [[1, 1], [2, 2], [3, 3], [3, 3], [2, 2], [1, 3], [4, 4], [1, 1], [2, 2], [4, 4]]
     a = krippendorff_alpha_nominal(ex)
+    assert abs(a - 0.8725) < 5e-4, a
     try:
         import krippendorff as kd  # cross-check against the reference package
         arr = np.array(ex, dtype=float).T
         ref = kd.alpha(reliability_data=arr, level_of_measurement="nominal")
         assert abs(a - ref) < 1e-9, (a, ref)
     except ImportError:
-        pass
+        print("warning: krippendorff package not installed, reference cross-check skipped")
     assert krippendorff_alpha_nominal([["a", "a"], ["b", "b"], ["c", "c"]]) == 1.0
     # forward transfer conserves mass
     c = {"risk": 100, "capability": 20}

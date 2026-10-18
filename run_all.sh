@@ -25,6 +25,7 @@ python3 src/agreement.py
 python3 src/third_pass.py --merge
 python3 src/build_calibration.py --score
 python3 src/analyze.py
+python3 src/analyze.py --unweighted   # pooled-sample comparison file
 python3 src/figures.py
 python3 src/build_browser.py
 python3 src/verify_paper.py

@@ -74,7 +74,7 @@ def fig2_composition():
         bottom += vals
     ax.set_xticks(x)
     ax.set_xticklabels([f"{e}\n{comp[e]['n_filings']} filings, {comp[e]['n_sentences']} sentences" for e in eras], fontsize=8)
-    ax.set_ylabel("share of a filing's AI sentences, percent\n(filings weighted equally)")
+    ax.set_ylabel("share of a filing's AI sentences, percent\n(filings weighted equally, years weighted to the frame)")
     ax.set_ylim(0, 100)
     ax.legend(frameon=False, ncol=5, loc="upper center", bbox_to_anchor=(0.5, 1.12), fontsize=8)
     fig.tight_layout()
@@ -174,7 +174,7 @@ def fig6_sector():
         ax.annotate(f"{e['estimate']*100:.0f}%  (n={sec[k]['n_filings_with_sentences']})", (e["hi"] * 100, i), textcoords="offset points", xytext=(6, 0), fontsize=8, va="center", color=INK2)
     ax.set_yticks(range(len(keys))); ax.set_yticklabels([names[k] for k in keys])
     ax.set_xlim(0, 100)
-    ax.set_xlabel("share of AI-mentioning filings with at least one own-use sentence, percent, with 95% bootstrap interval")
+    ax.set_xlabel("share of AI-mentioning filings with at least one own-use sentence, percent, years weighted to the frame, 95% bootstrap interval")
     fig.tight_layout()
     fig.savefig(os.path.join(FIG, "fig6_sector.png"), dpi=200)
     plt.close(fig)

@@ -1,0 +1,12 @@
+{
+ "source": "ai-claims-audit, commit 57b0ec186c27c3cea990e41765f41e7c7b51720a (26 September 2026), results/analysis.json and paper/paper.md",
+ "n_filings": 59,
+ "n_sentences": 598,
+ "n_agreed": 557,
+ "observed_agreement": 0.9314,
+ "krippendorff_alpha": 0.879,
+ "agreed_basis": {"risk": 0.6553, "capability": 0.1346, "note": "365 and 75 of 557 agreed sentences"},
+ "calibrated": {"risk": 0.6048, "capability": 0.1224, "note": "forward-transfer corrected composition of the full corpus"},
+ "filings_with_capability_claim": 19,
+ "capability_transfer_out": 0.13
+}
