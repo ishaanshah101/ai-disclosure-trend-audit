@@ -1,0 +1,9 @@
+data/filings/
+data/form_index/
+data/btos/*.xlsx
+__pycache__/
+*.pyc
+.DS_Store
+paper/*.aux
+paper/*.log
+paper/*.out
