@@ -1,0 +1,835 @@
+{
+ "seed": 20261018,
+ "sentences": [
+  {
+   "id": "0001013762-25-001600:358",
+   "text": "Additionally, the increasing focus on the risks and strategic importance of AI technologies has already resulted in regulatory restrictions that target products and services capable of enabling or facilitating AI and may in the future result in additional restrictions impacting some or all of our product and service offerings.",
+   "cik": "0001355839"
+  },
+  {
+   "id": "0001558370-25-003117:609",
+   "text": "Serum chemistry showed no effects (treated vs. control; n=5/group) for the 1st compound (IC50 >128 \u00b5g/mL) while the 2nd (IC50 30 \u00b5g/mL) showed elevated liver enzymes for one analog in several mice dosed IV and PO.",
+   "cik": "0001736243"
+  },
+  {
+   "id": "0001058290-25-000017:361",
+   "text": "To achieve such growth, we must, among other things, continue to significantly expand our global operations, in particular with respect to AI and digital, and scale our infrastructure to support such business growth and ensure that our service offerings remain responsive to market demand.",
+   "cik": "0001058290"
+  },
+  {
+   "id": "0001675644-25-000035:755",
+   "text": "The legal and regulatory environment relating to AI is uncertain and rapidly evolving, and includes regulatory schemes targeted specifically at AI as well as provisions in intellectual property, privacy, consumer protection, employment, and other laws applicable to the use of AI.",
+   "cik": "0001675644"
+  },
+  {
+   "id": "0000083246-25-000007:1587",
+   "text": "More specifically, we sought to enhance our risk management in the following areas: \u2022 We made progress to strengthen our regulatory reporting processes, improve consistency and enhance controls. \u2022 We continue to maintain a focus on our technology and cybersecurity controls to improve the resilience and security of our technology services in response to the heightened external threat environment. \u2022 We invested in industry-leading technology and advanced analytic capabilities to improve how we proactively combat financial crime and will continue to monitor regulatory changes that support innovation and effectiveness, including enhancements to our risk management framework to address emerging technology such as artificial intelligence. \u2022 We continue to enhance our model risk framework in response to changes in regulation and external factors.",
+   "cik": "0000083246"
+  },
+  {
+   "id": "0000950170-25-029516:251",
+   "text": "Certain jurisdictions in which we operate are considering or have proposed or enacted legislation and policies regulating AI and non-personal data, such as the recent Executive Order on AI.",
+   "cik": "0000902791"
+  },
+  {
+   "id": "0001327811-25-000056:100",
+   "text": "(\"HiredScore\"), a leading provider of AI-powered talent orchestration solutions, and Evisort Inc.",
+   "cik": "0001327811"
+  },
+  {
+   "id": "0001628280-25-011690:148",
+   "text": "The key components of RAMP include our programmatic buying platform, ad media interface, dynamic content and monetization serving, real-time revenue attribution, machine learning and data science algorithms, and back-end reporting systems.",
+   "cik": "0001805833"
+  },
+  {
+   "id": "0001058290-25-000017:310",
+   "text": "As a result, we may have to expend resources to adjust our offerings in certain jurisdictions if the legal frameworks on AI are not consistent across jurisdictions, and the EU AI Act may increase costs or impact the operation of our AI services.",
+   "cik": "0001058290"
+  },
+  {
+   "id": "0001809519-25-000040:630",
+   "text": "The Trump administration has rescinded an executive order relating to the safe and secure development of AI Technologies that was previously implemented by the Biden administration.",
+   "cik": "0001809519"
+  },
+  {
+   "id": "0001193125-25-291326:205",
+   "text": "We also use AI tools internally to make certain business processes more efficient.",
+   "cik": "0000857005"
+  },
+  {
+   "id": "0001635282-25-000029:127",
+   "text": "We also believe that the future of ERP will include enterprise-wide AI and cross-product user experiences focused on the work to be done rather than the applications and databases of specific software packages.",
+   "cik": "0001635282"
+  },
+  {
+   "id": "0001636422-25-000028:907",
+   "text": "Additionally, existing laws and regulations may be interpreted in ways that would affect the operation of AI Technologies.",
+   "cik": "0001636422"
+  },
+  {
+   "id": "0000950170-25-029516:238",
+   "text": "The methods and techniques used by cyber threat actors to gain entry into our network and access our computer systems, software and data will become more advanced with the use of artificial intelligence (\"AI\") and may become increasingly difficult or impossible to detect and prevent.",
+   "cik": "0000902791"
+  },
+  {
+   "id": "0000706129-25-000036:434",
+   "text": "Our adoption of artificial intelligence, including generative artificial intelligence, machine learning, and similar tools and technologies that collect, aggregate, analyze, or generate data or other materials or content (collectively, \"AI\"), is limited for internal currently, and we expect to continue to adopt such tools as appropriate.",
+   "cik": "0000706129"
+  },
+  {
+   "id": "0001058290-25-000017:302",
+   "text": "In addition, the development, adoption, and use of AI technologies are all still in their early stages and ineffective or inadequate AI development or deployment practices by us, our clients, or third parties with whom we do business could result in unintended consequences.",
+   "cik": "0001058290"
+  },
+  {
+   "id": "0001834494-25-000018:374",
+   "text": "As we integrate artificial intelligence, or AI, technologies to enhance efficiency and innovation, we must acknowledge associated cybersecurity risks.",
+   "cik": "0001834494"
+  },
+  {
+   "id": "0001327811-25-000056:279",
+   "text": "As the market matures and as existing and new market participants introduce new types of technologies, such as generative and agentic AI, and different approaches that enable organizations to address their HCM and financial needs, we expect this competition to intensify in the future.",
+   "cik": "0001327811"
+  },
+  {
+   "id": "0001327811-25-000056:65",
+   "text": "Workday Wellness, another new Workday Illuminate-powered solution, will help provide companies with a real-time view into which benefits and wellness offerings their employees want and use and give AI-driven recommendations on how to improve their benefits programs.",
+   "cik": "0001327811"
+  },
+  {
+   "id": "0001058290-25-000017:582",
+   "text": "As AI-based technologies or other forms of automation evolve, we expect that demand for some services that we currently perform for our clients may be reduced and our ability to obtain favorable pricing or other terms for our services may be diminished.",
+   "cik": "0001058290"
+  }
+ ],
+ "results": {
+  "8": {
+   "0001013762-25-001600:358": {
+    "phrase": "ai technologies has already resulted in regulatory restrictions",
+    "L": 8,
+    "total_hits": 11,
+    "n_ciks": 7,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 6
+   },
+   "0001558370-25-003117:609": {
+    "phrase": "serum chemistry showed no effects treated vs control",
+    "L": 8,
+    "total_hits": 4,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0001058290-25-000017:361": {
+    "phrase": "ai and digital and scale our infrastructure to",
+    "L": 8,
+    "total_hits": 2,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0001675644-25-000035:755": {
+    "phrase": "ai is uncertain and rapidly evolving and includes",
+    "L": 8,
+    "total_hits": 23,
+    "n_ciks": 16,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 15
+   },
+   "0000083246-25-000007:1587": {
+    "phrase": "artificial intelligence we continue to enhance our model",
+    "L": 8,
+    "total_hits": 1,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0000950170-25-029516:251": {
+    "phrase": "ai and non personal data such as the",
+    "L": 8,
+    "total_hits": 10,
+    "n_ciks": 7,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 6
+   },
+   "0001327811-25-000056:100": {
+    "phrase": "ai powered talent orchestration solutions and evisort inc",
+    "L": 8,
+    "total_hits": 1,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0001628280-25-011690:148": {
+    "phrase": "machine learning and data science algorithms and back",
+    "L": 8,
+    "total_hits": 4,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0001058290-25-000017:310": {
+    "phrase": "ai are not consistent across jurisdictions and the",
+    "L": 8,
+    "total_hits": 1,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0001809519-25-000040:630": {
+    "phrase": "ai technologies that was previously implemented by the",
+    "L": 8,
+    "total_hits": 32,
+    "n_ciks": 25,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 24
+   },
+   "0001193125-25-291326:205": {
+    "phrase": "ai tools internally to make certain business processes",
+    "L": 8,
+    "total_hits": 1,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0001635282-25-000029:127": {
+    "phrase": "ai and cross product user experiences focused on",
+    "L": 8,
+    "total_hits": 1,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0001636422-25-000028:907": {
+    "phrase": "that would affect the operation of ai technologies",
+    "L": 8,
+    "total_hits": 23,
+    "n_ciks": 14,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 13
+   },
+   "0000950170-25-029516:238": {
+    "phrase": "artificial intelligence ai and may become increasingly difficult",
+    "L": 8,
+    "total_hits": 5,
+    "n_ciks": 3,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 2
+   },
+   "0000706129-25-000036:434": {
+    "phrase": "artificial intelligence including generative artificial intelligence machine learning",
+    "L": 8,
+    "total_hits": 31,
+    "n_ciks": 18,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 17
+   },
+   "0001058290-25-000017:302": {
+    "phrase": "ai technologies are all still in their early",
+    "L": 8,
+    "total_hits": 1,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0001834494-25-000018:374": {
+    "phrase": "artificial intelligence or ai technologies to enhance efficiency",
+    "L": 8,
+    "total_hits": 1,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0001327811-25-000056:279": {
+    "phrase": "ai and different approaches that enable organizations to",
+    "L": 8,
+    "total_hits": 2,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0001327811-25-000056:65": {
+    "phrase": "ai driven recommendations on how to improve their",
+    "L": 8,
+    "total_hits": 1,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0001058290-25-000017:582": {
+    "phrase": "ai based technologies or other forms of automation",
+    "L": 8,
+    "total_hits": 2,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   }
+  },
+  "10": {
+   "0001013762-25-001600:358": {
+    "phrase": "ai technologies has already resulted in regulatory restrictions that target",
+    "L": 10,
+    "total_hits": 11,
+    "n_ciks": 7,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 6
+   },
+   "0001558370-25-003117:609": {
+    "phrase": "serum chemistry showed no effects treated vs control n 5",
+    "L": 10,
+    "total_hits": 4,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0001058290-25-000017:361": {
+    "phrase": "ai and digital and scale our infrastructure to support such",
+    "L": 10,
+    "total_hits": 2,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0001675644-25-000035:755": {
+    "phrase": "ai is uncertain and rapidly evolving and includes regulatory schemes",
+    "L": 10,
+    "total_hits": 14,
+    "n_ciks": 10,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 9
+   },
+   "0000083246-25-000007:1587": {
+    "phrase": "artificial intelligence we continue to enhance our model risk framework",
+    "L": 10,
+    "total_hits": 1,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0000950170-25-029516:251": {
+    "phrase": "ai and non personal data such as the recent executive",
+    "L": 10,
+    "total_hits": 2,
+    "n_ciks": 2,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 1
+   },
+   "0001327811-25-000056:100": {
+    "phrase": "provider of ai powered talent orchestration solutions and evisort inc",
+    "L": 10,
+    "total_hits": 1,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0001628280-25-011690:148": {
+    "phrase": "machine learning and data science algorithms and back end reporting",
+    "L": 10,
+    "total_hits": 3,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0001058290-25-000017:310": {
+    "phrase": "ai are not consistent across jurisdictions and the eu ai",
+    "L": 10,
+    "total_hits": 1,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0001809519-25-000040:630": {
+    "phrase": "ai technologies that was previously implemented by the biden administration",
+    "L": 10,
+    "total_hits": 29,
+    "n_ciks": 22,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 21
+   },
+   "0001193125-25-291326:205": {
+    "phrase": "ai tools internally to make certain business processes more efficient",
+    "L": 10,
+    "total_hits": 1,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0001635282-25-000029:127": {
+    "phrase": "ai and cross product user experiences focused on the work",
+    "L": 10,
+    "total_hits": 1,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0001636422-25-000028:907": {
+    "phrase": "in ways that would affect the operation of ai technologies",
+    "L": 10,
+    "total_hits": 23,
+    "n_ciks": 14,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 13
+   },
+   "0000950170-25-029516:238": {
+    "phrase": "artificial intelligence ai and may become increasingly difficult or impossible",
+    "L": 10,
+    "total_hits": 5,
+    "n_ciks": 3,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 2
+   },
+   "0000706129-25-000036:434": {
+    "phrase": "artificial intelligence including generative artificial intelligence machine learning and similar",
+    "L": 10,
+    "total_hits": 28,
+    "n_ciks": 16,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 15
+   },
+   "0001058290-25-000017:302": {
+    "phrase": "ai technologies are all still in their early stages and",
+    "L": 10,
+    "total_hits": 1,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0001834494-25-000018:374": {
+    "phrase": "artificial intelligence or ai technologies to enhance efficiency and innovation",
+    "L": 10,
+    "total_hits": 1,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0001327811-25-000056:279": {
+    "phrase": "ai and different approaches that enable organizations to address their",
+    "L": 10,
+    "total_hits": 2,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0001327811-25-000056:65": {
+    "phrase": "ai driven recommendations on how to improve their benefits programs",
+    "L": 10,
+    "total_hits": 1,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0001058290-25-000017:582": {
+    "phrase": "ai based technologies or other forms of automation evolve we",
+    "L": 10,
+    "total_hits": 1,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   }
+  },
+  "12": {
+   "0001013762-25-001600:358": {
+    "phrase": "ai technologies has already resulted in regulatory restrictions that target products and",
+    "L": 12,
+    "total_hits": 11,
+    "n_ciks": 7,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 6
+   },
+   "0001558370-25-003117:609": {
+    "phrase": "serum chemistry showed no effects treated vs control n 5 group for",
+    "L": 12,
+    "total_hits": 4,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0001058290-25-000017:361": {
+    "phrase": "ai and digital and scale our infrastructure to support such business growth",
+    "L": 12,
+    "total_hits": 2,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0001675644-25-000035:755": {
+    "phrase": "ai is uncertain and rapidly evolving and includes regulatory schemes targeted specifically",
+    "L": 12,
+    "total_hits": 13,
+    "n_ciks": 9,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 8
+   },
+   "0000083246-25-000007:1587": {
+    "phrase": "artificial intelligence we continue to enhance our model risk framework in response",
+    "L": 12,
+    "total_hits": 1,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0000950170-25-029516:251": {
+    "phrase": "ai and non personal data such as the recent executive order on",
+    "L": 12,
+    "total_hits": 2,
+    "n_ciks": 2,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 1
+   },
+   "0001327811-25-000056:100": {
+    "phrase": "a leading provider of ai powered talent orchestration solutions and evisort inc",
+    "L": 12,
+    "total_hits": 1,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0001628280-25-011690:148": {
+    "phrase": "attribution machine learning and data science algorithms and back end reporting systems",
+    "L": 12,
+    "total_hits": 3,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0001058290-25-000017:310": {
+    "phrase": "ai are not consistent across jurisdictions and the eu ai act may",
+    "L": 12,
+    "total_hits": 1,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0001809519-25-000040:630": {
+    "phrase": "development of ai technologies that was previously implemented by the biden administration",
+    "L": 12,
+    "total_hits": 17,
+    "n_ciks": 14,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 13
+   },
+   "0001193125-25-291326:205": {
+    "phrase": "also use ai tools internally to make certain business processes more efficient",
+    "L": 12,
+    "total_hits": 1,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0001635282-25-000029:127": {
+    "phrase": "ai and cross product user experiences focused on the work to be",
+    "L": 12,
+    "total_hits": 1,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0001636422-25-000028:907": {
+    "phrase": "be interpreted in ways that would affect the operation of ai technologies",
+    "L": 12,
+    "total_hits": 23,
+    "n_ciks": 14,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 13
+   },
+   "0000950170-25-029516:238": {
+    "phrase": "artificial intelligence ai and may become increasingly difficult or impossible to detect",
+    "L": 12,
+    "total_hits": 5,
+    "n_ciks": 3,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 2
+   },
+   "0000706129-25-000036:434": {
+    "phrase": "artificial intelligence including generative artificial intelligence machine learning and similar tools and",
+    "L": 12,
+    "total_hits": 27,
+    "n_ciks": 16,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 15
+   },
+   "0001058290-25-000017:302": {
+    "phrase": "ai technologies are all still in their early stages and ineffective or",
+    "L": 12,
+    "total_hits": 1,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0001834494-25-000018:374": {
+    "phrase": "artificial intelligence or ai technologies to enhance efficiency and innovation we must",
+    "L": 12,
+    "total_hits": 1,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0001327811-25-000056:279": {
+    "phrase": "ai and different approaches that enable organizations to address their hcm and",
+    "L": 12,
+    "total_hits": 2,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0001327811-25-000056:65": {
+    "phrase": "and give ai driven recommendations on how to improve their benefits programs",
+    "L": 12,
+    "total_hits": 1,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0001058290-25-000017:582": {
+    "phrase": "ai based technologies or other forms of automation evolve we expect that",
+    "L": 12,
+    "total_hits": 1,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   }
+  },
+  "16": {
+   "0001013762-25-001600:358": {
+    "phrase": "ai technologies has already resulted in regulatory restrictions that target products and services capable of enabling",
+    "L": 16,
+    "total_hits": 11,
+    "n_ciks": 7,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 6
+   },
+   "0001558370-25-003117:609": {
+    "phrase": "serum chemistry showed no effects treated vs control n 5 group for the 1st compound ic50",
+    "L": 16,
+    "total_hits": 4,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0001058290-25-000017:361": {
+    "phrase": "ai and digital and scale our infrastructure to support such business growth and ensure that our",
+    "L": 16,
+    "total_hits": 2,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0001675644-25-000035:755": {
+    "phrase": "ai is uncertain and rapidly evolving and includes regulatory schemes targeted specifically at ai as well",
+    "L": 16,
+    "total_hits": 12,
+    "n_ciks": 9,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 8
+   },
+   "0000083246-25-000007:1587": {
+    "phrase": "artificial intelligence we continue to enhance our model risk framework in response to changes in regulation",
+    "L": 16,
+    "total_hits": 1,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0000950170-25-029516:251": {
+    "phrase": "and policies regulating ai and non personal data such as the recent executive order on ai",
+    "L": 16,
+    "total_hits": 2,
+    "n_ciks": 2,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 1
+   },
+   "0001327811-25-000056:100": {
+    "phrase": "hiredscore a leading provider of ai powered talent orchestration solutions and evisort inc",
+    "L": 16,
+    "total_hits": 1,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0001628280-25-011690:148": {
+    "phrase": "serving real time revenue attribution machine learning and data science algorithms and back end reporting systems",
+    "L": 16,
+    "total_hits": 3,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0001058290-25-000017:310": {
+    "phrase": "ai are not consistent across jurisdictions and the eu ai act may increase costs or impact",
+    "L": 16,
+    "total_hits": 1,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0001809519-25-000040:630": {
+    "phrase": "the safe and secure development of ai technologies that was previously implemented by the biden administration",
+    "L": 16,
+    "total_hits": 16,
+    "n_ciks": 13,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 12
+   },
+   "0001193125-25-291326:205": {
+    "phrase": "we also use ai tools internally to make certain business processes more efficient",
+    "L": 16,
+    "total_hits": 1,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0001635282-25-000029:127": {
+    "phrase": "ai and cross product user experiences focused on the work to be done rather than the",
+    "L": 16,
+    "total_hits": 1,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0001636422-25-000028:907": {
+    "phrase": "laws and regulations may be interpreted in ways that would affect the operation of ai technologies",
+    "L": 16,
+    "total_hits": 23,
+    "n_ciks": 14,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 13
+   },
+   "0000950170-25-029516:238": {
+    "phrase": "use of artificial intelligence ai and may become increasingly difficult or impossible to detect and prevent",
+    "L": 16,
+    "total_hits": 5,
+    "n_ciks": 3,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 2
+   },
+   "0000706129-25-000036:434": {
+    "phrase": "artificial intelligence including generative artificial intelligence machine learning and similar tools and technologies that collect aggregate",
+    "L": 16,
+    "total_hits": 26,
+    "n_ciks": 15,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 14
+   },
+   "0001058290-25-000017:302": {
+    "phrase": "ai technologies are all still in their early stages and ineffective or inadequate ai development or",
+    "L": 16,
+    "total_hits": 1,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0001834494-25-000018:374": {
+    "phrase": "artificial intelligence or ai technologies to enhance efficiency and innovation we must acknowledge associated cybersecurity risks",
+    "L": 16,
+    "total_hits": 1,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0001327811-25-000056:279": {
+    "phrase": "ai and different approaches that enable organizations to address their hcm and financial needs we expect",
+    "L": 16,
+    "total_hits": 1,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0001327811-25-000056:65": {
+    "phrase": "employees want and use and give ai driven recommendations on how to improve their benefits programs",
+    "L": 16,
+    "total_hits": 1,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   },
+   "0001058290-25-000017:582": {
+    "phrase": "ai based technologies or other forms of automation evolve we expect that demand for some services",
+    "L": 16,
+    "total_hits": 1,
+    "n_ciks": 1,
+    "agg_truncated": false,
+    "self_hit": true,
+    "reuse_ciks": 0
+   }
+  }
+ }
+}

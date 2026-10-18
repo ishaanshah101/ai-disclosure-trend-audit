@@ -1,0 +1,8562 @@
+{
+ "seed": 20261018,
+ "per_year": {
+  "2015": 30,
+  "2016": 30,
+  "2017": 30,
+  "2018": 25,
+  "2019": 25,
+  "2020": 25,
+  "2021": 25,
+  "2022": 25,
+  "2023": 25,
+  "2024": 25,
+  "2025": 25,
+  "2026": 25
+ },
+ "n": 315,
+ "registrants_drawn_in_more_than_one_year": {
+  "0000749660": 2,
+  "0000827099": 2,
+  "0000857005": 3,
+  "0000874866": 3,
+  "0001002517": 3,
+  "0001066194": 2,
+  "0001136893": 2,
+  "0001141788": 2,
+  "0001157602": 2,
+  "0001289419": 2,
+  "0001396536": 3,
+  "0001477200": 2,
+  "0001585002": 2,
+  "0001595974": 2,
+  "0000797542": 2,
+  "0001053374": 2,
+  "0001467373": 2,
+  "0000055135": 3,
+  "0000804328": 2,
+  "0001177394": 2,
+  "0001567900": 2,
+  "0000768899": 2,
+  "0000315213": 2,
+  "0001402057": 2,
+  "0000914025": 2,
+  "0001121795": 2,
+  "0001788882": 2,
+  "0001505155": 2,
+  "0001833498": 2
+ },
+ "filings": [
+  {
+   "id": "0001213900-15-002749:f10k2014_nacglobal.htm",
+   "adsh": "0001213900-15-002749",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000006732",
+   "ciks": [
+    "0000006732"
+   ],
+   "name": "NAC GLOBAL TECHNOLOGIES, INC.  (CIK 0000006732)",
+   "sic": "3560",
+   "file_date": "2015-04-15",
+   "period_ending": "2014-12-31",
+   "state": "FL",
+   "doc": "f10k2014_nacglobal.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2015,
+   "sector": "other"
+  },
+  {
+   "id": "0001104659-15-080772:a15-13982_110k.htm",
+   "adsh": "0001104659-15-080772",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000026076",
+   "ciks": [
+    "0000026076"
+   ],
+   "name": "CUBIC CORP /DE/  (CIK 0000026076)",
+   "sic": "3829",
+   "file_date": "2015-11-23",
+   "period_ending": "2015-09-30",
+   "state": "CA",
+   "doc": "a15-13982_110k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2015,
+   "sector": "healthcare"
+  },
+  {
+   "id": "0001193125-15-089682:d868951d10k.htm",
+   "adsh": "0001193125-15-089682",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000749660",
+   "ciks": [
+    "0000749660"
+   ],
+   "name": "ICAD INC  (ICAD)  (CIK 0000749660)",
+   "sic": "3841",
+   "file_date": "2015-03-13",
+   "period_ending": "2014-12-31",
+   "state": "NH",
+   "doc": "d868951d10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2015,
+   "sector": "healthcare"
+  },
+  {
+   "id": "0001078782-15-000651:f10k123114_10k.htm",
+   "adsh": "0001078782-15-000651",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000772370",
+   "ciks": [
+    "0000772370"
+   ],
+   "name": "NEW COLOMBIA RESOURCES INC  (CIK 0000772370)",
+   "sic": "7372",
+   "file_date": "2015-04-30",
+   "period_ending": "2014-12-31",
+   "state": "FL",
+   "doc": "f10k123114_10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2015,
+   "sector": "technology"
+  },
+  {
+   "id": "0000796343-15-000022:adbe10kfy14unofficialpdf.pdf",
+   "adsh": "0000796343-15-000022",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000796343",
+   "ciks": [
+    "0000796343"
+   ],
+   "name": "ADOBE SYSTEMS INC  (ADBE)  (CIK 0000796343)",
+   "sic": "7372",
+   "file_date": "2015-01-20",
+   "period_ending": "2014-11-28",
+   "state": "CA",
+   "doc": "adbe10kfy14unofficialpdf.pdf",
+   "n_docs_matched": 2,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2015,
+   "sector": "technology"
+  },
+  {
+   "id": "0000814547-15-000019:fico10-k2015.htm",
+   "adsh": "0000814547-15-000019",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000814547",
+   "ciks": [
+    "0000814547"
+   ],
+   "name": "FAIR ISAAC CORP  (FICO)  (CIK 0000814547)",
+   "sic": "7389",
+   "file_date": "2015-11-10",
+   "period_ending": "2015-09-30",
+   "state": "CA",
+   "doc": "fico10-k2015.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2015,
+   "sector": "other"
+  },
+  {
+   "id": "0001038838-15-000145:k123114.htm",
+   "adsh": "0001038838-15-000145",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000827099",
+   "ciks": [
+    "0000827099"
+   ],
+   "name": "TETRIDYN SOLUTIONS INC  (CPWR)  (CIK 0000827099)",
+   "sic": "7372",
+   "file_date": "2015-08-31",
+   "period_ending": "2014-12-31",
+   "state": "PA",
+   "doc": "k123114.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2015,
+   "sector": "technology"
+  },
+  {
+   "id": "0000857005-15-000042:ptc9-30x1510xk.htm",
+   "adsh": "0000857005-15-000042",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000857005",
+   "ciks": [
+    "0000857005"
+   ],
+   "name": "PTC INC.  (PTC)  (CIK 0000857005)",
+   "sic": "7372",
+   "file_date": "2015-11-23",
+   "period_ending": "2015-09-30",
+   "state": "MA",
+   "doc": "ptc9-30x1510xk.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2015,
+   "sector": "technology"
+  },
+  {
+   "id": "0001193125-15-220604:d887326d10k.htm",
+   "adsh": "0001193125-15-220604",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000874866",
+   "ciks": [
+    "0000874866"
+   ],
+   "name": "CORVEL CORP  (CRVL)  (CIK 0000874866)",
+   "sic": "6411",
+   "file_date": "2015-06-11",
+   "period_ending": "2015-03-31",
+   "state": "CA",
+   "doc": "d887326d10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2015,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0001140361-15-025494:form10k.htm",
+   "adsh": "0001140361-15-025494",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000931059",
+   "ciks": [
+    "0000931059"
+   ],
+   "name": "CollabRx, Inc.  (RNVA)  (CIK 0000931059)",
+   "sic": "7374",
+   "file_date": "2015-06-26",
+   "period_ending": "2015-03-31",
+   "state": "CA",
+   "doc": "form10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2015,
+   "sector": "technology"
+  },
+  {
+   "id": "0001002517-15-000032:nuan09302015-10k.htm",
+   "adsh": "0001002517-15-000032",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001002517",
+   "ciks": [
+    "0001002517"
+   ],
+   "name": "Nuance Communications, Inc.  (CIK 0001002517)",
+   "sic": "7372",
+   "file_date": "2015-11-19",
+   "period_ending": "2015-09-30",
+   "state": "MA",
+   "doc": "nuan09302015-10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2015,
+   "sector": "technology"
+  },
+  {
+   "id": "0001558370-15-001771:egan-20150630x10k.htm",
+   "adsh": "0001558370-15-001771",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001066194",
+   "ciks": [
+    "0001066194"
+   ],
+   "name": "EGAIN Corp  (EGAN)  (CIK 0001066194)",
+   "sic": "7372",
+   "file_date": "2015-09-14",
+   "period_ending": "2015-06-30",
+   "state": "CA",
+   "doc": "egan-20150630x10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2015,
+   "sector": "technology"
+  },
+  {
+   "id": "0001136893-15-000006:a10-k2014.htm",
+   "adsh": "0001136893-15-000006",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001136893",
+   "ciks": [
+    "0001136893"
+   ],
+   "name": "Fidelity National Information Services, Inc.  (FIS)  (CIK 0001136893)",
+   "sic": "7389",
+   "file_date": "2015-02-27",
+   "period_ending": "2014-12-31",
+   "state": "FL",
+   "doc": "a10-k2014.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2015,
+   "sector": "other"
+  },
+  {
+   "id": "0001571049-15-002516:t81871_10k.htm",
+   "adsh": "0001571049-15-002516",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001141788",
+   "ciks": [
+    "0001141788"
+   ],
+   "name": "HEALTH DISCOVERY CORP  (HDVY)  (CIK 0001141788)",
+   "sic": "6794",
+   "file_date": "2015-03-31",
+   "period_ending": "2014-12-31",
+   "state": "GA",
+   "doc": "t81871_10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2015,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0001047469-15-003000:a2223784z10-k.htm",
+   "adsh": "0001047469-15-003000",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001157602",
+   "ciks": [
+    "0001157602"
+   ],
+   "name": "Vitae Pharmaceuticals, Inc  (CIK 0001157602)",
+   "sic": "2834",
+   "file_date": "2015-03-31",
+   "period_ending": "2014-12-31",
+   "state": "PA",
+   "doc": "a2223784z10-k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2015,
+   "sector": "healthcare"
+  },
+  {
+   "id": "0001159167-15-000006:irbt-12272014x10k.htm",
+   "adsh": "0001159167-15-000006",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001159167",
+   "ciks": [
+    "0001159167"
+   ],
+   "name": "IROBOT CORP  (IRBT)  (CIK 0001159167)",
+   "sic": "3630",
+   "file_date": "2015-02-13",
+   "period_ending": "2014-12-27",
+   "state": "MA",
+   "doc": "irbt-12272014x10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2015,
+   "sector": "other"
+  },
+  {
+   "id": "0001289419-15-000044:morn_10kx12312014.htm",
+   "adsh": "0001289419-15-000044",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001289419",
+   "ciks": [
+    "0001289419"
+   ],
+   "name": "Morningstar, Inc.  (MORN)  (CIK 0001289419)",
+   "sic": "6282",
+   "file_date": "2015-02-27",
+   "period_ending": "2014-12-31",
+   "state": "IL",
+   "doc": "morn_10kx12312014.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2015,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0001477932-15-006855:byin_10k.htm",
+   "adsh": "0001477932-15-006855",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001333519",
+   "ciks": [
+    "0001333519"
+   ],
+   "name": "Baying Ecological Holding Group Inc.  (CIK 0001333519)",
+   "sic": "1311",
+   "file_date": "2015-11-12",
+   "period_ending": "2015-06-30",
+   "state": "MI",
+   "doc": "byin_10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2015,
+   "sector": "other"
+  },
+  {
+   "id": "0001558370-15-000307:mm-20141231x10k.htm",
+   "adsh": "0001558370-15-000307",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001372375",
+   "ciks": [
+    "0001372375"
+   ],
+   "name": "Millennial Media Inc.  (CIK 0001372375)",
+   "sic": "7311",
+   "file_date": "2015-03-11",
+   "period_ending": "2014-12-31",
+   "state": "MD",
+   "doc": "mm-20141231x10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2015,
+   "sector": "other"
+  },
+  {
+   "id": "0001437749-15-013346:optt20150629_10k.htm",
+   "adsh": "0001437749-15-013346",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001378140",
+   "ciks": [
+    "0001378140"
+   ],
+   "name": "Ocean Power Technologies, Inc.  (OPTT)  (CIK 0001378140)",
+   "sic": "4911",
+   "file_date": "2015-07-06",
+   "period_ending": "2015-04-30",
+   "state": "NJ",
+   "doc": "optt20150629_10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2015,
+   "sector": "other"
+  },
+  {
+   "id": "0001264931-15-000168:iosa10k_r1.htm",
+   "adsh": "0001264931-15-000168",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001396536",
+   "ciks": [
+    "0001396536"
+   ],
+   "name": "INFORMATION SYSTEMS ASSOCIATES, INC.  (DUOT)  (CIK 0001396536)",
+   "sic": "7372",
+   "file_date": "2015-04-15",
+   "period_ending": "2014-12-31",
+   "state": "FL",
+   "doc": "iosa10k_r1.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2015,
+   "sector": "technology"
+  },
+  {
+   "id": "0001438943-15-000008:stvf-20150331x10k.htm",
+   "adsh": "0001438943-15-000008",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001438943",
+   "ciks": [
+    "0001438943"
+   ],
+   "name": "Stevia First Corp.  (RNGE)  (CIK 0001438943)",
+   "sic": "1000",
+   "file_date": "2015-06-25",
+   "period_ending": "2015-03-31",
+   "state": "CA",
+   "doc": "stvf-20150331x10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2015,
+   "sector": "other"
+  },
+  {
+   "id": "0001062993-15-005011:form10k.htm",
+   "adsh": "0001062993-15-005011",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001464766",
+   "ciks": [
+    "0001464766"
+   ],
+   "name": "Epcylon Technologies, Inc.  (CIK 0001464766)",
+   "sic": "7372",
+   "file_date": "2015-09-14",
+   "period_ending": "2015-05-31",
+   "state": "A6",
+   "doc": "form10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2015,
+   "sector": "technology"
+  },
+  {
+   "id": "0001615774-15-000013:s100575_10k.htm",
+   "adsh": "0001615774-15-000013",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001469628",
+   "ciks": [
+    "0001469628"
+   ],
+   "name": "Hygea Holdings Corp.  (CIK 0001469628)",
+   "sic": "8011",
+   "file_date": "2015-01-02",
+   "period_ending": "2012-12-31",
+   "state": "FL",
+   "doc": "s100575_10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2015,
+   "sector": "healthcare"
+  },
+  {
+   "id": "0001477200-15-000027:form10-kdocumentfy2014.htm",
+   "adsh": "0001477200-15-000027",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001477200",
+   "ciks": [
+    "0001477200"
+   ],
+   "name": "Rocket Fuel Inc.  (CIK 0001477200)",
+   "sic": "7370",
+   "file_date": "2015-03-16",
+   "period_ending": "2014-12-31",
+   "state": "CA",
+   "doc": "form10-kdocumentfy2014.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2015,
+   "sector": "technology"
+  },
+  {
+   "id": "0001493152-15-001473:form10-k.htm",
+   "adsh": "0001493152-15-001473",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001482541",
+   "ciks": [
+    "0001482541"
+   ],
+   "name": "Surna Inc.  (CEAD, CEADW)  (CIK 0001482541)",
+   "sic": "7389",
+   "file_date": "2015-04-16",
+   "period_ending": "2014-12-31",
+   "state": "CO",
+   "doc": "form10-k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2015,
+   "sector": "other"
+  },
+  {
+   "id": "0001594062-15-000262:form10k.htm",
+   "adsh": "0001594062-15-000262",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001493712",
+   "ciks": [
+    "0001493712"
+   ],
+   "name": "Cell MedX Corp.  (CMXC)  (CIK 0001493712)",
+   "sic": "5900",
+   "file_date": "2015-09-03",
+   "period_ending": "2015-05-31",
+   "state": "NV",
+   "doc": "form10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2015,
+   "sector": "other"
+  },
+  {
+   "id": "0001477932-15-006358:ckmy_10k.htm",
+   "adsh": "0001477932-15-006358",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001496139",
+   "ciks": [
+    "0001496139"
+   ],
+   "name": "Car Monkeys Group  (CIK 0001496139)",
+   "sic": "5531",
+   "file_date": "2015-10-13",
+   "period_ending": "2015-06-30",
+   "state": "NJ",
+   "doc": "ckmy_10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2015,
+   "sector": "other"
+  },
+  {
+   "id": "0001585002-15-000003:mhge-20141231xannualreport.htm",
+   "adsh": "0001585002-15-000003",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001585002",
+   "ciks": [
+    "0001585002"
+   ],
+   "name": "McGraw-Hill Global Education Intermediate Holdings, LLC  (CIK 0001585002)",
+   "sic": "2731",
+   "file_date": "2015-03-30",
+   "period_ending": "2014-12-31",
+   "state": "NY",
+   "doc": "mhge-20141231xannualreport.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2015,
+   "sector": "other"
+  },
+  {
+   "id": "0001628280-15-001546:rubi10k12-31x2014.htm",
+   "adsh": "0001628280-15-001546",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001595974",
+   "ciks": [
+    "0001595974"
+   ],
+   "name": "RUBICON PROJECT, INC.  (MGNI)  (CIK 0001595974)",
+   "sic": "7370",
+   "file_date": "2015-03-06",
+   "period_ending": "2014-12-31",
+   "state": "CA",
+   "doc": "rubi10k12-31x2014.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2015,
+   "sector": "technology"
+  },
+  {
+   "id": "0001193125-16-501542:d74213d10k.htm",
+   "adsh": "0001193125-16-501542",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000749660",
+   "ciks": [
+    "0000749660"
+   ],
+   "name": "ICAD INC  (ICAD)  (CIK 0000749660)",
+   "sic": "3841",
+   "file_date": "2016-03-11",
+   "period_ending": "2015-12-31",
+   "state": "NH",
+   "doc": "d74213d10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2016,
+   "sector": "healthcare"
+  },
+  {
+   "id": "0001295345-16-000489:mrla12312015.htm",
+   "adsh": "0001295345-16-000489",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000797542",
+   "ciks": [
+    "0000797542"
+   ],
+   "name": "Emerald Medical Applications Corp.  (VBIX)  (CIK 0000797542)",
+   "sic": "6770",
+   "file_date": "2016-03-31",
+   "period_ending": "2015-12-31",
+   "state": "L3",
+   "doc": "mrla12312015.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2016,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0001564590-16-030084:mitk-10k_20160930.htm",
+   "adsh": "0001564590-16-030084",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000807863",
+   "ciks": [
+    "0000807863"
+   ],
+   "name": "MITEK SYSTEMS INC  (MITK)  (CIK 0000807863)",
+   "sic": "3577",
+   "file_date": "2016-12-09",
+   "period_ending": "2016-09-30",
+   "state": "CA",
+   "doc": "mitk-10k_20160930.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2016,
+   "sector": "technology"
+  },
+  {
+   "id": "0001615774-16-003804:s102374_10k.htm",
+   "adsh": "0001615774-16-003804",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000822370",
+   "ciks": [
+    "0000822370"
+   ],
+   "name": "MYnd Analytics, Inc.  (EMMA)  (CIK 0000822370)",
+   "sic": "8090",
+   "file_date": "2016-01-05",
+   "period_ending": "2015-09-30",
+   "state": "CA",
+   "doc": "s102374_10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2016,
+   "sector": "healthcare"
+  },
+  {
+   "id": "0001038838-16-000224:k123115.htm",
+   "adsh": "0001038838-16-000224",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000827099",
+   "ciks": [
+    "0000827099"
+   ],
+   "name": "TETRIDYN SOLUTIONS INC  (CPWR)  (CIK 0000827099)",
+   "sic": "7372",
+   "file_date": "2016-03-30",
+   "period_ending": "2015-12-31",
+   "state": "PA",
+   "doc": "k123115.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2016,
+   "sector": "technology"
+  },
+  {
+   "id": "0000835887-16-000131:form10_k12312015.htm",
+   "adsh": "0000835887-16-000131",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000835887",
+   "ciks": [
+    "0000835887"
+   ],
+   "name": "PROGENICS PHARMACEUTICALS INC  (CIK 0000835887)",
+   "sic": "2834",
+   "file_date": "2016-03-11",
+   "period_ending": "2015-12-31",
+   "state": "NY",
+   "doc": "form10_k12312015.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2016,
+   "sector": "healthcare"
+  },
+  {
+   "id": "0000857005-16-000071:ptc9-30x1610xk.htm",
+   "adsh": "0000857005-16-000071",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000857005",
+   "ciks": [
+    "0000857005"
+   ],
+   "name": "PTC INC.  (PTC)  (CIK 0000857005)",
+   "sic": "7372",
+   "file_date": "2016-11-18",
+   "period_ending": "2016-09-30",
+   "state": "MA",
+   "doc": "ptc9-30x1610xk.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2016,
+   "sector": "technology"
+  },
+  {
+   "id": "0001193125-16-619107:d161413d10k.htm",
+   "adsh": "0001193125-16-619107",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000874866",
+   "ciks": [
+    "0000874866"
+   ],
+   "name": "CORVEL CORP  (CRVL)  (CIK 0000874866)",
+   "sic": "6411",
+   "file_date": "2016-06-10",
+   "period_ending": "2016-03-31",
+   "state": "CA",
+   "doc": "d161413d10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2016,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0001002517-16-000088:nuan0930201610-k.htm",
+   "adsh": "0001002517-16-000088",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001002517",
+   "ciks": [
+    "0001002517"
+   ],
+   "name": "Nuance Communications, Inc.  (CIK 0001002517)",
+   "sic": "7372",
+   "file_date": "2016-11-22",
+   "period_ending": "2016-09-30",
+   "state": "MA",
+   "doc": "nuan0930201610-k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2016,
+   "sector": "technology"
+  },
+  {
+   "id": "0001062993-16-011301:form10k.htm",
+   "adsh": "0001062993-16-011301",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001041514",
+   "ciks": [
+    "0001041514"
+   ],
+   "name": "NET 1 UEPS TECHNOLOGIES INC  (LSAK)  (CIK 0001041514)",
+   "sic": "6099",
+   "file_date": "2016-08-25",
+   "period_ending": "2016-06-30",
+   "state": "T3",
+   "doc": "form10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2016,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0001053374-16-000177:a2015123110k.htm",
+   "adsh": "0001053374-16-000177",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001053374",
+   "ciks": [
+    "0001053374"
+   ],
+   "name": "IPASS INC  (CIK 0001053374)",
+   "sic": "7374",
+   "file_date": "2016-03-11",
+   "period_ending": "2015-12-31",
+   "state": "CA",
+   "doc": "a2015123110k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2016,
+   "sector": "technology"
+  },
+  {
+   "id": "0001558370-16-008328:egan-20160630x10k.htm",
+   "adsh": "0001558370-16-008328",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001066194",
+   "ciks": [
+    "0001066194"
+   ],
+   "name": "EGAIN Corp  (EGAN)  (CIK 0001066194)",
+   "sic": "7372",
+   "file_date": "2016-09-13",
+   "period_ending": "2016-06-30",
+   "state": "CA",
+   "doc": "egan-20160630x10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2016,
+   "sector": "technology"
+  },
+  {
+   "id": "0001437749-16-038804:flws20160912_10k.htm",
+   "adsh": "0001437749-16-038804",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001084869",
+   "ciks": [
+    "0001084869"
+   ],
+   "name": "1 800 FLOWERS COM INC  (FLWS)  (CIK 0001084869)",
+   "sic": "5990",
+   "file_date": "2016-09-16",
+   "period_ending": "2016-07-03",
+   "state": "NY",
+   "doc": "flws20160912_10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2016,
+   "sector": "other"
+  },
+  {
+   "id": "0001193125-16-479332:d86734d10k.htm",
+   "adsh": "0001193125-16-479332",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001104188",
+   "ciks": [
+    "0001104188"
+   ],
+   "name": "SOHU COM INC  (CIK 0001104188)",
+   "sic": "7374",
+   "file_date": "2016-02-26",
+   "period_ending": "2015-12-31",
+   "state": "F4",
+   "doc": "d86734d10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2016,
+   "sector": "technology"
+  },
+  {
+   "id": "0001136893-16-000061:a10-k2015.htm",
+   "adsh": "0001136893-16-000061",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001136893",
+   "ciks": [
+    "0001136893"
+   ],
+   "name": "Fidelity National Information Services, Inc.  (FIS)  (CIK 0001136893)",
+   "sic": "7389",
+   "file_date": "2016-02-26",
+   "period_ending": "2015-12-31",
+   "state": "FL",
+   "doc": "a10-k2015.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2016,
+   "sector": "other"
+  },
+  {
+   "id": "0001047469-16-010789:a2227568z10-k.htm",
+   "adsh": "0001047469-16-010789",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001157602",
+   "ciks": [
+    "0001157602"
+   ],
+   "name": "Vitae Pharmaceuticals, Inc  (CIK 0001157602)",
+   "sic": "2834",
+   "file_date": "2016-03-04",
+   "period_ending": "2015-12-31",
+   "state": "PA",
+   "doc": "a2227568z10-k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2016,
+   "sector": "healthcare"
+  },
+  {
+   "id": "0001289419-16-000250:morn_10kx12312015.htm",
+   "adsh": "0001289419-16-000250",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001289419",
+   "ciks": [
+    "0001289419"
+   ],
+   "name": "Morningstar, Inc.  (MORN)  (CIK 0001289419)",
+   "sic": "6282",
+   "file_date": "2016-02-26",
+   "period_ending": "2015-12-31",
+   "state": "IL",
+   "doc": "morn_10kx12312015.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2016,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0001262463-16-000987:plpl2015.htm",
+   "adsh": "0001262463-16-000987",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001317880",
+   "ciks": [
+    "0001317880"
+   ],
+   "name": "Plandai Biotechnology, Inc.  (PLPL)  (CIK 0001317880)",
+   "sic": "2834",
+   "file_date": "2016-06-30",
+   "period_ending": "2015-06-30",
+   "state": "UT",
+   "doc": "plpl2015.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2016,
+   "sector": "healthcare"
+  },
+  {
+   "id": "0001326801-16-000043:fb-12312015x10k.htm",
+   "adsh": "0001326801-16-000043",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001326801",
+   "ciks": [
+    "0001326801"
+   ],
+   "name": "Facebook Inc  (META)  (CIK 0001326801)",
+   "sic": "7370",
+   "file_date": "2016-01-28",
+   "period_ending": "2015-12-31",
+   "state": "CA",
+   "doc": "fb-12312015x10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2016,
+   "sector": "technology"
+  },
+  {
+   "id": "0001554795-16-000602:irsb0329form10k.htm",
+   "adsh": "0001554795-16-000602",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001396238",
+   "ciks": [
+    "0001396238"
+   ],
+   "name": "IRIS BIOTECHNOLOGIES INC  (CIK 0001396238)",
+   "sic": "3841",
+   "file_date": "2016-03-30",
+   "period_ending": "2015-12-31",
+   "state": "CA",
+   "doc": "irsb0329form10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2016,
+   "sector": "healthcare"
+  },
+  {
+   "id": "0001553350-16-001818:duot_10k.htm",
+   "adsh": "0001553350-16-001818",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001396536",
+   "ciks": [
+    "0001396536"
+   ],
+   "name": "DUOS TECHNOLOGIES GROUP, INC.  (DUOT)  (CIK 0001396536)",
+   "sic": "7372",
+   "file_date": "2016-04-01",
+   "period_ending": "2015-12-31",
+   "state": "FL",
+   "doc": "duot_10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2016,
+   "sector": "technology"
+  },
+  {
+   "id": "0001467373-16-001080:acn831201610k.htm",
+   "adsh": "0001467373-16-001080",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001467373",
+   "ciks": [
+    "0001467373"
+   ],
+   "name": "Accenture plc  (ACN)  (CIK 0001467373)",
+   "sic": "7389",
+   "file_date": "2016-10-28",
+   "period_ending": "2016-08-31",
+   "state": "L2",
+   "doc": "acn831201610k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2016,
+   "sector": "other"
+  },
+  {
+   "id": "0001477200-16-000159:form10-kdocumentfy2015.htm",
+   "adsh": "0001477200-16-000159",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001477200",
+   "ciks": [
+    "0001477200"
+   ],
+   "name": "Rocket Fuel Inc.  (CIK 0001477200)",
+   "sic": "7370",
+   "file_date": "2016-03-14",
+   "period_ending": "2015-12-31",
+   "state": "CA",
+   "doc": "form10-kdocumentfy2015.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2016,
+   "sector": "technology"
+  },
+  {
+   "id": "0001445866-16-001948:nahd10k12312015.htm",
+   "adsh": "0001445866-16-001948",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001485029",
+   "ciks": [
+    "0001485029"
+   ],
+   "name": "New Asia Holdings, Inc.  (NAHD)  (CIK 0001485029)",
+   "sic": "3949",
+   "file_date": "2016-04-14",
+   "period_ending": "2015-12-31",
+   "state": "U0",
+   "doc": "nahd10k12312015.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2016,
+   "sector": "other"
+  },
+  {
+   "id": "0001594062-16-000651:form10k.htm",
+   "adsh": "0001594062-16-000651",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001492151",
+   "ciks": [
+    "0001492151"
+   ],
+   "name": "World Moto, Inc.  (CIK 0001492151)",
+   "sic": "7372",
+   "file_date": "2016-11-14",
+   "period_ending": "2015-12-31",
+   "state": "W1",
+   "doc": "form10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2016,
+   "sector": "technology"
+  },
+  {
+   "id": "0001213900-16-012053:f10k2015_sysorexglobal.htm",
+   "adsh": "0001213900-16-012053",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001529113",
+   "ciks": [
+    "0001529113"
+   ],
+   "name": "Sysorex Global  (XTIA)  (CIK 0001529113)",
+   "sic": "7371",
+   "file_date": "2016-03-30",
+   "period_ending": "2015-12-31",
+   "state": "CA",
+   "doc": "f10k2015_sysorexglobal.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2016,
+   "sector": "technology"
+  },
+  {
+   "id": "0001585002-16-000043:mhge-20151231xannualreport.htm",
+   "adsh": "0001585002-16-000043",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001585002",
+   "ciks": [
+    "0001585002"
+   ],
+   "name": "McGraw-Hill Global Education Intermediate Holdings, LLC  (CIK 0001585002)",
+   "sic": "2731",
+   "file_date": "2016-03-30",
+   "period_ending": "2015-12-31",
+   "state": "NY",
+   "doc": "mhge-20151231xannualreport.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2016,
+   "sector": "other"
+  },
+  {
+   "id": "0001144204-16-094392:v436667_10k.htm",
+   "adsh": "0001144204-16-094392",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001592592",
+   "ciks": [
+    "0001592592"
+   ],
+   "name": "WORLDS MALL INC  (CIK 0001592592)",
+   "sic": "7374",
+   "file_date": "2016-04-14",
+   "period_ending": "2015-12-31",
+   "state": "NV",
+   "doc": "v436667_10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2016,
+   "sector": "technology"
+  },
+  {
+   "id": "0001628280-16-012273:rubi10k12-31x2015.htm",
+   "adsh": "0001628280-16-012273",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001595974",
+   "ciks": [
+    "0001595974"
+   ],
+   "name": "RUBICON PROJECT, INC.  (MGNI)  (CIK 0001595974)",
+   "sic": "7370",
+   "file_date": "2016-03-04",
+   "period_ending": "2015-12-31",
+   "state": "CA",
+   "doc": "rubi10k12-31x2015.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2016,
+   "sector": "technology"
+  },
+  {
+   "id": "0001663577-16-000081:mainbody.htm",
+   "adsh": "0001663577-16-000081",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001599385",
+   "ciks": [
+    "0001599385"
+   ],
+   "name": "RX Safes, Inc.  (CIK 0001599385)",
+   "sic": "7380",
+   "file_date": "2016-03-28",
+   "period_ending": "2015-12-31",
+   "state": "NV",
+   "doc": "mainbody.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2016,
+   "sector": "other"
+  },
+  {
+   "id": "0000006951-17-000038:amat1029201710-kq42017.htm",
+   "adsh": "0000006951-17-000038",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000006951",
+   "ciks": [
+    "0000006951"
+   ],
+   "name": "APPLIED MATERIALS INC /DE  (AMAT)  (CIK 0000006951)",
+   "sic": "3674",
+   "file_date": "2017-12-15",
+   "period_ending": "2017-10-29",
+   "state": "CA",
+   "doc": "amat1029201710-kq42017.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2017,
+   "sector": "technology"
+  },
+  {
+   "id": "0001047469-17-001061:a2230222z10-k.htm",
+   "adsh": "0001047469-17-001061",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000051143",
+   "ciks": [
+    "0000051143"
+   ],
+   "name": "INTERNATIONAL BUSINESS MACHINES CORP  (IBM)  (CIK 0000051143)",
+   "sic": "3570",
+   "file_date": "2017-02-28",
+   "period_ending": "2016-12-31",
+   "state": "NY",
+   "doc": "a2230222z10-k.htm",
+   "n_docs_matched": 2,
+   "file_types": [
+    "10-K",
+    "EX-13"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2017,
+   "sector": "technology"
+  },
+  {
+   "id": "0000055135-17-000008:kelya-201711x10k.htm",
+   "adsh": "0000055135-17-000008",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000055135",
+   "ciks": [
+    "0000055135"
+   ],
+   "name": "KELLY SERVICES INC  (KELYA, KELYB)  (CIK 0000055135)",
+   "sic": "7363",
+   "file_date": "2017-02-17",
+   "period_ending": "2017-01-01",
+   "state": "MI",
+   "doc": "kelya-201711x10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2017,
+   "sector": "other"
+  },
+  {
+   "id": "0001047469-17-000899:a2230937z10-k.htm",
+   "adsh": "0001047469-17-000899",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000701221",
+   "ciks": [
+    "0000701221"
+   ],
+   "name": "CIGNA CORP  (CIK 0000701221)",
+   "sic": "6324",
+   "file_date": "2017-02-23",
+   "period_ending": "2016-12-31",
+   "state": "CT",
+   "doc": "a2230937z10-k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2017,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0001193125-17-228535:d353589d10k.htm",
+   "adsh": "0001193125-17-228535",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000713425",
+   "ciks": [
+    "0000713425"
+   ],
+   "name": "AMERICAN SOFTWARE INC  (AMSWA)  (CIK 0000713425)",
+   "sic": "7372",
+   "file_date": "2017-07-14",
+   "period_ending": "2017-04-30",
+   "state": "GA",
+   "doc": "d353589d10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2017,
+   "sector": "technology"
+  },
+  {
+   "id": "0001554795-17-000149:tfvr0406form10k.htm",
+   "adsh": "0001554795-17-000149",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000748268",
+   "ciks": [
+    "0000748268"
+   ],
+   "name": "TimefireVR Inc.  (RCAT)  (CIK 0000748268)",
+   "sic": "7372",
+   "file_date": "2017-04-07",
+   "period_ending": "2016-12-31",
+   "state": "AZ",
+   "doc": "tfvr0406form10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2017,
+   "sector": "technology"
+  },
+  {
+   "id": "0001493152-17-004077:form10-k.htm",
+   "adsh": "0001493152-17-004077",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000797542",
+   "ciks": [
+    "0000797542"
+   ],
+   "name": "Emerald Medical Applications Corp.  (VBIX)  (CIK 0000797542)",
+   "sic": "6770",
+   "file_date": "2017-04-18",
+   "period_ending": "2016-12-31",
+   "state": "L3",
+   "doc": "form10-k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2017,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0001234452-17-000190:qcom10-k2017.htm",
+   "adsh": "0001234452-17-000190",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000804328",
+   "ciks": [
+    "0000804328"
+   ],
+   "name": "QUALCOMM INC/DE  (QCOM)  (CIK 0000804328)",
+   "sic": "3663",
+   "file_date": "2017-11-01",
+   "period_ending": "2017-09-24",
+   "state": "CA",
+   "doc": "qcom10-k2017.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2017,
+   "sector": "technology"
+  },
+  {
+   "id": "0000857005-17-000021:ptc9-30x1710xk.htm",
+   "adsh": "0000857005-17-000021",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000857005",
+   "ciks": [
+    "0000857005"
+   ],
+   "name": "PTC INC.  (PTC)  (CIK 0000857005)",
+   "sic": "7372",
+   "file_date": "2017-11-29",
+   "period_ending": "2017-09-30",
+   "state": "MA",
+   "doc": "ptc9-30x1710xk.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2017,
+   "sector": "technology"
+  },
+  {
+   "id": "0001144204-17-036649:v470634_10k.htm",
+   "adsh": "0001144204-17-036649",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000862651",
+   "ciks": [
+    "0000862651"
+   ],
+   "name": "Investview, Inc.  (INVU, INVUP)  (CIK 0000862651)",
+   "sic": "7389",
+   "file_date": "2017-07-13",
+   "period_ending": "2017-03-31",
+   "state": "UT",
+   "doc": "v470634_10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2017,
+   "sector": "other"
+  },
+  {
+   "id": "0001564590-17-012405:crvl-10k_20170331.htm",
+   "adsh": "0001564590-17-012405",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000874866",
+   "ciks": [
+    "0000874866"
+   ],
+   "name": "CORVEL CORP  (CRVL)  (CIK 0000874866)",
+   "sic": "6411",
+   "file_date": "2017-06-09",
+   "period_ending": "2017-03-31",
+   "state": "CA",
+   "doc": "crvl-10k_20170331.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2017,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0000949158-17-000008:cray-12312016x10k.htm",
+   "adsh": "0000949158-17-000008",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000949158",
+   "ciks": [
+    "0000949158"
+   ],
+   "name": "CRAY INC  (CIK 0000949158)",
+   "sic": "3571",
+   "file_date": "2017-02-10",
+   "period_ending": "2016-12-31",
+   "state": "WA",
+   "doc": "cray-12312016x10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2017,
+   "sector": "technology"
+  },
+  {
+   "id": "0001001907-17-000060:astc10-k06302017.htm",
+   "adsh": "0001001907-17-000060",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001001907",
+   "ciks": [
+    "0001001907"
+   ],
+   "name": "ASTROTECH Corp  (ASTC)  (CIK 0001001907)",
+   "sic": "3760",
+   "file_date": "2017-09-18",
+   "period_ending": "2017-06-30",
+   "state": "TX",
+   "doc": "astc10-k06302017.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2017,
+   "sector": "other"
+  },
+  {
+   "id": "0001002517-17-000040:nuan0930201710-k.htm",
+   "adsh": "0001002517-17-000040",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001002517",
+   "ciks": [
+    "0001002517"
+   ],
+   "name": "Nuance Communications, Inc.  (CIK 0001002517)",
+   "sic": "7372",
+   "file_date": "2017-11-29",
+   "period_ending": "2017-09-30",
+   "state": "MA",
+   "doc": "nuan0930201710-k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2017,
+   "sector": "technology"
+  },
+  {
+   "id": "0001002638-17-000032:a10-kq4x17.htm",
+   "adsh": "0001002638-17-000032",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001002638",
+   "ciks": [
+    "0001002638"
+   ],
+   "name": "OPEN TEXT CORP  (OTEX)  (CIK 0001002638)",
+   "sic": "7373",
+   "file_date": "2017-08-03",
+   "period_ending": "2017-06-30",
+   "state": "A6",
+   "doc": "a10-kq4x17.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2017,
+   "sector": "technology"
+  },
+  {
+   "id": "0001558370-17-001874:ttec-20161231x10k.htm",
+   "adsh": "0001558370-17-001874",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001013880",
+   "ciks": [
+    "0001013880"
+   ],
+   "name": "TELETECH HOLDINGS INC  (TTEC)  (CIK 0001013880)",
+   "sic": "7363",
+   "file_date": "2017-03-16",
+   "period_ending": "2016-12-31",
+   "state": "CO",
+   "doc": "ttec-20161231x10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2017,
+   "sector": "other"
+  },
+  {
+   "id": "0001213900-17-001664:f10k2016_sgblocksinc.htm",
+   "adsh": "0001213900-17-001664",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001023994",
+   "ciks": [
+    "0001023994"
+   ],
+   "name": "SG BLOCKS, INC.  (SGBX)  (CIK 0001023994)",
+   "sic": "5030",
+   "file_date": "2017-02-21",
+   "period_ending": "2016-12-31",
+   "state": "NY",
+   "doc": "f10k2016_sgblocksinc.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2017,
+   "sector": "other"
+  },
+  {
+   "id": "0001053374-17-000008:a2016123110k.htm",
+   "adsh": "0001053374-17-000008",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001053374",
+   "ciks": [
+    "0001053374"
+   ],
+   "name": "IPASS INC  (CIK 0001053374)",
+   "sic": "7374",
+   "file_date": "2017-03-14",
+   "period_ending": "2016-12-31",
+   "state": "CA",
+   "doc": "a2016123110k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2017,
+   "sector": "technology"
+  },
+  {
+   "id": "0001562762-17-000031:hckt-20161230x10k.htm",
+   "adsh": "0001562762-17-000031",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001057379",
+   "ciks": [
+    "0001057379"
+   ],
+   "name": "HACKETT GROUP, INC.  (HCKT)  (CIK 0001057379)",
+   "sic": "8742",
+   "file_date": "2017-03-10",
+   "period_ending": "2016-12-30",
+   "state": "FL",
+   "doc": "hckt-20161230x10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2017,
+   "sector": "other"
+  },
+  {
+   "id": "0001075531-17-000009:pcln-20161231_10k.htm",
+   "adsh": "0001075531-17-000009",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001075531",
+   "ciks": [
+    "0001075531"
+   ],
+   "name": "Priceline Group Inc.  (BKNG)  (CIK 0001075531)",
+   "sic": "7389",
+   "file_date": "2017-02-27",
+   "period_ending": "2016-12-31",
+   "state": "CT",
+   "doc": "pcln-20161231_10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2017,
+   "sector": "other"
+  },
+  {
+   "id": "0001102934-17-000028:form10k.htm",
+   "adsh": "0001102934-17-000028",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001102934",
+   "ciks": [
+    "0001102934"
+   ],
+   "name": "CABOT MICROELECTRONICS CORP  (CIK 0001102934)",
+   "sic": "3674",
+   "file_date": "2017-11-15",
+   "period_ending": "2017-09-30",
+   "state": "IL",
+   "doc": "form10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2017,
+   "sector": "technology"
+  },
+  {
+   "id": "0001109448-17-000008:ablp-20161231x10k.htm",
+   "adsh": "0001109448-17-000008",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001109448",
+   "ciks": [
+    "0001109448"
+   ],
+   "name": "ALLIANCEBERNSTEIN L.P.  (CIK 0001109448)",
+   "sic": "6282",
+   "file_date": "2017-02-14",
+   "period_ending": "2016-12-31",
+   "state": "NY",
+   "doc": "ablp-20161231x10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2017,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0001177394-17-000012:snx-2016x10k.htm",
+   "adsh": "0001177394-17-000012",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001177394",
+   "ciks": [
+    "0001177394"
+   ],
+   "name": "SYNNEX CORP  (SNX)  (CIK 0001177394)",
+   "sic": "5045",
+   "file_date": "2017-01-26",
+   "period_ending": "2016-11-30",
+   "state": "CA",
+   "doc": "snx-2016x10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2017,
+   "sector": "other"
+  },
+  {
+   "id": "0001553350-17-000333:duot_10k.htm",
+   "adsh": "0001553350-17-000333",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001396536",
+   "ciks": [
+    "0001396536"
+   ],
+   "name": "DUOS TECHNOLOGIES GROUP, INC.  (DUOT)  (CIK 0001396536)",
+   "sic": "7372",
+   "file_date": "2017-03-30",
+   "period_ending": "2016-12-31",
+   "state": "FL",
+   "doc": "duot_10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2017,
+   "sector": "technology"
+  },
+  {
+   "id": "0001564590-17-005848:aghi-10k_20161231.htm",
+   "adsh": "0001564590-17-005848",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001404624",
+   "ciks": [
+    "0001404624"
+   ],
+   "name": "Affinion Group Holdings, Inc.  (CIK 0001404624)",
+   "sic": "7389",
+   "file_date": "2017-03-31",
+   "period_ending": "2016-12-31",
+   "state": "CT",
+   "doc": "aghi-10k_20161231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2017,
+   "sector": "other"
+  },
+  {
+   "id": "0001528396-17-000025:gwre-7312017x10k.htm",
+   "adsh": "0001528396-17-000025",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001528396",
+   "ciks": [
+    "0001528396"
+   ],
+   "name": "Guidewire Software, Inc.  (GWRE)  (CIK 0001528396)",
+   "sic": "7372",
+   "file_date": "2017-09-20",
+   "period_ending": "2017-07-31",
+   "state": "CA",
+   "doc": "gwre-7312017x10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2017,
+   "sector": "technology"
+  },
+  {
+   "id": "0001424884-17-000049:cantabio_10k.htm",
+   "adsh": "0001424884-17-000049",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001550518",
+   "ciks": [
+    "0001550518"
+   ],
+   "name": "Cantabio Pharmaceuticals Inc.  (CIK 0001550518)",
+   "sic": "2834",
+   "file_date": "2017-06-30",
+   "period_ending": "2017-03-31",
+   "state": "CA",
+   "doc": "cantabio_10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2017,
+   "sector": "healthcare"
+  },
+  {
+   "id": "0001010549-17-000135:bbox10k123116_r.htm",
+   "adsh": "0001010549-17-000135",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001567900",
+   "ciks": [
+    "0001567900"
+   ],
+   "name": "BLACKBOXSTOCKS INC.  (BLBX)  (CIK 0001567900)",
+   "sic": "5122",
+   "file_date": "2017-04-12",
+   "period_ending": "2016-12-31",
+   "state": "TX",
+   "doc": "bbox10k123116_r.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2017,
+   "sector": "other"
+  },
+  {
+   "id": "0001647339-17-000019:acnholdings831201710k.htm",
+   "adsh": "0001647339-17-000019",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001647339",
+   "ciks": [
+    "0001647339"
+   ],
+   "name": "Accenture Holdings plc  (CIK 0001647339)",
+   "sic": "7389",
+   "file_date": "2017-10-26",
+   "period_ending": "2017-08-31",
+   "state": "L2",
+   "doc": "acnholdings831201710k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2017,
+   "sector": "other"
+  },
+  {
+   "id": "0001558370-17-001253:lexe-20161231x10k.htm",
+   "adsh": "0001558370-17-001253",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001669600",
+   "ciks": [
+    "0001669600"
+   ],
+   "name": "Liberty Expedia Holdings, Inc.  (CIK 0001669600)",
+   "sic": "5960",
+   "file_date": "2017-03-01",
+   "period_ending": "2016-12-31",
+   "state": "CO",
+   "doc": "lexe-20161231x10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2017,
+   "sector": "other"
+  },
+  {
+   "id": "0000055135-18-000006:kelya-20171231x10k.htm",
+   "adsh": "0000055135-18-000006",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000055135",
+   "ciks": [
+    "0000055135"
+   ],
+   "name": "KELLY SERVICES INC  (KELYA, KELYB)  (CIK 0000055135)",
+   "sic": "7363",
+   "file_date": "2018-02-20",
+   "period_ending": "2017-12-31",
+   "state": "MI",
+   "doc": "kelya-20171231x10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2018,
+   "sector": "other"
+  },
+  {
+   "id": "0000319201-18-000045:klac10k2018.htm",
+   "adsh": "0000319201-18-000045",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000319201",
+   "ciks": [
+    "0000319201"
+   ],
+   "name": "KLA TENCOR CORP  (KLAC)  (CIK 0000319201)",
+   "sic": "3827",
+   "file_date": "2018-08-06",
+   "period_ending": "2018-06-30",
+   "state": "CA",
+   "doc": "klac10k2018.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2018,
+   "sector": "healthcare"
+  },
+  {
+   "id": "0000768899-18-000006:tbi10k123117.htm",
+   "adsh": "0000768899-18-000006",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000768899",
+   "ciks": [
+    "0000768899"
+   ],
+   "name": "TrueBlue, Inc.  (TBI)  (CIK 0000768899)",
+   "sic": "7363",
+   "file_date": "2018-02-26",
+   "period_ending": "2017-12-31",
+   "state": "WA",
+   "doc": "tbi10k123117.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2018,
+   "sector": "other"
+  },
+  {
+   "id": "0001728949-18-000095:qcom10-k2018.htm",
+   "adsh": "0001728949-18-000095",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000804328",
+   "ciks": [
+    "0000804328"
+   ],
+   "name": "QUALCOMM INC/DE  (QCOM)  (CIK 0000804328)",
+   "sic": "3663",
+   "file_date": "2018-11-07",
+   "period_ending": "2018-09-30",
+   "state": "CA",
+   "doc": "qcom10-k2018.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2018,
+   "sector": "technology"
+  },
+  {
+   "id": "0001213900-18-004297:f10k2017_sharingeconomy.htm",
+   "adsh": "0001213900-18-004297",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000819926",
+   "ciks": [
+    "0000819926"
+   ],
+   "name": "SHARING ECONOMY INTERNATIONAL INC.  (CIK 0000819926)",
+   "sic": "3550",
+   "file_date": "2018-04-11",
+   "period_ending": "2017-12-31",
+   "state": "F4",
+   "doc": "f10k2017_sharingeconomy.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2018,
+   "sector": "other"
+  },
+  {
+   "id": "0000876883-18-000007:mdca-20171231x10k.htm",
+   "adsh": "0000876883-18-000007",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000876883",
+   "ciks": [
+    "0000876883"
+   ],
+   "name": "MDC PARTNERS INC  (STGW)  (CIK 0000876883)",
+   "sic": "7311",
+   "file_date": "2018-03-01",
+   "period_ending": "2017-12-31",
+   "state": "NY",
+   "doc": "mdca-20171231x10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2018,
+   "sector": "other"
+  },
+  {
+   "id": "0001683168-18-003442:simulations_10k-083118.htm",
+   "adsh": "0001683168-18-003442",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001023459",
+   "ciks": [
+    "0001023459"
+   ],
+   "name": "SIMULATIONS PLUS INC  (SLP)  (CIK 0001023459)",
+   "sic": "7373",
+   "file_date": "2018-11-14",
+   "period_ending": "2018-08-31",
+   "state": "CA",
+   "doc": "simulations_10k-083118.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2018,
+   "sector": "technology"
+  },
+  {
+   "id": "0001136261-18-000158:body10k.htm",
+   "adsh": "0001136261-18-000158",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001023731",
+   "ciks": [
+    "0001023731"
+   ],
+   "name": "8X8 INC /DE/  (EGHT)  (CIK 0001023731)",
+   "sic": "4813",
+   "file_date": "2018-05-30",
+   "period_ending": "2018-03-31",
+   "state": "CA",
+   "doc": "body10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2018,
+   "sector": "other"
+  },
+  {
+   "id": "0001024305-18-000026:coty-063018x10k.htm",
+   "adsh": "0001024305-18-000026",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001024305",
+   "ciks": [
+    "0001024305"
+   ],
+   "name": "COTY INC.  (COTY)  (CIK 0001024305)",
+   "sic": "2844",
+   "file_date": "2018-08-21",
+   "period_ending": "2018-06-30",
+   "state": "NY",
+   "doc": "coty-063018x10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2018,
+   "sector": "other"
+  },
+  {
+   "id": "0001101302-18-000008:entg-12312017x10k.htm",
+   "adsh": "0001101302-18-000008",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001101302",
+   "ciks": [
+    "0001101302"
+   ],
+   "name": "ENTEGRIS INC  (ENTG)  (CIK 0001101302)",
+   "sic": "3089",
+   "file_date": "2018-02-15",
+   "period_ending": "2017-12-31",
+   "state": "MA",
+   "doc": "entg-12312017x10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2018,
+   "sector": "other"
+  },
+  {
+   "id": "0001683168-18-000868:qsenergy_10k-123117.htm",
+   "adsh": "0001683168-18-000868",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001103795",
+   "ciks": [
+    "0001103795"
+   ],
+   "name": "QS Energy, Inc.  (QSEP)  (CIK 0001103795)",
+   "sic": "3533",
+   "file_date": "2018-04-02",
+   "period_ending": "2017-12-31",
+   "state": "TX",
+   "doc": "qsenergy_10k-123117.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2018,
+   "sector": "other"
+  },
+  {
+   "id": "0001185185-18-002178:dbmm20180831_10k.htm",
+   "adsh": "0001185185-18-002178",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001127475",
+   "ciks": [
+    "0001127475"
+   ],
+   "name": "Digital Brand Media & Marketing Group, Inc.  (DBMM)  (CIK 0001127475)",
+   "sic": "7389",
+   "file_date": "2018-12-14",
+   "period_ending": "2018-08-31",
+   "state": "NY",
+   "doc": "dbmm20180831_10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2018,
+   "sector": "other"
+  },
+  {
+   "id": "0001437749-18-004095:cats20171231_10k.htm",
+   "adsh": "0001437749-18-004095",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001136174",
+   "ciks": [
+    "0001136174"
+   ],
+   "name": "CATASYS, INC.  (OTRK, OTRKP)  (CIK 0001136174)",
+   "sic": "8090",
+   "file_date": "2018-03-07",
+   "period_ending": "2017-12-31",
+   "state": "CA",
+   "doc": "cats20171231_10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2018,
+   "sector": "healthcare"
+  },
+  {
+   "id": "0001193125-18-238271:d832608d10k.htm",
+   "adsh": "0001193125-18-238271",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001137789",
+   "ciks": [
+    "0001137789"
+   ],
+   "name": "Seagate Technology plc  (STX)  (CIK 0001137789)",
+   "sic": "3572",
+   "file_date": "2018-08-03",
+   "period_ending": "2018-06-29",
+   "state": "L2",
+   "doc": "d832608d10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2018,
+   "sector": "technology"
+  },
+  {
+   "id": "0001177394-18-000010:snx-2017x10k.htm",
+   "adsh": "0001177394-18-000010",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001177394",
+   "ciks": [
+    "0001177394"
+   ],
+   "name": "SYNNEX CORP  (SNX)  (CIK 0001177394)",
+   "sic": "5045",
+   "file_date": "2018-01-29",
+   "period_ending": "2017-11-30",
+   "state": "CA",
+   "doc": "snx-2017x10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2018,
+   "sector": "other"
+  },
+  {
+   "id": "0001286225-18-000008:rp-20171231x10k.htm",
+   "adsh": "0001286225-18-000008",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001286225",
+   "ciks": [
+    "0001286225"
+   ],
+   "name": "REALPAGE INC  (CIK 0001286225)",
+   "sic": "7372",
+   "file_date": "2018-03-01",
+   "period_ending": "2017-12-31",
+   "state": "TX",
+   "doc": "rp-20171231x10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2018,
+   "sector": "technology"
+  },
+  {
+   "id": "0001324424-18-000006:q42017-10k.htm",
+   "adsh": "0001324424-18-000006",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001324424",
+   "ciks": [
+    "0001324424"
+   ],
+   "name": "Expedia, Inc.  (EXPE)  (CIK 0001324424)",
+   "sic": "4700",
+   "file_date": "2018-02-09",
+   "period_ending": "2017-12-31",
+   "state": "WA",
+   "doc": "q42017-10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2018,
+   "sector": "other"
+  },
+  {
+   "id": "0001468666-18-000011:scwx10-kfy2018x02022018.htm",
+   "adsh": "0001468666-18-000011",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001468666",
+   "ciks": [
+    "0001468666"
+   ],
+   "name": "SecureWorks Corp  (SCWX)  (CIK 0001468666)",
+   "sic": "7372",
+   "file_date": "2018-03-28",
+   "period_ending": "2018-02-02",
+   "state": "GA",
+   "doc": "scwx10-kfy2018x02022018.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2018,
+   "sector": "technology"
+  },
+  {
+   "id": "0001079973-18-000628:hghc_10k-073118.htm",
+   "adsh": "0001079973-18-000628",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001482554",
+   "ciks": [
+    "0001482554"
+   ],
+   "name": "Hartford Great Health Corp.  (HFUS)  (CIK 0001482554)",
+   "sic": "7374",
+   "file_date": "2018-11-14",
+   "period_ending": "2018-07-31",
+   "state": "CA",
+   "doc": "hghc_10k-073118.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2018,
+   "sector": "technology"
+  },
+  {
+   "id": "0001493152-18-003026:form10-k.htm",
+   "adsh": "0001493152-18-003026",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001582982",
+   "ciks": [
+    "0001582982"
+   ],
+   "name": "MEDICAL TRANSCRIPTION BILLING, CORP  (CCLD, CCLDO, CCLDP)  (CIK 0001582982)",
+   "sic": "7372",
+   "file_date": "2018-03-07",
+   "period_ending": "2017-12-31",
+   "state": "NJ",
+   "doc": "form10-k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2018,
+   "sector": "technology"
+  },
+  {
+   "id": "0001609253-18-000041:a2017ye10-kdocument.htm",
+   "adsh": "0001609253-18-000041",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001609253",
+   "ciks": [
+    "0001609253"
+   ],
+   "name": "California Resources Corp  (CRC, CRCQW)  (CIK 0001609253)",
+   "sic": "1311",
+   "file_date": "2018-02-27",
+   "period_ending": "2017-12-31",
+   "state": "CA",
+   "doc": "a2017ye10-kdocument.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2018,
+   "sector": "other"
+  },
+  {
+   "id": "0001614178-18-000095:form10-kfy18.htm",
+   "adsh": "0001614178-18-000095",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001614178",
+   "ciks": [
+    "0001614178"
+   ],
+   "name": "Yext, Inc.  (YEXT)  (CIK 0001614178)",
+   "sic": "7374",
+   "file_date": "2018-03-16",
+   "period_ending": "2018-01-31",
+   "state": "NY",
+   "doc": "form10-kfy18.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2018,
+   "sector": "technology"
+  },
+  {
+   "id": "0001564590-18-025456:sgh-10k_20180831.htm",
+   "adsh": "0001564590-18-025456",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001616533",
+   "ciks": [
+    "0001616533"
+   ],
+   "name": "SMART Global Holdings, Inc.  (SGH)  (CIK 0001616533)",
+   "sic": "3674",
+   "file_date": "2018-10-30",
+   "period_ending": "2018-08-31",
+   "state": "CA",
+   "doc": "sgh-10k_20180831.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2018,
+   "sector": "technology"
+  },
+  {
+   "id": "0001640334-18-002371:taqr_10k.htm",
+   "adsh": "0001640334-18-002371",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001656053",
+   "ciks": [
+    "0001656053"
+   ],
+   "name": "TRAQER CORP  (CIK 0001656053)",
+   "sic": "7372",
+   "file_date": "2018-12-14",
+   "period_ending": "2018-08-31",
+   "state": "F4",
+   "doc": "taqr_10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2018,
+   "sector": "technology"
+  },
+  {
+   "id": "0001493152-18-004557:form10-k.htm",
+   "adsh": "0001493152-18-004557",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001688667",
+   "ciks": [
+    "0001688667"
+   ],
+   "name": "Frankly Inc  (CIK 0001688667)",
+   "sic": "7370",
+   "file_date": "2018-04-02",
+   "period_ending": "2017-12-31",
+   "state": "CA",
+   "doc": "form10-k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2018,
+   "sector": "technology"
+  },
+  {
+   "id": "0000004962-19-000018:axp201810k.htm",
+   "adsh": "0000004962-19-000018",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000004962",
+   "ciks": [
+    "0000004962"
+   ],
+   "name": "AMERICAN EXPRESS CO  (AXP)  (CIK 0000004962)",
+   "sic": "6199",
+   "file_date": "2019-02-13",
+   "period_ending": "2018-12-31",
+   "state": "NY",
+   "doc": "axp201810k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2019,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0000104889-19-000013:d10k.htm",
+   "adsh": "0000104889-19-000013",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000104889",
+   "ciks": [
+    "0000104889"
+   ],
+   "name": "Graham Holdings Co  (GHC)  (CIK 0000104889)",
+   "sic": "8200",
+   "file_date": "2019-02-25",
+   "period_ending": "2018-12-31",
+   "state": "VA",
+   "doc": "d10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2019,
+   "sector": "other"
+  },
+  {
+   "id": "0001628280-19-001488:rhi10k123118.htm",
+   "adsh": "0001628280-19-001488",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000315213",
+   "ciks": [
+    "0000315213"
+   ],
+   "name": "HALF ROBERT INTERNATIONAL INC /DE/  (RHI)  (CIK 0000315213)",
+   "sic": "7363",
+   "file_date": "2019-02-15",
+   "period_ending": "2018-12-31",
+   "state": "CA",
+   "doc": "rhi10k123118.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2019,
+   "sector": "other"
+  },
+  {
+   "id": "0001564590-19-044022:asys-10k_20190930.htm",
+   "adsh": "0001564590-19-044022",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000720500",
+   "ciks": [
+    "0000720500"
+   ],
+   "name": "AMTECH SYSTEMS INC  (ASYS)  (CIK 0000720500)",
+   "sic": "3559",
+   "file_date": "2019-11-21",
+   "period_ending": "2019-09-30",
+   "state": "AZ",
+   "doc": "asys-10k_20190930.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2019,
+   "sector": "other"
+  },
+  {
+   "id": "0001193125-19-057343:d678844d10k.htm",
+   "adsh": "0001193125-19-057343",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000751978",
+   "ciks": [
+    "0000751978"
+   ],
+   "name": "VICOR CORP  (VICR)  (CIK 0000751978)",
+   "sic": "3679",
+   "file_date": "2019-02-28",
+   "period_ending": "2018-12-31",
+   "state": "MA",
+   "doc": "d678844d10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2019,
+   "sector": "technology"
+  },
+  {
+   "id": "0001564590-19-003788:thg-10k_20181231.htm",
+   "adsh": "0001564590-19-003788",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000944695",
+   "ciks": [
+    "0000944695"
+   ],
+   "name": "HANOVER INSURANCE GROUP, INC.  (THG)  (CIK 0000944695)",
+   "sic": "6331",
+   "file_date": "2019-02-22",
+   "period_ending": "2018-12-31",
+   "state": "MA",
+   "doc": "thg-10k_20181231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2019,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0001104659-19-019960:a19-30094_110k.htm",
+   "adsh": "0001104659-19-019960",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001052054",
+   "ciks": [
+    "0001052054"
+   ],
+   "name": "EVOLVING SYSTEMS INC  (EVOL)  (CIK 0001052054)",
+   "sic": "7371",
+   "file_date": "2019-04-04",
+   "period_ending": "2018-12-31",
+   "state": "CO",
+   "doc": "a19-30094_110k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2019,
+   "sector": "technology"
+  },
+  {
+   "id": "0001213900-19-005130:f10k2018_cyrenltd.htm",
+   "adsh": "0001213900-19-005130",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001084577",
+   "ciks": [
+    "0001084577"
+   ],
+   "name": "CYREN Ltd.  (CIK 0001084577)",
+   "sic": "7372",
+   "file_date": "2019-03-28",
+   "period_ending": "2018-12-31",
+   "state": "L3",
+   "doc": "f10k2018_cyrenltd.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2019,
+   "sector": "technology"
+  },
+  {
+   "id": "0001131554-19-000024:sncr-12311810xk.htm",
+   "adsh": "0001131554-19-000024",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001131554",
+   "ciks": [
+    "0001131554"
+   ],
+   "name": "SYNCHRONOSS TECHNOLOGIES INC  (SNCR, SNCRL)  (CIK 0001131554)",
+   "sic": "7371",
+   "file_date": "2019-03-18",
+   "period_ending": "2018-12-31",
+   "state": "NJ",
+   "doc": "sncr-12311810xk.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2019,
+   "sector": "technology"
+  },
+  {
+   "id": "0001558370-19-005297:vrtu-20190331x10k.htm",
+   "adsh": "0001558370-19-005297",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001207074",
+   "ciks": [
+    "0001207074"
+   ],
+   "name": "VIRTUSA CORP  (CIK 0001207074)",
+   "sic": "7371",
+   "file_date": "2019-05-24",
+   "period_ending": "2019-03-31",
+   "state": "MA",
+   "doc": "vrtu-20190331x10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2019,
+   "sector": "technology"
+  },
+  {
+   "id": "0001303652-19-000007:a10k2018.htm",
+   "adsh": "0001303652-19-000007",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001303652",
+   "ciks": [
+    "0001303652"
+   ],
+   "name": "Tableau Software Inc  (CIK 0001303652)",
+   "sic": "7372",
+   "file_date": "2019-02-22",
+   "period_ending": "2018-12-31",
+   "state": "WA",
+   "doc": "a10k2018.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2019,
+   "sector": "technology"
+  },
+  {
+   "id": "0001213900-19-006667:f10k2018_theolbgroupinc.htm",
+   "adsh": "0001213900-19-006667",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001314196",
+   "ciks": [
+    "0001314196"
+   ],
+   "name": "OLB GROUP, INC.  (OLB)  (CIK 0001314196)",
+   "sic": "7389",
+   "file_date": "2019-04-18",
+   "period_ending": "2018-12-31",
+   "state": "NY",
+   "doc": "f10k2018_theolbgroupinc.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2019,
+   "sector": "other"
+  },
+  {
+   "id": "0001564590-19-006063:ssti-10k_20181231.htm",
+   "adsh": "0001564590-19-006063",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001351636",
+   "ciks": [
+    "0001351636"
+   ],
+   "name": "SHOTSPOTTER, INC  (SSTI)  (CIK 0001351636)",
+   "sic": "7372",
+   "file_date": "2019-03-04",
+   "period_ending": "2018-12-31",
+   "state": "CA",
+   "doc": "ssti-10k_20181231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2019,
+   "sector": "technology"
+  },
+  {
+   "id": "0001144204-19-016590:tv516937_10k.htm",
+   "adsh": "0001144204-19-016590",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001368308",
+   "ciks": [
+    "0001368308"
+   ],
+   "name": "Highpower International, Inc.  (CIK 0001368308)",
+   "sic": "3690",
+   "file_date": "2019-03-28",
+   "period_ending": "2018-12-31",
+   "state": "F4",
+   "doc": "tv516937_10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2019,
+   "sector": "other"
+  },
+  {
+   "id": "0001564590-19-008669:box-10k_20190131.htm",
+   "adsh": "0001564590-19-008669",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001372612",
+   "ciks": [
+    "0001372612"
+   ],
+   "name": "BOX INC  (BOX)  (CIK 0001372612)",
+   "sic": "7372",
+   "file_date": "2019-03-20",
+   "period_ending": "2019-01-31",
+   "state": "CA",
+   "doc": "box-10k_20190131.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2019,
+   "sector": "technology"
+  },
+  {
+   "id": "0001683168-19-000735:envision_10k-123118.htm",
+   "adsh": "0001683168-19-000735",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001398805",
+   "ciks": [
+    "0001398805"
+   ],
+   "name": "Envision Solar International, Inc.  (BEEM)  (CIK 0001398805)",
+   "sic": "3674",
+   "file_date": "2019-03-20",
+   "period_ending": "2018-12-31",
+   "state": "CA",
+   "doc": "envision_10k-123118.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2019,
+   "sector": "technology"
+  },
+  {
+   "id": "0001402057-19-000046:cdw-20181231x10k.htm",
+   "adsh": "0001402057-19-000046",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001402057",
+   "ciks": [
+    "0001402057"
+   ],
+   "name": "CDW Corp  (CDW)  (CIK 0001402057)",
+   "sic": "5961",
+   "file_date": "2019-02-27",
+   "period_ending": "2018-12-31",
+   "state": "IL",
+   "doc": "cdw-20181231x10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2019,
+   "sector": "other"
+  },
+  {
+   "id": "0001463172-19-000065:zen_10-kx2018.htm",
+   "adsh": "0001463172-19-000065",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001463172",
+   "ciks": [
+    "0001463172"
+   ],
+   "name": "Zendesk, Inc.  (CIK 0001463172)",
+   "sic": "7374",
+   "file_date": "2019-02-14",
+   "period_ending": "2018-12-31",
+   "state": "CA",
+   "doc": "zen_10-kx2018.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2019,
+   "sector": "technology"
+  },
+  {
+   "id": "0001467373-19-000339:acn831201910k.htm",
+   "adsh": "0001467373-19-000339",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001467373",
+   "ciks": [
+    "0001467373"
+   ],
+   "name": "Accenture plc  (ACN)  (CIK 0001467373)",
+   "sic": "7389",
+   "file_date": "2019-10-29",
+   "period_ending": "2019-08-31",
+   "state": "L2",
+   "doc": "acn831201910k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2019,
+   "sector": "other"
+  },
+  {
+   "id": "0001213900-19-026720:f10k2019_neuroonemedical.htm",
+   "adsh": "0001213900-19-026720",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001500198",
+   "ciks": [
+    "0001500198"
+   ],
+   "name": "NEUROONE MEDICAL TECHNOLOGIES Corp  (NMTC)  (CIK 0001500198)",
+   "sic": "3841",
+   "file_date": "2019-12-20",
+   "period_ending": "2019-09-30",
+   "state": "MN",
+   "doc": "f10k2019_neuroonemedical.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2019,
+   "sector": "healthcare"
+  },
+  {
+   "id": "0001501585-19-000005:hii201810-k.htm",
+   "adsh": "0001501585-19-000005",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001501585",
+   "ciks": [
+    "0001501585"
+   ],
+   "name": "HUNTINGTON INGALLS INDUSTRIES, INC.  (HII)  (CIK 0001501585)",
+   "sic": "3730",
+   "file_date": "2019-02-14",
+   "period_ending": "2018-12-31",
+   "state": "VA",
+   "doc": "hii201810-k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2019,
+   "sector": "other"
+  },
+  {
+   "id": "0001628280-19-003670:fy-19cldr10k.htm",
+   "adsh": "0001628280-19-003670",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001535379",
+   "ciks": [
+    "0001535379"
+   ],
+   "name": "Cloudera, Inc.  (CIK 0001535379)",
+   "sic": "7372",
+   "file_date": "2019-03-29",
+   "period_ending": "2019-01-31",
+   "state": "CA",
+   "doc": "fy-19cldr10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2019,
+   "sector": "technology"
+  },
+  {
+   "id": "0001010549-19-000088:blackbox10k.htm",
+   "adsh": "0001010549-19-000088",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001567900",
+   "ciks": [
+    "0001567900"
+   ],
+   "name": "BLACKBOXSTOCKS INC.  (BLBX)  (CIK 0001567900)",
+   "sic": "7371",
+   "file_date": "2019-04-19",
+   "period_ending": "2018-12-31",
+   "state": "TX",
+   "doc": "blackbox10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2019,
+   "sector": "technology"
+  },
+  {
+   "id": "0001185185-19-000489:brainsci20181231_10k.htm",
+   "adsh": "0001185185-19-000489",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001662382",
+   "ciks": [
+    "0001662382"
+   ],
+   "name": "BRAIN SCIENTIFIC INC.  (CIK 0001662382)",
+   "sic": "3841",
+   "file_date": "2019-04-01",
+   "period_ending": "2018-12-31",
+   "state": "NY",
+   "doc": "brainsci20181231_10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2019,
+   "sector": "healthcare"
+  },
+  {
+   "id": "0001047469-19-000792:a2237767z10-k.htm",
+   "adsh": "0001047469-19-000792",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001739940",
+   "ciks": [
+    "0001739940"
+   ],
+   "name": "Cigna Corp  (CI)  (CIK 0001739940)",
+   "sic": "6324",
+   "file_date": "2019-02-28",
+   "period_ending": "2018-12-31",
+   "state": "CT",
+   "doc": "a2237767z10-k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2019,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0000039263-20-000010:a20191231-10k.htm",
+   "adsh": "0000039263-20-000010",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000039263",
+   "ciks": [
+    "0000039263"
+   ],
+   "name": "CULLEN/FROST BANKERS, INC.  (CFR, CFR-PB)  (CIK 0000039263)",
+   "sic": "6021",
+   "file_date": "2020-02-04",
+   "period_ending": "2019-12-31",
+   "state": "TX",
+   "doc": "a20191231-10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2020,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0000040533-20-000015:gd-2019123110k.htm",
+   "adsh": "0000040533-20-000015",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000040533",
+   "ciks": [
+    "0000040533"
+   ],
+   "name": "GENERAL DYNAMICS CORP  (GD)  (CIK 0000040533)",
+   "sic": "3730",
+   "file_date": "2020-02-10",
+   "period_ending": "2019-12-31",
+   "state": "VA",
+   "doc": "gd-2019123110k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2020,
+   "sector": "other"
+  },
+  {
+   "id": "0000055135-20-000006:kelya-20191229.htm",
+   "adsh": "0000055135-20-000006",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000055135",
+   "ciks": [
+    "0000055135"
+   ],
+   "name": "KELLY SERVICES INC  (KELYA, KELYB)  (CIK 0000055135)",
+   "sic": "7363",
+   "file_date": "2020-02-13",
+   "period_ending": "2019-12-29",
+   "state": "MI",
+   "doc": "kelya-20191229.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2020,
+   "sector": "other"
+  },
+  {
+   "id": "0000768899-20-000063:tbi10k122919.htm",
+   "adsh": "0000768899-20-000063",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000768899",
+   "ciks": [
+    "0000768899"
+   ],
+   "name": "TrueBlue, Inc.  (TBI)  (CIK 0000768899)",
+   "sic": "7363",
+   "file_date": "2020-02-24",
+   "period_ending": "2019-12-29",
+   "state": "WA",
+   "doc": "tbi10k122919.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2020,
+   "sector": "other"
+  },
+  {
+   "id": "0000877212-20-000006:a10k12312019zebra.htm",
+   "adsh": "0000877212-20-000006",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000877212",
+   "ciks": [
+    "0000877212"
+   ],
+   "name": "ZEBRA TECHNOLOGIES CORP  (ZBRA)  (CIK 0000877212)",
+   "sic": "3560",
+   "file_date": "2020-02-13",
+   "period_ending": "2019-12-31",
+   "state": "IL",
+   "doc": "a10k12312019zebra.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2020,
+   "sector": "other"
+  },
+  {
+   "id": "0000913144-20-000024:rnr10-k2019.htm",
+   "adsh": "0000913144-20-000024",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000913144",
+   "ciks": [
+    "0000913144"
+   ],
+   "name": "RENAISSANCERE HOLDINGS LTD  (RNR, RNR-PF, RNR-PG)  (CIK 0000913144)",
+   "sic": "6331",
+   "file_date": "2020-02-07",
+   "period_ending": "2019-12-31",
+   "state": "D0",
+   "doc": "rnr10-k2019.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2020,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0001015780-20-000065:etfc-2019123110k.htm",
+   "adsh": "0001015780-20-000065",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001015780",
+   "ciks": [
+    "0001015780"
+   ],
+   "name": "E TRADE FINANCIAL CORP  (CIK 0001015780)",
+   "sic": "6035",
+   "file_date": "2020-02-19",
+   "period_ending": "2019-12-31",
+   "state": "VA",
+   "doc": "etfc-2019123110k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2020,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0001564590-20-032775:fdx-10k_20200531.htm",
+   "adsh": "0001564590-20-032775",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001048911",
+   "ciks": [
+    "0001048911"
+   ],
+   "name": "FEDEX CORP  (FDX)  (CIK 0001048911)",
+   "sic": "4513",
+   "file_date": "2020-07-20",
+   "period_ending": "2020-05-31",
+   "state": "TN",
+   "doc": "fdx-10k_20200531.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2020,
+   "sector": "other"
+  },
+  {
+   "id": "0001628280-20-007086:inap-123119x10k.htm",
+   "adsh": "0001628280-20-007086",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001056386",
+   "ciks": [
+    "0001056386"
+   ],
+   "name": "Internap Corp  (CIK 0001056386)",
+   "sic": "7370",
+   "file_date": "2020-05-08",
+   "period_ending": "2019-12-31",
+   "state": "VA",
+   "doc": "inap-123119x10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2020,
+   "sector": "technology"
+  },
+  {
+   "id": "0001213900-20-013926:f10k2019_futurefintech.htm",
+   "adsh": "0001213900-20-013926",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001066923",
+   "ciks": [
+    "0001066923"
+   ],
+   "name": "Future FinTech Group Inc.  (FTFT)  (CIK 0001066923)",
+   "sic": "2030",
+   "file_date": "2020-06-02",
+   "period_ending": "2019-12-31",
+   "state": "F4",
+   "doc": "f10k2019_futurefintech.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2020,
+   "sector": "other"
+  },
+  {
+   "id": "0001090872-20-000020:a-20201031.htm",
+   "adsh": "0001090872-20-000020",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001090872",
+   "ciks": [
+    "0001090872"
+   ],
+   "name": "AGILENT TECHNOLOGIES, INC.  (A)  (CIK 0001090872)",
+   "sic": "3826",
+   "file_date": "2020-12-18",
+   "period_ending": "2020-10-31",
+   "state": "CA",
+   "doc": "a-20201031.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2020,
+   "sector": "healthcare"
+  },
+  {
+   "id": "0001562762-20-000055:meli-20191231x10k.htm",
+   "adsh": "0001562762-20-000055",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001099590",
+   "ciks": [
+    "0001099590"
+   ],
+   "name": "MERCADOLIBRE INC  (MELI)  (CIK 0001099590)",
+   "sic": "7389",
+   "file_date": "2020-02-14",
+   "period_ending": "2019-12-31",
+   "state": "C1",
+   "doc": "meli-20191231x10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2020,
+   "sector": "other"
+  },
+  {
+   "id": "0001564590-20-041201:aray-10k_20200630.htm",
+   "adsh": "0001564590-20-041201",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001138723",
+   "ciks": [
+    "0001138723"
+   ],
+   "name": "ACCURAY INC  (ARAY)  (CIK 0001138723)",
+   "sic": "3841",
+   "file_date": "2020-08-25",
+   "period_ending": "2020-06-30",
+   "state": "CA",
+   "doc": "aray-10k_20200630.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2020,
+   "sector": "healthcare"
+  },
+  {
+   "id": "0001213900-20-016652:f10k2019_comsovereignhold.htm",
+   "adsh": "0001213900-20-016652",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001178727",
+   "ciks": [
+    "0001178727"
+   ],
+   "name": "ComSovereign Holding Corp.  (COMS)  (CIK 0001178727)",
+   "sic": "3721",
+   "file_date": "2020-07-06",
+   "period_ending": "2019-12-31",
+   "state": "FL",
+   "doc": "f10k2019_comsovereignhold.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2020,
+   "sector": "other"
+  },
+  {
+   "id": "0001388430-20-000003:cai-20191231x10k.htm",
+   "adsh": "0001388430-20-000003",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001388430",
+   "ciks": [
+    "0001388430"
+   ],
+   "name": "CAI International, Inc.  (CIK 0001388430)",
+   "sic": "7359",
+   "file_date": "2020-03-05",
+   "period_ending": "2019-12-31",
+   "state": null,
+   "doc": "cai-20191231x10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2020,
+   "sector": "other"
+  },
+  {
+   "id": "0001564590-20-013196:oss-10k_20191231.htm",
+   "adsh": "0001564590-20-013196",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001394056",
+   "ciks": [
+    "0001394056"
+   ],
+   "name": "ONE STOP SYSTEMS, INC.  (OSS)  (CIK 0001394056)",
+   "sic": "3571",
+   "file_date": "2020-03-26",
+   "period_ending": "2019-12-31",
+   "state": "CA",
+   "doc": "oss-10k_20191231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2020,
+   "sector": "technology"
+  },
+  {
+   "id": "0001628280-20-004133:pstg-20200202.htm",
+   "adsh": "0001628280-20-004133",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001474432",
+   "ciks": [
+    "0001474432"
+   ],
+   "name": "Pure Storage, Inc.  (PSTG)  (CIK 0001474432)",
+   "sic": "3572",
+   "file_date": "2020-03-27",
+   "period_ending": "2020-02-02",
+   "state": "CA",
+   "doc": "pstg-20200202.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2020,
+   "sector": "technology"
+  },
+  {
+   "id": "0001564590-20-006830:adpt-10k_20191231.htm",
+   "adsh": "0001564590-20-006830",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001478320",
+   "ciks": [
+    "0001478320"
+   ],
+   "name": "Adaptive Biotechnologies Corp  (ADPT)  (CIK 0001478320)",
+   "sic": "2836",
+   "file_date": "2020-02-26",
+   "period_ending": "2019-12-31",
+   "state": "WA",
+   "doc": "adpt-10k_20191231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2020,
+   "sector": "healthcare"
+  },
+  {
+   "id": "0001161697-20-000334:form_10-k.htm",
+   "adsh": "0001161697-20-000334",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001498148",
+   "ciks": [
+    "0001498148"
+   ],
+   "name": "Artificial Intelligence Technology Solutions Inc.  (AITX)  (CIK 0001498148)",
+   "sic": "3714",
+   "file_date": "2020-07-28",
+   "period_ending": "2020-02-29",
+   "state": "NV",
+   "doc": "form_10-k.htm",
+   "n_docs_matched": 4,
+   "file_types": [
+    "10-K",
+    "EX-21",
+    "EX-31",
+    "EX-32"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2020,
+   "sector": "other"
+  },
+  {
+   "id": "0001506293-20-000013:pins-20191231.htm",
+   "adsh": "0001506293-20-000013",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001506293",
+   "ciks": [
+    "0001506293"
+   ],
+   "name": "PINTEREST, INC.  (PINS)  (CIK 0001506293)",
+   "sic": "7370",
+   "file_date": "2020-02-07",
+   "period_ending": "2019-12-31",
+   "state": "CA",
+   "doc": "pins-20191231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2020,
+   "sector": "technology"
+  },
+  {
+   "id": "0001524223-20-000015:mn201910-k_12312019.htm",
+   "adsh": "0001524223-20-000015",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001524223",
+   "ciks": [
+    "0001524223"
+   ],
+   "name": "Manning & Napier, Inc.  (CIK 0001524223)",
+   "sic": "6282",
+   "file_date": "2020-03-13",
+   "period_ending": "2019-12-31",
+   "state": "NY",
+   "doc": "mn201910-k_12312019.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2020,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0001538716-20-000005:oportunannual10-kxdec2.htm",
+   "adsh": "0001538716-20-000005",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001538716",
+   "ciks": [
+    "0001538716"
+   ],
+   "name": "Oportun Financial Corp  (OPRT)  (CIK 0001538716)",
+   "sic": "6199",
+   "file_date": "2020-02-28",
+   "period_ending": "2019-12-31",
+   "state": "CA",
+   "doc": "oportunannual10-kxdec2.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2020,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0001584423-20-000006:a10kdocument2019.htm",
+   "adsh": "0001584423-20-000006",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001584423",
+   "ciks": [
+    "0001584423"
+   ],
+   "name": "APX Group Holdings, Inc.  (CIK 0001584423)",
+   "sic": "7380",
+   "file_date": "2020-03-09",
+   "period_ending": "2019-12-31",
+   "state": "UT",
+   "doc": "a10kdocument2019.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2020,
+   "sector": "other"
+  },
+  {
+   "id": "0001104659-20-061643:tm205392-1_10k.htm",
+   "adsh": "0001104659-20-061643",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001662684",
+   "ciks": [
+    "0001662684"
+   ],
+   "name": "KULR Technology Group, Inc.  (KULR)  (CIK 0001662684)",
+   "sic": "3670",
+   "file_date": "2020-05-14",
+   "period_ending": "2019-12-31",
+   "state": "CA",
+   "doc": "tm205392-1_10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2020,
+   "sector": "technology"
+  },
+  {
+   "id": "0001726978-20-000088:gshd-20191231.htm",
+   "adsh": "0001726978-20-000088",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001726978",
+   "ciks": [
+    "0001726978"
+   ],
+   "name": "Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)",
+   "sic": "6411",
+   "file_date": "2020-03-16",
+   "period_ending": "2019-12-31",
+   "state": "TX",
+   "doc": "gshd-20191231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2020,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0000015615-21-000006:mtz-20201231.htm",
+   "adsh": "0000015615-21-000006",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000015615",
+   "ciks": [
+    "0000015615"
+   ],
+   "name": "MASTEC INC  (MTZ)  (CIK 0000015615)",
+   "sic": "1623",
+   "file_date": "2021-02-25",
+   "period_ending": "2020-12-31",
+   "state": "FL",
+   "doc": "mtz-20201231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2021,
+   "sector": "other"
+  },
+  {
+   "id": "0000019617-21-000236:jpm-20201231.htm",
+   "adsh": "0000019617-21-000236",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000019617",
+   "ciks": [
+    "0000019617"
+   ],
+   "name": "JPMORGAN CHASE & CO  (JPM, AMJB, JPM-PC, JPM-PD, JPM-PJ, JPM-PK, JPM-PL, JPM-PM)  (CIK 0000019617)",
+   "sic": "6021",
+   "file_date": "2021-02-23",
+   "period_ending": "2020-12-31",
+   "state": "NY",
+   "doc": "jpm-20201231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2021,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0001564590-21-012830:ctg-10k_20201231.htm",
+   "adsh": "0001564590-21-012830",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000023111",
+   "ciks": [
+    "0000023111"
+   ],
+   "name": "COMPUTER TASK GROUP INC  (CIK 0000023111)",
+   "sic": "7371",
+   "file_date": "2021-03-12",
+   "period_ending": "2020-12-31",
+   "state": "NY",
+   "doc": "ctg-10k_20201231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2021,
+   "sector": "technology"
+  },
+  {
+   "id": "0000064803-21-000011:cvs-20201231.htm",
+   "adsh": "0000064803-21-000011",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000064803",
+   "ciks": [
+    "0000064803"
+   ],
+   "name": "CVS HEALTH Corp  (CVS)  (CIK 0000064803)",
+   "sic": "5912",
+   "file_date": "2021-02-16",
+   "period_ending": "2020-12-31",
+   "state": "RI",
+   "doc": "cvs-20201231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2021,
+   "sector": "healthcare"
+  },
+  {
+   "id": "0001564590-21-057221:osk-10k_20210930.htm",
+   "adsh": "0001564590-21-057221",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000775158",
+   "ciks": [
+    "0000775158"
+   ],
+   "name": "OSHKOSH CORP  (OSK)  (CIK 0000775158)",
+   "sic": "3711",
+   "file_date": "2021-11-16",
+   "period_ending": "2021-09-30",
+   "state": "WI",
+   "doc": "osk-10k_20210930.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2021,
+   "sector": "other"
+  },
+  {
+   "id": "0000829323-21-000010:inuv-20201231.htm",
+   "adsh": "0000829323-21-000010",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000829323",
+   "ciks": [
+    "0000829323"
+   ],
+   "name": "Inuvo, Inc.  (INUV)  (CIK 0000829323)",
+   "sic": "7310",
+   "file_date": "2021-02-11",
+   "period_ending": "2020-12-31",
+   "state": "AR",
+   "doc": "inuv-20201231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2021,
+   "sector": "other"
+  },
+  {
+   "id": "0000914025-21-000019:plt-20210403.htm",
+   "adsh": "0000914025-21-000019",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000914025",
+   "ciks": [
+    "0000914025"
+   ],
+   "name": "PLANTRONICS INC /CA/  (CIK 0000914025)",
+   "sic": "3661",
+   "file_date": "2021-05-18",
+   "period_ending": "2021-04-03",
+   "state": "CA",
+   "doc": "plt-20210403.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2021,
+   "sector": "technology"
+  },
+  {
+   "id": "0000929940-21-000060:azpn-20210630.htm",
+   "adsh": "0000929940-21-000060",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000929940",
+   "ciks": [
+    "0000929940"
+   ],
+   "name": "ASPEN TECHNOLOGY INC /DE/  (CIK 0000929940)",
+   "sic": "7371",
+   "file_date": "2021-08-18",
+   "period_ending": "2021-06-30",
+   "state": "MA",
+   "doc": "azpn-20210630.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2021,
+   "sector": "technology"
+  },
+  {
+   "id": "0000936395-21-000054:cien-20211030.htm",
+   "adsh": "0000936395-21-000054",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000936395",
+   "ciks": [
+    "0000936395"
+   ],
+   "name": "CIENA CORP  (CIEN)  (CIK 0000936395)",
+   "sic": "3661",
+   "file_date": "2021-12-17",
+   "period_ending": "2021-10-30",
+   "state": "MD",
+   "doc": "cien-20211030.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2021,
+   "sector": "technology"
+  },
+  {
+   "id": "0001564590-21-008099:prdo-10k_20201231.htm",
+   "adsh": "0001564590-21-008099",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001046568",
+   "ciks": [
+    "0001046568"
+   ],
+   "name": "PERDOCEO EDUCATION Corp  (PRDO)  (CIK 0001046568)",
+   "sic": "8200",
+   "file_date": "2021-02-24",
+   "period_ending": "2020-12-31",
+   "state": "IL",
+   "doc": "prdo-10k_20201231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2021,
+   "sector": "other"
+  },
+  {
+   "id": "0001553350-21-000852:ghst_10k-063021.htm",
+   "adsh": "0001553350-21-000852",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001121795",
+   "ciks": [
+    "0001121795"
+   ],
+   "name": "GHST World Inc.  (GHST)  (CIK 0001121795)",
+   "sic": "7372",
+   "file_date": "2021-09-28",
+   "period_ending": "2021-06-30",
+   "state": "NY",
+   "doc": "ghst_10k-063021.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2021,
+   "sector": "technology"
+  },
+  {
+   "id": "0001654954-21-003300:hqi_10k.htm",
+   "adsh": "0001654954-21-003300",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001140102",
+   "ciks": [
+    "0001140102"
+   ],
+   "name": "HireQuest, Inc.  (HQI)  (CIK 0001140102)",
+   "sic": "7363",
+   "file_date": "2021-03-25",
+   "period_ending": "2020-12-31",
+   "state": "SC",
+   "doc": "hqi_10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2021,
+   "sector": "other"
+  },
+  {
+   "id": "0001683168-21-001010:healthdis_10k-123120.htm",
+   "adsh": "0001683168-21-001010",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001141788",
+   "ciks": [
+    "0001141788"
+   ],
+   "name": "HEALTH DISCOVERY CORP  (HDVY)  (CIK 0001141788)",
+   "sic": "6794",
+   "file_date": "2021-03-19",
+   "period_ending": "2020-12-31",
+   "state": "GA",
+   "doc": "healthdis_10k-123120.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2021,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0001564590-21-006981:mktx-10k_20201231.htm",
+   "adsh": "0001564590-21-006981",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001278021",
+   "ciks": [
+    "0001278021"
+   ],
+   "name": "MARKETAXESS HOLDINGS INC  (MKTX)  (CIK 0001278021)",
+   "sic": "6211",
+   "file_date": "2021-02-19",
+   "period_ending": "2020-12-31",
+   "state": "NY",
+   "doc": "mktx-10k_20201231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2021,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0001477932-21-002126:vnue_10k.htm",
+   "adsh": "0001477932-21-002126",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001376804",
+   "ciks": [
+    "0001376804"
+   ],
+   "name": "VNUE, Inc.  (VNUE)  (CIK 0001376804)",
+   "sic": "7822",
+   "file_date": "2021-04-08",
+   "period_ending": "2020-12-31",
+   "state": "NY",
+   "doc": "vnue_10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2021,
+   "sector": "other"
+  },
+  {
+   "id": "0001433195-21-000024:appf-20201231.htm",
+   "adsh": "0001433195-21-000024",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001433195",
+   "ciks": [
+    "0001433195"
+   ],
+   "name": "APPFOLIO INC  (APPF)  (CIK 0001433195)",
+   "sic": "7372",
+   "file_date": "2021-03-01",
+   "period_ending": "2020-12-31",
+   "state": "CA",
+   "doc": "appf-20201231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2021,
+   "sector": "technology"
+  },
+  {
+   "id": "0001562762-21-000136:mfon-20201231x10k.htm",
+   "adsh": "0001562762-21-000136",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001447380",
+   "ciks": [
+    "0001447380"
+   ],
+   "name": "MOBIVITY HOLDINGS CORP.  (MFON)  (CIK 0001447380)",
+   "sic": "7372",
+   "file_date": "2021-03-30",
+   "period_ending": "2020-12-31",
+   "state": "AZ",
+   "doc": "mfon-20201231x10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2021,
+   "sector": "technology"
+  },
+  {
+   "id": "0001564590-21-048036:inta-10k_20210630.htm",
+   "adsh": "0001564590-21-048036",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001565687",
+   "ciks": [
+    "0001565687"
+   ],
+   "name": "Intapp, Inc.  (INTA)  (CIK 0001565687)",
+   "sic": "7372",
+   "file_date": "2021-09-15",
+   "period_ending": "2021-06-30",
+   "state": "CA",
+   "doc": "inta-10k_20210630.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2021,
+   "sector": "technology"
+  },
+  {
+   "id": "0001493152-21-012474:form10-k.htm",
+   "adsh": "0001493152-21-012474",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001614826",
+   "ciks": [
+    "0001614826"
+   ],
+   "name": "Edge Data Solutions, Inc.  (CIK 0001614826)",
+   "sic": "3790",
+   "file_date": "2021-05-21",
+   "period_ending": "2020-12-31",
+   "state": "GA",
+   "doc": "form10-k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2021,
+   "sector": "other"
+  },
+  {
+   "id": "0001651094-21-000016:elvt-20201231.htm",
+   "adsh": "0001651094-21-000016",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001651094",
+   "ciks": [
+    "0001651094"
+   ],
+   "name": "Elevate Credit, Inc.  (CIK 0001651094)",
+   "sic": "6199",
+   "file_date": "2021-02-26",
+   "period_ending": "2020-12-31",
+   "state": "TX",
+   "doc": "elvt-20201231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2021,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0001654954-21-004259:tptw_10k.htm",
+   "adsh": "0001654954-21-004259",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001661039",
+   "ciks": [
+    "0001661039"
+   ],
+   "name": "TPT GLOBAL TECH, INC.  (TPTW)  (CIK 0001661039)",
+   "sic": "4899",
+   "file_date": "2021-04-15",
+   "period_ending": "2020-12-31",
+   "state": "CA",
+   "doc": "tptw_10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2021,
+   "sector": "other"
+  },
+  {
+   "id": "0001564590-21-013298:klr-10k_20201231.htm",
+   "adsh": "0001564590-21-013298",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001719489",
+   "ciks": [
+    "0001719489"
+   ],
+   "name": "Kaleyra, Inc.  (CIK 0001719489)",
+   "sic": "7374",
+   "file_date": "2021-03-16",
+   "period_ending": "2020-12-31",
+   "state": "L6",
+   "doc": "klr-10k_20201231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2021,
+   "sector": "technology"
+  },
+  {
+   "id": "0001725160-21-000075:zntl-20201231.htm",
+   "adsh": "0001725160-21-000075",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001725160",
+   "ciks": [
+    "0001725160"
+   ],
+   "name": "Zentalis Pharmaceuticals, Inc.  (ZNTL)  (CIK 0001725160)",
+   "sic": "2834",
+   "file_date": "2021-03-25",
+   "period_ending": "2020-12-31",
+   "state": "NY",
+   "doc": "zntl-20201231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2021,
+   "sector": "healthcare"
+  },
+  {
+   "id": "0001788882-21-000011:root-20201231.htm",
+   "adsh": "0001788882-21-000011",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001788882",
+   "ciks": [
+    "0001788882"
+   ],
+   "name": "Root, Inc.  (ROOT)  (CIK 0001788882)",
+   "sic": "6331",
+   "file_date": "2021-03-04",
+   "period_ending": "2020-12-31",
+   "state": "OH",
+   "doc": "root-20201231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2021,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0001213900-21-019203:f10k2020_malaccastraits.htm",
+   "adsh": "0001213900-21-019203",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001807594",
+   "ciks": [
+    "0001807594"
+   ],
+   "name": "Malacca Straits Acquisition Co Ltd  (CIK 0001807594)",
+   "sic": "6770",
+   "file_date": "2021-03-31",
+   "period_ending": "2020-12-31",
+   "state": "E9",
+   "doc": "f10k2020_malaccastraits.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2021,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0000068505-22-000010:msi-20211231.htm",
+   "adsh": "0000068505-22-000010",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000068505",
+   "ciks": [
+    "0000068505"
+   ],
+   "name": "Motorola Solutions, Inc.  (MSI)  (CIK 0000068505)",
+   "sic": "3663",
+   "file_date": "2022-02-16",
+   "period_ending": "2021-12-31",
+   "state": "IL",
+   "doc": "msi-20211231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2022,
+   "sector": "technology"
+  },
+  {
+   "id": "0001096906-22-000193:pssr-20211031.htm",
+   "adsh": "0001096906-22-000193",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000225628",
+   "ciks": [
+    "0000225628"
+   ],
+   "name": "PASSUR Aerospace, Inc.  (CIK 0000225628)",
+   "sic": "3812",
+   "file_date": "2022-01-26",
+   "period_ending": "2021-10-31",
+   "state": "CT",
+   "doc": "pssr-20211031.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2022,
+   "sector": "other"
+  },
+  {
+   "id": "0000310826-22-000028:plico-20211231.htm",
+   "adsh": "0000310826-22-000028",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000310826",
+   "ciks": [
+    "0000310826"
+   ],
+   "name": "PROTECTIVE LIFE INSURANCE CO  (CIK 0000310826)",
+   "sic": "6311",
+   "file_date": "2022-03-18",
+   "period_ending": "2021-12-31",
+   "state": "AL",
+   "doc": "plico-20211231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2022,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0000313616-22-000061:dhr-20211231.htm",
+   "adsh": "0000313616-22-000061",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000313616",
+   "ciks": [
+    "0000313616"
+   ],
+   "name": "DANAHER CORP /DE/  (DHR)  (CIK 0000313616)",
+   "sic": "3823",
+   "file_date": "2022-02-23",
+   "period_ending": "2021-12-31",
+   "state": "DC",
+   "doc": "dhr-20211231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2022,
+   "sector": "other"
+  },
+  {
+   "id": "0000950170-22-010881:vsat-20220331.htm",
+   "adsh": "0000950170-22-010881",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000797721",
+   "ciks": [
+    "0000797721"
+   ],
+   "name": "VIASAT INC  (VSAT)  (CIK 0000797721)",
+   "sic": "3663",
+   "file_date": "2022-05-31",
+   "period_ending": "2022-03-31",
+   "state": "CA",
+   "doc": "vsat-20220331.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2022,
+   "sector": "technology"
+  },
+  {
+   "id": "0000808362-22-000010:llc-20211231.htm",
+   "adsh": "0000808362-22-000010",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000808362",
+   "ciks": [
+    "0000808362"
+   ],
+   "name": "Baker Hughes Holdings LLC  (CIK 0000808362)",
+   "sic": "3533",
+   "file_date": "2022-02-11",
+   "period_ending": "2021-12-31",
+   "state": "TX",
+   "doc": "llc-20211231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2022,
+   "sector": "other"
+  },
+  {
+   "id": "0000896878-22-000028:intu-20220731.htm",
+   "adsh": "0000896878-22-000028",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000896878",
+   "ciks": [
+    "0000896878"
+   ],
+   "name": "INTUIT INC  (INTU)  (CIK 0000896878)",
+   "sic": "7372",
+   "file_date": "2022-09-02",
+   "period_ending": "2022-07-31",
+   "state": "CA",
+   "doc": "intu-20220731.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2022,
+   "sector": "technology"
+  },
+  {
+   "id": "0000914025-22-000040:poly-20220402.htm",
+   "adsh": "0000914025-22-000040",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000914025",
+   "ciks": [
+    "0000914025"
+   ],
+   "name": "PLANTRONICS INC /CA/  (CIK 0000914025)",
+   "sic": "3661",
+   "file_date": "2022-05-27",
+   "period_ending": "2022-04-02",
+   "state": "CA",
+   "doc": "poly-20220402.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2022,
+   "sector": "technology"
+  },
+  {
+   "id": "0001037976-22-000006:jll-20211231.htm",
+   "adsh": "0001037976-22-000006",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001037976",
+   "ciks": [
+    "0001037976"
+   ],
+   "name": "JONES LANG LASALLE INC  (JLL)  (CIK 0001037976)",
+   "sic": "6531",
+   "file_date": "2022-02-28",
+   "period_ending": "2021-12-31",
+   "state": "IL",
+   "doc": "jll-20211231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2022,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0001060349-22-000009:form10k.htm",
+   "adsh": "0001060349-22-000009",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001060349",
+   "ciks": [
+    "0001060349"
+   ],
+   "name": "GAMCO INVESTORS, INC. ET AL  (GAMI)  (CIK 0001060349)",
+   "sic": "6211",
+   "file_date": "2022-03-10",
+   "period_ending": "2021-12-31",
+   "state": "NY",
+   "doc": "form10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2022,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0001903596-22-000108:sfsalr10k032222.htm",
+   "adsh": "0001903596-22-000108",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001087022",
+   "ciks": [
+    "0001087022"
+   ],
+   "name": "ALR TECHNOLOGIES INC.  (CIK 0001087022)",
+   "sic": "3669",
+   "file_date": "2022-03-30",
+   "period_ending": "2021-12-31",
+   "state": "VA",
+   "doc": "sfsalr10k032222.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2022,
+   "sector": "technology"
+  },
+  {
+   "id": "0001553350-22-000798:ghst_10k.htm",
+   "adsh": "0001553350-22-000798",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001121795",
+   "ciks": [
+    "0001121795"
+   ],
+   "name": "GHST World Inc.  (GHST)  (CIK 0001121795)",
+   "sic": "7372",
+   "file_date": "2022-09-28",
+   "period_ending": "2022-06-30",
+   "state": "NY",
+   "doc": "ghst_10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2022,
+   "sector": "technology"
+  },
+  {
+   "id": "0001213900-22-057677:f10k2022_pluriinc.htm",
+   "adsh": "0001213900-22-057677",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001158780",
+   "ciks": [
+    "0001158780"
+   ],
+   "name": "Pluri Inc.  (PLUR)  (CIK 0001158780)",
+   "sic": "2836",
+   "file_date": "2022-09-21",
+   "period_ending": "2022-06-30",
+   "state": "L3",
+   "doc": "f10k2022_pluriinc.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2022,
+   "sector": "healthcare"
+  },
+  {
+   "id": "0001437749-22-004083:vrsk20211231_10k.htm",
+   "adsh": "0001437749-22-004083",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001442145",
+   "ciks": [
+    "0001442145"
+   ],
+   "name": "Verisk Analytics, Inc.  (VRSK)  (CIK 0001442145)",
+   "sic": "7374",
+   "file_date": "2022-02-22",
+   "period_ending": "2021-12-31",
+   "state": "NJ",
+   "doc": "vrsk20211231_10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2022,
+   "sector": "technology"
+  },
+  {
+   "id": "0001635282-22-000049:rmni-20211231.htm",
+   "adsh": "0001635282-22-000049",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001635282",
+   "ciks": [
+    "0001635282"
+   ],
+   "name": "Rimini Street, Inc.  (RMNI)  (CIK 0001635282)",
+   "sic": "7389",
+   "file_date": "2022-03-02",
+   "period_ending": "2021-12-31",
+   "state": "NV",
+   "doc": "rmni-20211231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2022,
+   "sector": "other"
+  },
+  {
+   "id": "0001645590-22-000071:hpe-20221031.htm",
+   "adsh": "0001645590-22-000071",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001645590",
+   "ciks": [
+    "0001645590"
+   ],
+   "name": "Hewlett Packard Enterprise Co  (HPE)  (CIK 0001645590)",
+   "sic": "5045",
+   "file_date": "2022-12-08",
+   "period_ending": "2022-10-31",
+   "state": "TX",
+   "doc": "hpe-20221031.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2022,
+   "sector": "other"
+  },
+  {
+   "id": "0001720990-22-000010:fsr-20211231.htm",
+   "adsh": "0001720990-22-000010",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001720990",
+   "ciks": [
+    "0001720990"
+   ],
+   "name": "Fisker Inc./DE  (FSRNQ)  (CIK 0001720990)",
+   "sic": "3711",
+   "file_date": "2022-02-28",
+   "period_ending": "2021-12-31",
+   "state": "CA",
+   "doc": "fsr-20211231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2022,
+   "sector": "other"
+  },
+  {
+   "id": "0001628280-22-003524:root-20211231.htm",
+   "adsh": "0001628280-22-003524",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001788882",
+   "ciks": [
+    "0001788882"
+   ],
+   "name": "Root, Inc.  (ROOT)  (CIK 0001788882)",
+   "sic": "6331",
+   "file_date": "2022-02-23",
+   "period_ending": "2021-12-31",
+   "state": "OH",
+   "doc": "root-20211231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2022,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0001810019-22-000036:rxt-20211231.htm",
+   "adsh": "0001810019-22-000036",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001810019",
+   "ciks": [
+    "0001810019"
+   ],
+   "name": "Rackspace Technology, Inc.  (RXT)  (CIK 0001810019)",
+   "sic": "7370",
+   "file_date": "2022-03-01",
+   "period_ending": "2021-12-31",
+   "state": "TX",
+   "doc": "rxt-20211231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2022,
+   "sector": "technology"
+  },
+  {
+   "id": "0001663577-22-000193:bcot10k.htm",
+   "adsh": "0001663577-22-000193",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001813793",
+   "ciks": [
+    "0001813793"
+   ],
+   "name": "Blockchain of Things, Inc.  (CIK 0001813793)",
+   "sic": "6199",
+   "file_date": "2022-03-31",
+   "period_ending": "2021-12-31",
+   "state": "FL",
+   "doc": "bcot10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2022,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0001607062-22-000218:sopa123121form10k.htm",
+   "adsh": "0001607062-22-000218",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001817511",
+   "ciks": [
+    "0001817511"
+   ],
+   "name": "SOCIETY PASS INCORPORATED.  (SOPA)  (CIK 0001817511)",
+   "sic": "7389",
+   "file_date": "2022-03-30",
+   "period_ending": "2021-12-31",
+   "state": "CA",
+   "doc": "sopa123121form10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2022,
+   "sector": "other"
+  },
+  {
+   "id": "0001818331-22-000037:cmlf-20211231.htm",
+   "adsh": "0001818331-22-000037",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001818331",
+   "ciks": [
+    "0001818331"
+   ],
+   "name": "Sema4 Holdings Corp.  (WGS, WGSWW)  (CIK 0001818331)",
+   "sic": "8000",
+   "file_date": "2022-03-14",
+   "period_ending": "2021-12-31",
+   "state": "CT",
+   "doc": "cmlf-20211231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2022,
+   "sector": "healthcare"
+  },
+  {
+   "id": "0001193125-22-092102:d251271d10k.htm",
+   "adsh": "0001193125-22-092102",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001819142",
+   "ciks": [
+    "0001819142"
+   ],
+   "name": "SES AI Corp  (SES, SES-WT)  (CIK 0001819142)",
+   "sic": "3690",
+   "file_date": "2022-03-31",
+   "period_ending": "2021-12-31",
+   "state": "MA",
+   "doc": "d251271d10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2022,
+   "sector": "other"
+  },
+  {
+   "id": "0001628280-22-006061:hippo-20211231.htm",
+   "adsh": "0001628280-22-006061",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001828105",
+   "ciks": [
+    "0001828105"
+   ],
+   "name": "Hippo Holdings Inc.  (HIPO, HIPO-WT)  (CIK 0001828105)",
+   "sic": "6331",
+   "file_date": "2022-03-14",
+   "period_ending": "2021-12-31",
+   "state": "CA",
+   "doc": "hippo-20211231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2022,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0001214659-22-004349:gggv10k1221.htm",
+   "adsh": "0001214659-22-004349",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001856519",
+   "ciks": [
+    "0001856519"
+   ],
+   "name": "G3 VRM Acquisition Corp.  (CIK 0001856519)",
+   "sic": "6770",
+   "file_date": "2022-03-25",
+   "period_ending": "2021-12-31",
+   "state": "MA",
+   "doc": "gggv10k1221.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2022,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0000029905-23-000008:dov-20221231.htm",
+   "adsh": "0000029905-23-000008",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000029905",
+   "ciks": [
+    "0000029905"
+   ],
+   "name": "DOVER Corp  (DOV)  (CIK 0000029905)",
+   "sic": "3530",
+   "file_date": "2023-02-10",
+   "period_ending": "2022-12-31",
+   "state": "IL",
+   "doc": "dov-20221231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2023,
+   "sector": "other"
+  },
+  {
+   "id": "0000033185-23-000012:efx-20221231.htm",
+   "adsh": "0000033185-23-000012",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000033185",
+   "ciks": [
+    "0000033185"
+   ],
+   "name": "EQUIFAX INC  (EFX)  (CIK 0000033185)",
+   "sic": "7320",
+   "file_date": "2023-02-23",
+   "period_ending": "2022-12-31",
+   "state": "GA",
+   "doc": "efx-20221231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2023,
+   "sector": "other"
+  },
+  {
+   "id": "0001628280-23-004842:atvi-20221231.htm",
+   "adsh": "0001628280-23-004842",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000718877",
+   "ciks": [
+    "0000718877"
+   ],
+   "name": "Activision Blizzard, Inc.  (CIK 0000718877)",
+   "sic": "7372",
+   "file_date": "2023-02-23",
+   "period_ending": "2022-12-31",
+   "state": "CA",
+   "doc": "atvi-20221231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2023,
+   "sector": "technology"
+  },
+  {
+   "id": "0000726865-23-000180:c865-20221231x10k.htm",
+   "adsh": "0000726865-23-000180",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000726865",
+   "ciks": [
+    "0000726865"
+   ],
+   "name": "LINCOLN NATIONAL LIFE INSURANCE CO /IN/  (CIK 0000726865)",
+   "sic": "6311",
+   "file_date": "2023-03-07",
+   "period_ending": "2022-12-31",
+   "state": "IN",
+   "doc": "c865-20221231x10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2023,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0000795266-23-000009:kbh-20221130.htm",
+   "adsh": "0000795266-23-000009",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000795266",
+   "ciks": [
+    "0000795266"
+   ],
+   "name": "KB HOME  (KBH)  (CIK 0000795266)",
+   "sic": "1531",
+   "file_date": "2023-01-20",
+   "period_ending": "2022-11-30",
+   "state": "CA",
+   "doc": "kbh-20221130.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2023,
+   "sector": "other"
+  },
+  {
+   "id": "0000890926-23-000007:rdn-20221231.htm",
+   "adsh": "0000890926-23-000007",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000890926",
+   "ciks": [
+    "0000890926"
+   ],
+   "name": "RADIAN GROUP INC  (RDN)  (CIK 0000890926)",
+   "sic": "6351",
+   "file_date": "2023-02-24",
+   "period_ending": "2022-12-31",
+   "state": "PA",
+   "doc": "rdn-20221231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2023,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0001493152-23-009914:form10-k.htm",
+   "adsh": "0001493152-23-009914",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000894871",
+   "ciks": [
+    "0000894871"
+   ],
+   "name": "Arena Group Holdings, Inc.  (AREN)  (CIK 0000894871)",
+   "sic": "4841",
+   "file_date": "2023-03-31",
+   "period_ending": "2022-12-31",
+   "state": "NY",
+   "doc": "form10-k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2023,
+   "sector": "other"
+  },
+  {
+   "id": "0000950170-23-027948:ntap-20230428.htm",
+   "adsh": "0000950170-23-027948",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001002047",
+   "ciks": [
+    "0001002047"
+   ],
+   "name": "NetApp, Inc.  (NTAP)  (CIK 0001002047)",
+   "sic": "3572",
+   "file_date": "2023-06-14",
+   "period_ending": "2023-04-28",
+   "state": "CA",
+   "doc": "ntap-20230428.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2023,
+   "sector": "technology"
+  },
+  {
+   "id": "0001628280-23-005568:bsy-20221231.htm",
+   "adsh": "0001628280-23-005568",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001031308",
+   "ciks": [
+    "0001031308"
+   ],
+   "name": "BENTLEY SYSTEMS INC  (BSY)  (CIK 0001031308)",
+   "sic": "7372",
+   "file_date": "2023-02-28",
+   "period_ending": "2022-12-31",
+   "state": "PA",
+   "doc": "bsy-20221231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2023,
+   "sector": "technology"
+  },
+  {
+   "id": "0001158172-23-000013:scor-20221231.htm",
+   "adsh": "0001158172-23-000013",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001158172",
+   "ciks": [
+    "0001158172"
+   ],
+   "name": "COMSCORE, INC.  (SCOR)  (CIK 0001158172)",
+   "sic": "7389",
+   "file_date": "2023-03-02",
+   "period_ending": "2022-12-31",
+   "state": "VA",
+   "doc": "scor-20221231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2023,
+   "sector": "other"
+  },
+  {
+   "id": "0001384101-23-000016:vcyt-20221231.htm",
+   "adsh": "0001384101-23-000016",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001384101",
+   "ciks": [
+    "0001384101"
+   ],
+   "name": "VERACYTE, INC.  (VCYT)  (CIK 0001384101)",
+   "sic": "8071",
+   "file_date": "2023-03-01",
+   "period_ending": "2022-12-31",
+   "state": "CA",
+   "doc": "vcyt-20221231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2023,
+   "sector": "healthcare"
+  },
+  {
+   "id": "0001401708-23-000052:nstg-20221231.htm",
+   "adsh": "0001401708-23-000052",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001401708",
+   "ciks": [
+    "0001401708"
+   ],
+   "name": "NanoString Technologies Inc  (CIK 0001401708)",
+   "sic": "2836",
+   "file_date": "2023-02-28",
+   "period_ending": "2022-12-31",
+   "state": "WA",
+   "doc": "nstg-20221231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2023,
+   "sector": "healthcare"
+  },
+  {
+   "id": "0001402057-23-000052:cdw-20221231.htm",
+   "adsh": "0001402057-23-000052",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001402057",
+   "ciks": [
+    "0001402057"
+   ],
+   "name": "CDW Corp  (CDW)  (CIK 0001402057)",
+   "sic": "5961",
+   "file_date": "2023-02-24",
+   "period_ending": "2022-12-31",
+   "state": "IL",
+   "doc": "cdw-20221231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2023,
+   "sector": "other"
+  },
+  {
+   "id": "0001437749-23-006714:flnt20221231_10k.htm",
+   "adsh": "0001437749-23-006714",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001460329",
+   "ciks": [
+    "0001460329"
+   ],
+   "name": "Fluent, Inc.  (FLNT)  (CIK 0001460329)",
+   "sic": "7310",
+   "file_date": "2023-03-15",
+   "period_ending": "2022-12-31",
+   "state": "NY",
+   "doc": "flnt20221231_10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2023,
+   "sector": "other"
+  },
+  {
+   "id": "0001493152-23-008574:form10-k.htm",
+   "adsh": "0001493152-23-008574",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001460602",
+   "ciks": [
+    "0001460602"
+   ],
+   "name": "Orgenesis Inc.  (ORGS)  (CIK 0001460602)",
+   "sic": "2834",
+   "file_date": "2023-03-22",
+   "period_ending": "2022-12-31",
+   "state": "MD",
+   "doc": "form10-k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2023,
+   "sector": "healthcare"
+  },
+  {
+   "id": "0001437749-23-006513:atlc20221231b_10k.htm",
+   "adsh": "0001437749-23-006513",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001464343",
+   "ciks": [
+    "0001464343"
+   ],
+   "name": "Atlanticus Holdings Corp  (ATLC, ATLCL, ATLCP, ATLCZ)  (CIK 0001464343)",
+   "sic": "6141",
+   "file_date": "2023-03-15",
+   "period_ending": "2022-12-31",
+   "state": "GA",
+   "doc": "atlc20221231b_10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2023,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0001505155-23-000017:upld-20221231.htm",
+   "adsh": "0001505155-23-000017",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001505155",
+   "ciks": [
+    "0001505155"
+   ],
+   "name": "Upland Software, Inc.  (UPLD)  (CIK 0001505155)",
+   "sic": "7372",
+   "file_date": "2023-03-01",
+   "period_ending": "2022-12-31",
+   "state": "TX",
+   "doc": "upld-20221231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2023,
+   "sector": "technology"
+  },
+  {
+   "id": "0001493152-23-018322:form10-k.htm",
+   "adsh": "0001493152-23-018322",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001561880",
+   "ciks": [
+    "0001561880"
+   ],
+   "name": "Legacy Education Alliance, Inc.  (LEAI)  (CIK 0001561880)",
+   "sic": "8200",
+   "file_date": "2023-05-19",
+   "period_ending": "2022-12-31",
+   "state": "FL",
+   "doc": "form10-k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2023,
+   "sector": "other"
+  },
+  {
+   "id": "0000950170-23-006124:vctr-20221231.htm",
+   "adsh": "0000950170-23-006124",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001570827",
+   "ciks": [
+    "0001570827"
+   ],
+   "name": "Victory Capital Holdings, Inc.  (VCTR)  (CIK 0001570827)",
+   "sic": "6282",
+   "file_date": "2023-03-06",
+   "period_ending": "2022-12-31",
+   "state": "OH",
+   "doc": "vctr-20221231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2023,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0001628280-23-022983:ai-20230430.htm",
+   "adsh": "0001628280-23-022983",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001577526",
+   "ciks": [
+    "0001577526"
+   ],
+   "name": "C3.ai, Inc.  (AI)  (CIK 0001577526)",
+   "sic": "7372",
+   "file_date": "2023-06-22",
+   "period_ending": "2023-04-30",
+   "state": "CA",
+   "doc": "ai-20230430.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2023,
+   "sector": "technology"
+  },
+  {
+   "id": "0001811856-23-000003:view-20221231.htm",
+   "adsh": "0001811856-23-000003",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001811856",
+   "ciks": [
+    "0001811856"
+   ],
+   "name": "View, Inc.  (CIK 0001811856)",
+   "sic": "3211",
+   "file_date": "2023-03-31",
+   "period_ending": "2022-12-31",
+   "state": "CA",
+   "doc": "view-20221231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2023,
+   "sector": "other"
+  },
+  {
+   "id": "0000950170-23-010666:zfox-20230131.htm",
+   "adsh": "0000950170-23-010666",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001823575",
+   "ciks": [
+    "0001823575"
+   ],
+   "name": "ZeroFox Holdings, Inc.  (CIK 0001823575)",
+   "sic": "7389",
+   "file_date": "2023-03-30",
+   "period_ending": "2023-01-31",
+   "state": "MD",
+   "doc": "zfox-20230131.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2023,
+   "sector": "other"
+  },
+  {
+   "id": "0001140361-23-015385:brhc10050434_10k.htm",
+   "adsh": "0001140361-23-015385",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001833498",
+   "ciks": [
+    "0001833498"
+   ],
+   "name": "Rosecliff Acquisition Corp I  (MDAI, MDAIW)  (CIK 0001833498)",
+   "sic": "6770",
+   "file_date": "2023-03-31",
+   "period_ending": "2022-12-31",
+   "state": "NY",
+   "doc": "brhc10050434_10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2023,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0001193125-23-088340:d490451d10k.htm",
+   "adsh": "0001193125-23-088340",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001850262",
+   "ciks": [
+    "0001850262"
+   ],
+   "name": "Integral Acquisition Corp 1  (INTE, INTEU, INTEW)  (CIK 0001850262)",
+   "sic": "6770",
+   "file_date": "2023-03-31",
+   "period_ending": "2022-12-31",
+   "state": "NY",
+   "doc": "d490451d10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2023,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0001193125-23-105424:d476136d10k.htm",
+   "adsh": "0001193125-23-105424",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001862463",
+   "ciks": [
+    "0001862463"
+   ],
+   "name": "Insight Acquisition Corp. /DE  (INAQ, INAQU, INAQW)  (CIK 0001862463)",
+   "sic": "6770",
+   "file_date": "2023-04-19",
+   "period_ending": "2022-12-31",
+   "state": "NY",
+   "doc": "d476136d10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2023,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0000038009-24-000016:fmcc-20231231.htm",
+   "adsh": "0000038009-24-000016",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000038009",
+   "ciks": [
+    "0000038009"
+   ],
+   "name": "FORD MOTOR CREDIT CO LLC  (CIK 0000038009)",
+   "sic": "6159",
+   "file_date": "2024-02-07",
+   "period_ending": "2023-12-31",
+   "state": "MI",
+   "doc": "fmcc-20231231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2024,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0000072909-24-000004:nspw-20231231.htm",
+   "adsh": "0000072909-24-000004",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000072909",
+   "ciks": [
+    "0000072909"
+   ],
+   "name": "NORTHERN STATES POWER CO /WI/  (CIK 0000072909)",
+   "sic": "4931",
+   "file_date": "2024-02-21",
+   "period_ending": "2023-12-31",
+   "state": "WI",
+   "doc": "nspw-20231231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2024,
+   "sector": "other"
+  },
+  {
+   "id": "0000080420-24-000086:powl-20240930.htm",
+   "adsh": "0000080420-24-000086",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000080420",
+   "ciks": [
+    "0000080420"
+   ],
+   "name": "POWELL INDUSTRIES INC  (POWL)  (CIK 0000080420)",
+   "sic": "3613",
+   "file_date": "2024-11-20",
+   "period_ending": "2024-09-30",
+   "state": "TX",
+   "doc": "powl-20240930.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2024,
+   "sector": "other"
+  },
+  {
+   "id": "0000310764-24-000024:syk-20231231.htm",
+   "adsh": "0000310764-24-000024",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000310764",
+   "ciks": [
+    "0000310764"
+   ],
+   "name": "STRYKER CORP  (SYK)  (CIK 0000310764)",
+   "sic": "3841",
+   "file_date": "2024-02-14",
+   "period_ending": "2023-12-31",
+   "state": "MI",
+   "doc": "syk-20231231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2024,
+   "sector": "healthcare"
+  },
+  {
+   "id": "0000950170-24-019110:d-20231231.htm",
+   "adsh": "0000950170-24-019110",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000715957",
+   "ciks": [
+    "0000715957",
+    "0000103682"
+   ],
+   "name": "DOMINION ENERGY, INC  (D)  (CIK 0000715957)",
+   "sic": "4911",
+   "file_date": "2024-02-23",
+   "period_ending": "2023-12-31",
+   "state": "VA",
+   "doc": "d-20231231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2024,
+   "sector": "other"
+  },
+  {
+   "id": "0000827187-24-000011:snbr-20231230.htm",
+   "adsh": "0000827187-24-000011",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000827187",
+   "ciks": [
+    "0000827187"
+   ],
+   "name": "Sleep Number Corp  (SNBR)  (CIK 0000827187)",
+   "sic": "2510",
+   "file_date": "2024-02-23",
+   "period_ending": "2023-12-30",
+   "state": "MN",
+   "doc": "snbr-20231230.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2024,
+   "sector": "other"
+  },
+  {
+   "id": "0000896622-24-000010:atr-20231231.htm",
+   "adsh": "0000896622-24-000010",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000896622",
+   "ciks": [
+    "0000896622"
+   ],
+   "name": "APTARGROUP, INC.  (ATR)  (CIK 0000896622)",
+   "sic": "3089",
+   "file_date": "2024-02-09",
+   "period_ending": "2023-12-31",
+   "state": "IL",
+   "doc": "atr-20231231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2024,
+   "sector": "other"
+  },
+  {
+   "id": "0001654954-24-002897:aimd_10k.htm",
+   "adsh": "0001654954-24-002897",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001014763",
+   "ciks": [
+    "0001014763"
+   ],
+   "name": "Ainos, Inc.  (AIMD, AIMDW)  (CIK 0001014763)",
+   "sic": "2834",
+   "file_date": "2024-03-08",
+   "period_ending": "2023-12-31",
+   "state": "CA",
+   "doc": "aimd_10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2024,
+   "sector": "healthcare"
+  },
+  {
+   "id": "0001558370-24-003410:axti-20231231x10k.htm",
+   "adsh": "0001558370-24-003410",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001051627",
+   "ciks": [
+    "0001051627"
+   ],
+   "name": "AXT INC  (AXTI)  (CIK 0001051627)",
+   "sic": "3674",
+   "file_date": "2024-03-15",
+   "period_ending": "2023-12-31",
+   "state": "CA",
+   "doc": "axti-20231231x10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2024,
+   "sector": "technology"
+  },
+  {
+   "id": "0000950170-24-021781:dvn-20231231.htm",
+   "adsh": "0000950170-24-021781",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001090012",
+   "ciks": [
+    "0001090012"
+   ],
+   "name": "DEVON ENERGY CORP/DE  (DVN)  (CIK 0001090012)",
+   "sic": "1311",
+   "file_date": "2024-02-28",
+   "period_ending": "2023-12-31",
+   "state": "OK",
+   "doc": "dvn-20231231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2024,
+   "sector": "other"
+  },
+  {
+   "id": "0001297989-24-000003:exls-20231231.htm",
+   "adsh": "0001297989-24-000003",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001297989",
+   "ciks": [
+    "0001297989"
+   ],
+   "name": "ExlService Holdings, Inc.  (EXLS)  (CIK 0001297989)",
+   "sic": "7389",
+   "file_date": "2024-02-29",
+   "period_ending": "2023-12-31",
+   "state": "X1",
+   "doc": "exls-20231231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2024,
+   "sector": "other"
+  },
+  {
+   "id": "0001298675-24-000011:cube-20231231x10k.htm",
+   "adsh": "0001298675-24-000011",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001298675",
+   "ciks": [
+    "0001298675",
+    "0001300485"
+   ],
+   "name": "CubeSmart  (CUBE)  (CIK 0001298675)",
+   "sic": "6798",
+   "file_date": "2024-02-29",
+   "period_ending": "2023-12-31",
+   "state": "PA",
+   "doc": "cube-20231231x10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2024,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0001370637-24-000013:etsy-20231231.htm",
+   "adsh": "0001370637-24-000013",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001370637",
+   "ciks": [
+    "0001370637"
+   ],
+   "name": "ETSY INC  (ETSY)  (CIK 0001370637)",
+   "sic": "7389",
+   "file_date": "2024-02-22",
+   "period_ending": "2023-12-31",
+   "state": "NY",
+   "doc": "etsy-20231231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2024,
+   "sector": "other"
+  },
+  {
+   "id": "0001505155-24-000013:upld-20231231.htm",
+   "adsh": "0001505155-24-000013",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001505155",
+   "ciks": [
+    "0001505155"
+   ],
+   "name": "Upland Software, Inc.  (UPLD)  (CIK 0001505155)",
+   "sic": "7372",
+   "file_date": "2024-02-22",
+   "period_ending": "2023-12-31",
+   "state": "TX",
+   "doc": "upld-20231231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2024,
+   "sector": "technology"
+  },
+  {
+   "id": "0001535527-24-000007:crwd-20240131.htm",
+   "adsh": "0001535527-24-000007",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001535527",
+   "ciks": [
+    "0001535527"
+   ],
+   "name": "CrowdStrike Holdings, Inc.  (CRWD)  (CIK 0001535527)",
+   "sic": "7372",
+   "file_date": "2024-03-07",
+   "period_ending": "2024-01-31",
+   "state": "TX",
+   "doc": "crwd-20240131.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2024,
+   "sector": "technology"
+  },
+  {
+   "id": "0001579091-24-000027:cart-20231231.htm",
+   "adsh": "0001579091-24-000027",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001579091",
+   "ciks": [
+    "0001579091"
+   ],
+   "name": "Maplebear Inc.  (CART)  (CIK 0001579091)",
+   "sic": "7389",
+   "file_date": "2024-03-05",
+   "period_ending": "2023-12-31",
+   "state": "CA",
+   "doc": "cart-20231231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2024,
+   "sector": "other"
+  },
+  {
+   "id": "0001637459-24-000018:khc-20231230.htm",
+   "adsh": "0001637459-24-000018",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001637459",
+   "ciks": [
+    "0001637459"
+   ],
+   "name": "Kraft Heinz Co  (KHC)  (CIK 0001637459)",
+   "sic": "2030",
+   "file_date": "2024-02-15",
+   "period_ending": "2023-12-30",
+   "state": "PA",
+   "doc": "khc-20231230.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2024,
+   "sector": "other"
+  },
+  {
+   "id": "0001701756-24-000040:gril-20231231.htm",
+   "adsh": "0001701756-24-000040",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001701756",
+   "ciks": [
+    "0001701756"
+   ],
+   "name": "Sadot Group Inc.  (SDOT)  (CIK 0001701756)",
+   "sic": "5810",
+   "file_date": "2024-03-20",
+   "period_ending": "2023-12-31",
+   "state": "TX",
+   "doc": "gril-20231231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2024,
+   "sector": "other"
+  },
+  {
+   "id": "0001628280-24-012546:cbus-20231231.htm",
+   "adsh": "0001628280-24-012546",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001705843",
+   "ciks": [
+    "0001705843"
+   ],
+   "name": "Cibus, Inc.  (CBUS)  (CIK 0001705843)",
+   "sic": "2870",
+   "file_date": "2024-03-21",
+   "period_ending": "2023-12-31",
+   "state": "CA",
+   "doc": "cbus-20231231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2024,
+   "sector": "other"
+  },
+  {
+   "id": "0001709682-24-000010:ctos-20231231.htm",
+   "adsh": "0001709682-24-000010",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001709682",
+   "ciks": [
+    "0001709682"
+   ],
+   "name": "Custom Truck One Source, Inc.  (CTOS, CTOSW)  (CIK 0001709682)",
+   "sic": "7359",
+   "file_date": "2024-03-07",
+   "period_ending": "2023-12-31",
+   "state": "MO",
+   "doc": "ctos-20231231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2024,
+   "sector": "other"
+  },
+  {
+   "id": "0001800227-24-000011:iaci-20231231.htm",
+   "adsh": "0001800227-24-000011",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001800227",
+   "ciks": [
+    "0001800227"
+   ],
+   "name": "IAC Inc.  (IAC)  (CIK 0001800227)",
+   "sic": "7370",
+   "file_date": "2024-02-29",
+   "period_ending": "2023-12-31",
+   "state": "NY",
+   "doc": "iaci-20231231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2024,
+   "sector": "technology"
+  },
+  {
+   "id": "0001213900-24-027863:ea0202419-10k_spectral.htm",
+   "adsh": "0001213900-24-027863",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001833498",
+   "ciks": [
+    "0001833498"
+   ],
+   "name": "Spectral AI, Inc.  (MDAI, MDAIW)  (CIK 0001833498)",
+   "sic": "3841",
+   "file_date": "2024-03-29",
+   "period_ending": "2023-12-31",
+   "state": "TX",
+   "doc": "ea0202419-10k_spectral.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2024,
+   "sector": "healthcare"
+  },
+  {
+   "id": "0001835681-24-000016:pwsc-20231231.htm",
+   "adsh": "0001835681-24-000016",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001835681",
+   "ciks": [
+    "0001835681"
+   ],
+   "name": "POWERSCHOOL HOLDINGS, INC.  (PWSC)  (CIK 0001835681)",
+   "sic": "7372",
+   "file_date": "2024-03-01",
+   "period_ending": "2023-12-31",
+   "state": "CA",
+   "doc": "pwsc-20231231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2024,
+   "sector": "technology"
+  },
+  {
+   "id": "0001839439-24-000051:pycr-20240630.htm",
+   "adsh": "0001839439-24-000051",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001839439",
+   "ciks": [
+    "0001839439"
+   ],
+   "name": "PAYCOR HCM, INC.  (PYCR)  (CIK 0001839439)",
+   "sic": "7372",
+   "file_date": "2024-08-22",
+   "period_ending": "2024-06-30",
+   "state": "OH",
+   "doc": "pycr-20240630.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2024,
+   "sector": "technology"
+  },
+  {
+   "id": "0001493152-24-011298:form10-k.htm",
+   "adsh": "0001493152-24-011298",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001874875",
+   "ciks": [
+    "0001874875"
+   ],
+   "name": "Hour Loop, Inc  (HOUR)  (CIK 0001874875)",
+   "sic": "5961",
+   "file_date": "2024-03-26",
+   "period_ending": "2023-12-31",
+   "state": "WA",
+   "doc": "form10-k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2024,
+   "sector": "other"
+  },
+  {
+   "id": "0000004127-25-000085:swks-20251003.htm",
+   "adsh": "0000004127-25-000085",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000004127",
+   "ciks": [
+    "0000004127"
+   ],
+   "name": "SKYWORKS SOLUTIONS, INC.  (SWKS)  (CIK 0000004127)",
+   "sic": "3674",
+   "file_date": "2025-11-07",
+   "period_ending": "2025-10-03",
+   "state": "CA",
+   "doc": "swks-20251003.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2025,
+   "sector": "technology"
+  },
+  {
+   "id": "0000950170-25-054522:mov-20250131.htm",
+   "adsh": "0000950170-25-054522",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000072573",
+   "ciks": [
+    "0000072573"
+   ],
+   "name": "MOVADO GROUP INC  (MOV, MOVAA)  (CIK 0000072573)",
+   "sic": "3873",
+   "file_date": "2025-04-16",
+   "period_ending": "2025-01-31",
+   "state": "NJ",
+   "doc": "mov-20250131.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2025,
+   "sector": "other"
+  },
+  {
+   "id": "0000080424-25-000076:pg-20250630.htm",
+   "adsh": "0000080424-25-000076",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000080424",
+   "ciks": [
+    "0000080424"
+   ],
+   "name": "PROCTER & GAMBLE Co  (PG)  (CIK 0000080424)",
+   "sic": "2840",
+   "file_date": "2025-08-04",
+   "period_ending": "2025-06-30",
+   "state": "OH",
+   "doc": "pg-20250630.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2025,
+   "sector": "other"
+  },
+  {
+   "id": "0000092380-25-000024:luv-20241231.htm",
+   "adsh": "0000092380-25-000024",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000092380",
+   "ciks": [
+    "0000092380"
+   ],
+   "name": "SOUTHWEST AIRLINES CO  (LUV)  (CIK 0000092380)",
+   "sic": "4512",
+   "file_date": "2025-02-07",
+   "period_ending": "2024-12-31",
+   "state": "TX",
+   "doc": "luv-20241231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2025,
+   "sector": "other"
+  },
+  {
+   "id": "0000029915-25-000003:ucc-20241231.htm",
+   "adsh": "0000029915-25-000003",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000100790",
+   "ciks": [
+    "0000100790"
+   ],
+   "name": "UNION CARBIDE CORP /NEW/  (CIK 0000100790)",
+   "sic": "2860",
+   "file_date": "2025-02-04",
+   "period_ending": "2024-12-31",
+   "state": "TX",
+   "doc": "ucc-20241231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2025,
+   "sector": "other"
+  },
+  {
+   "id": "0000230557-25-000006:sigi-20241231.htm",
+   "adsh": "0000230557-25-000006",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000230557",
+   "ciks": [
+    "0000230557"
+   ],
+   "name": "SELECTIVE INSURANCE GROUP INC  (SIGI, SIGIP)  (CIK 0000230557)",
+   "sic": "6331",
+   "file_date": "2025-02-10",
+   "period_ending": "2024-12-31",
+   "state": "NJ",
+   "doc": "sigi-20241231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2025,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0000320335-25-000013:gl-20241231.htm",
+   "adsh": "0000320335-25-000013",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000320335",
+   "ciks": [
+    "0000320335"
+   ],
+   "name": "GLOBE LIFE INC.  (GL, GL-PD)  (CIK 0000320335)",
+   "sic": "6311",
+   "file_date": "2025-02-26",
+   "period_ending": "2024-12-31",
+   "state": "TX",
+   "doc": "gl-20241231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2025,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0000875045-25-000009:biib-20241231.htm",
+   "adsh": "0000875045-25-000009",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000875045",
+   "ciks": [
+    "0000875045"
+   ],
+   "name": "BIOGEN INC.  (BIIB)  (CIK 0000875045)",
+   "sic": "2836",
+   "file_date": "2025-02-12",
+   "period_ending": "2024-12-31",
+   "state": "MA",
+   "doc": "biib-20241231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2025,
+   "sector": "healthcare"
+  },
+  {
+   "id": "0000950170-25-026703:hlio-20241228.htm",
+   "adsh": "0000950170-25-026703",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001024795",
+   "ciks": [
+    "0001024795"
+   ],
+   "name": "HELIOS TECHNOLOGIES, INC.  (HLIO)  (CIK 0001024795)",
+   "sic": "3490",
+   "file_date": "2025-02-25",
+   "period_ending": "2024-12-28",
+   "state": "FL",
+   "doc": "hlio-20241228.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2025,
+   "sector": "other"
+  },
+  {
+   "id": "0000950170-25-022803:iosp-20241231.htm",
+   "adsh": "0000950170-25-022803",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001054905",
+   "ciks": [
+    "0001054905"
+   ],
+   "name": "INNOSPEC INC.  (IOSP)  (CIK 0001054905)",
+   "sic": "2800",
+   "file_date": "2025-02-19",
+   "period_ending": "2024-12-31",
+   "state": "CO",
+   "doc": "iosp-20241231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2025,
+   "sector": "other"
+  },
+  {
+   "id": "0001163302-25-000018:x-20241231.htm",
+   "adsh": "0001163302-25-000018",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001163302",
+   "ciks": [
+    "0001163302"
+   ],
+   "name": "UNITED STATES STEEL CORP  (X)  (CIK 0001163302)",
+   "sic": "3312",
+   "file_date": "2025-01-31",
+   "period_ending": "2024-12-31",
+   "state": "PA",
+   "doc": "x-20241231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2025,
+   "sector": "other"
+  },
+  {
+   "id": "0001302215-25-000024:hli-20250331.htm",
+   "adsh": "0001302215-25-000024",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001302215",
+   "ciks": [
+    "0001302215"
+   ],
+   "name": "HOULIHAN LOKEY, INC.  (HLI)  (CIK 0001302215)",
+   "sic": "6282",
+   "file_date": "2025-05-15",
+   "period_ending": "2025-03-31",
+   "state": "CA",
+   "doc": "hli-20250331.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2025,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0001385613-25-000007:glre-20241231.htm",
+   "adsh": "0001385613-25-000007",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001385613",
+   "ciks": [
+    "0001385613"
+   ],
+   "name": "GREENLIGHT CAPITAL RE, LTD.  (GLRE)  (CIK 0001385613)",
+   "sic": "6331",
+   "file_date": "2025-03-10",
+   "period_ending": "2024-12-31",
+   "state": "E9",
+   "doc": "glre-20241231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2025,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0001441683-25-000017:appn-20241231.htm",
+   "adsh": "0001441683-25-000017",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001441683",
+   "ciks": [
+    "0001441683"
+   ],
+   "name": "APPIAN CORP  (APPN)  (CIK 0001441683)",
+   "sic": "7372",
+   "file_date": "2025-02-19",
+   "period_ending": "2024-12-31",
+   "state": "VA",
+   "doc": "appn-20241231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2025,
+   "sector": "technology"
+  },
+  {
+   "id": "0000950170-25-037891:qrhc-20241231.htm",
+   "adsh": "0000950170-25-037891",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001442236",
+   "ciks": [
+    "0001442236"
+   ],
+   "name": "Quest Resource Holding Corp  (QRHC)  (CIK 0001442236)",
+   "sic": "4953",
+   "file_date": "2025-03-12",
+   "period_ending": "2024-12-31",
+   "state": "TX",
+   "doc": "qrhc-20241231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2025,
+   "sector": "other"
+  },
+  {
+   "id": "0001558370-25-001502:nbhc-20241231x10k.htm",
+   "adsh": "0001558370-25-001502",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001475841",
+   "ciks": [
+    "0001475841"
+   ],
+   "name": "National Bank Holdings Corp  (NBHC)  (CIK 0001475841)",
+   "sic": "6021",
+   "file_date": "2025-02-25",
+   "period_ending": "2024-12-31",
+   "state": "CO",
+   "doc": "nbhc-20241231x10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2025,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0001549595-25-000016:nrix-20241130.htm",
+   "adsh": "0001549595-25-000016",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001549595",
+   "ciks": [
+    "0001549595"
+   ],
+   "name": "Nurix Therapeutics, Inc.  (NRIX)  (CIK 0001549595)",
+   "sic": "2834",
+   "file_date": "2025-01-28",
+   "period_ending": "2024-11-30",
+   "state": "CA",
+   "doc": "nrix-20241130.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2025,
+   "sector": "healthcare"
+  },
+  {
+   "id": "0000950170-25-029085:mtus-20241231.htm",
+   "adsh": "0000950170-25-029085",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001598428",
+   "ciks": [
+    "0001598428"
+   ],
+   "name": "Metallus Inc.  (MTUS)  (CIK 0001598428)",
+   "sic": "3312",
+   "file_date": "2025-02-27",
+   "period_ending": "2024-12-31",
+   "state": "OH",
+   "doc": "mtus-20241231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2025,
+   "sector": "other"
+  },
+  {
+   "id": "0001558370-25-004171:kscp-20241231x10k.htm",
+   "adsh": "0001558370-25-004171",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001600983",
+   "ciks": [
+    "0001600983"
+   ],
+   "name": "Knightscope, Inc.  (KSCP)  (CIK 0001600983)",
+   "sic": "3669",
+   "file_date": "2025-03-31",
+   "period_ending": "2024-12-31",
+   "state": "CA",
+   "doc": "kscp-20241231x10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2025,
+   "sector": "technology"
+  },
+  {
+   "id": "0001670076-25-000041:fron-20241231.htm",
+   "adsh": "0001670076-25-000041",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001670076",
+   "ciks": [
+    "0001670076"
+   ],
+   "name": "Frontier Group Holdings, Inc.  (ULCC)  (CIK 0001670076)",
+   "sic": "4512",
+   "file_date": "2025-02-18",
+   "period_ending": "2024-12-31",
+   "state": "CO",
+   "doc": "fron-20241231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2025,
+   "sector": "other"
+  },
+  {
+   "id": "0001628280-25-008409:zlab-20241231.htm",
+   "adsh": "0001628280-25-008409",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001704292",
+   "ciks": [
+    "0001704292"
+   ],
+   "name": "Zai Lab Ltd  (ZLAB)  (CIK 0001704292)",
+   "sic": "2834",
+   "file_date": "2025-02-27",
+   "period_ending": "2024-12-31",
+   "state": "F4",
+   "doc": "zlab-20241231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2025,
+   "sector": "healthcare"
+  },
+  {
+   "id": "0001760965-25-000011:ktb-20241228.htm",
+   "adsh": "0001760965-25-000011",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001760965",
+   "ciks": [
+    "0001760965"
+   ],
+   "name": "Kontoor Brands, Inc.  (KTB)  (CIK 0001760965)",
+   "sic": "2320",
+   "file_date": "2025-02-25",
+   "period_ending": "2024-12-28",
+   "state": "NC",
+   "doc": "ktb-20241228.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2025,
+   "sector": "other"
+  },
+  {
+   "id": "0000950170-25-026788:opad-20241231.htm",
+   "adsh": "0000950170-25-026788",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001825024",
+   "ciks": [
+    "0001825024"
+   ],
+   "name": "Offerpad Solutions Inc.  (OPAD, OPADW)  (CIK 0001825024)",
+   "sic": "6531",
+   "file_date": "2025-02-25",
+   "period_ending": "2024-12-31",
+   "state": "AZ",
+   "doc": "opad-20241231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2025,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0000950170-25-036566:pay-20241231.htm",
+   "adsh": "0000950170-25-036566",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001841156",
+   "ciks": [
+    "0001841156"
+   ],
+   "name": "Paymentus Holdings, Inc.  (PAY)  (CIK 0001841156)",
+   "sic": "7389",
+   "file_date": "2025-03-11",
+   "period_ending": "2024-12-31",
+   "state": "NC",
+   "doc": "pay-20241231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2025,
+   "sector": "other"
+  },
+  {
+   "id": "0001410578-25-000486:tmb-20241231x10k.htm",
+   "adsh": "0001410578-25-000486",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0002031283",
+   "ciks": [
+    "0002031283"
+   ],
+   "name": "Stone Point Credit Income Fund  (CIK 0002031283)",
+   "sic": null,
+   "file_date": "2025-03-27",
+   "period_ending": "2024-12-31",
+   "state": "CT",
+   "doc": "tmb-20241231x10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2025,
+   "sector": "other"
+  },
+  {
+   "id": "0001654954-26-001850:eml_10k.htm",
+   "adsh": "0001654954-26-001850",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000031107",
+   "ciks": [
+    "0000031107"
+   ],
+   "name": "EASTERN CO  (EML)  (CIK 0000031107)",
+   "sic": "3420",
+   "file_date": "2026-03-03",
+   "period_ending": "2026-01-03",
+   "state": "CT",
+   "doc": "eml_10k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2026,
+   "sector": "other"
+  },
+  {
+   "id": "0000058492-26-000107:leg-20251231.htm",
+   "adsh": "0000058492-26-000107",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000058492",
+   "ciks": [
+    "0000058492"
+   ],
+   "name": "LEGGETT & PLATT INC  (LEG)  (CIK 0000058492)",
+   "sic": "2510",
+   "file_date": "2026-02-26",
+   "period_ending": "2025-12-31",
+   "state": "MO",
+   "doc": "leg-20251231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2026,
+   "sector": "other"
+  },
+  {
+   "id": "0000094344-26-000007:stc-20251231.htm",
+   "adsh": "0000094344-26-000007",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000094344",
+   "ciks": [
+    "0000094344"
+   ],
+   "name": "STEWART INFORMATION SERVICES CORP  (STC)  (CIK 0000094344)",
+   "sic": "6361",
+   "file_date": "2026-02-27",
+   "period_ending": "2025-12-31",
+   "state": "TX",
+   "doc": "stc-20251231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2026,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0000315213-26-000006:rhi-20251231.htm",
+   "adsh": "0000315213-26-000006",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000315213",
+   "ciks": [
+    "0000315213"
+   ],
+   "name": "ROBERT HALF INC.  (RHI)  (CIK 0000315213)",
+   "sic": "7363",
+   "file_date": "2026-02-13",
+   "period_ending": "2025-12-31",
+   "state": "CA",
+   "doc": "rhi-20251231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2026,
+   "sector": "other"
+  },
+  {
+   "id": "0000732712-26-000007:vz-20251231.htm",
+   "adsh": "0000732712-26-000007",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000732712",
+   "ciks": [
+    "0000732712"
+   ],
+   "name": "VERIZON COMMUNICATIONS INC  (VZ)  (CIK 0000732712)",
+   "sic": "4813",
+   "file_date": "2026-02-17",
+   "period_ending": "2025-12-31",
+   "state": "NY",
+   "doc": "vz-20251231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2026,
+   "sector": "other"
+  },
+  {
+   "id": "0001628280-26-049834:csbr-20260430.htm",
+   "adsh": "0001628280-26-049834",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000771856",
+   "ciks": [
+    "0000771856"
+   ],
+   "name": "CHAMPIONS ONCOLOGY, INC.  (CSBR)  (CIK 0000771856)",
+   "sic": "2836",
+   "file_date": "2026-07-27",
+   "period_ending": "2026-04-30",
+   "state": "MD",
+   "doc": "csbr-20260430.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2026,
+   "sector": "healthcare"
+  },
+  {
+   "id": "0000844059-26-000037:frph-20251231.htm",
+   "adsh": "0000844059-26-000037",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000844059",
+   "ciks": [
+    "0000844059"
+   ],
+   "name": "FRP HOLDINGS, INC.  (FRPH)  (CIK 0000844059)",
+   "sic": "6500",
+   "file_date": "2026-04-15",
+   "period_ending": "2025-12-31",
+   "state": "FL",
+   "doc": "frph-20251231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2026,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0001193125-26-049810:enb-20251231.htm",
+   "adsh": "0001193125-26-049810",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0000895728",
+   "ciks": [
+    "0000895728"
+   ],
+   "name": "ENBRIDGE INC  (ENB, EBBGF, EBBNF, EBGEF, EBRGF, EBRZF, ENBFF, ENBGF, ENBHF, ENBMF, ENBNF, ENBOF, ENBRF, ENBSF)  (CIK 0000895728)",
+   "sic": "4610",
+   "file_date": "2026-02-13",
+   "period_ending": "2025-12-31",
+   "state": "A0",
+   "doc": "enb-20251231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2026,
+   "sector": "other"
+  },
+  {
+   "id": "0001018840-26-000012:anf-20260131.htm",
+   "adsh": "0001018840-26-000012",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001018840",
+   "ciks": [
+    "0001018840"
+   ],
+   "name": "ABERCROMBIE & FITCH CO /DE/  (ANF)  (CIK 0001018840)",
+   "sic": "5651",
+   "file_date": "2026-03-26",
+   "period_ending": "2026-01-31",
+   "state": "OH",
+   "doc": "anf-20260131.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2026,
+   "sector": "other"
+  },
+  {
+   "id": "0001058090-26-000009:cmg-20251231.htm",
+   "adsh": "0001058090-26-000009",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001058090",
+   "ciks": [
+    "0001058090"
+   ],
+   "name": "CHIPOTLE MEXICAN GRILL INC  (CMG)  (CIK 0001058090)",
+   "sic": "5812",
+   "file_date": "2026-02-04",
+   "period_ending": "2025-12-31",
+   "state": "CA",
+   "doc": "cmg-20251231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2026,
+   "sector": "other"
+  },
+  {
+   "id": "0001069157-26-000009:ewbc-20251231.htm",
+   "adsh": "0001069157-26-000009",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001069157",
+   "ciks": [
+    "0001069157"
+   ],
+   "name": "EAST WEST BANCORP INC  (EWBC)  (CIK 0001069157)",
+   "sic": "6022",
+   "file_date": "2026-02-27",
+   "period_ending": "2025-12-31",
+   "state": "CA",
+   "doc": "ewbc-20251231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2026,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0001069202-26-000028:lii-20251231.htm",
+   "adsh": "0001069202-26-000028",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001069202",
+   "ciks": [
+    "0001069202"
+   ],
+   "name": "LENNOX INTERNATIONAL INC  (LII)  (CIK 0001069202)",
+   "sic": "3585",
+   "file_date": "2026-02-17",
+   "period_ending": "2025-12-31",
+   "state": "TX",
+   "doc": "lii-20251231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2026,
+   "sector": "other"
+  },
+  {
+   "id": "0001193125-26-051976:ttmi-20251229.htm",
+   "adsh": "0001193125-26-051976",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001116942",
+   "ciks": [
+    "0001116942"
+   ],
+   "name": "TTM TECHNOLOGIES INC  (TTMI)  (CIK 0001116942)",
+   "sic": "3672",
+   "file_date": "2026-02-17",
+   "period_ending": "2025-12-29",
+   "state": "CA",
+   "doc": "ttmi-20251229.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2026,
+   "sector": "technology"
+  },
+  {
+   "id": "0001275158-26-000021:ndls-20251230.htm",
+   "adsh": "0001275158-26-000021",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001275158",
+   "ciks": [
+    "0001275158"
+   ],
+   "name": "NOODLES & Co  (NDLS)  (CIK 0001275158)",
+   "sic": "5812",
+   "file_date": "2026-03-26",
+   "period_ending": "2025-12-30",
+   "state": "CO",
+   "doc": "ndls-20251230.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2026,
+   "sector": "other"
+  },
+  {
+   "id": "0001364954-26-000021:chgg-20251231.htm",
+   "adsh": "0001364954-26-000021",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001364954",
+   "ciks": [
+    "0001364954"
+   ],
+   "name": "CHEGG, INC  (CHGG)  (CIK 0001364954)",
+   "sic": "8200",
+   "file_date": "2026-03-09",
+   "period_ending": "2025-12-31",
+   "state": "CA",
+   "doc": "chgg-20251231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2026,
+   "sector": "other"
+  },
+  {
+   "id": "0001628280-26-013256:rc-20251231.htm",
+   "adsh": "0001628280-26-013256",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001527590",
+   "ciks": [
+    "0001527590"
+   ],
+   "name": "Ready Capital Corp  (RC, RCB, RCC, RCD, RC-PC, RC-PE)  (CIK 0001527590)",
+   "sic": "6798",
+   "file_date": "2026-03-02",
+   "period_ending": "2025-12-31",
+   "state": "NY",
+   "doc": "rc-20251231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2026,
+   "sector": "finance_realestate"
+  },
+  {
+   "id": "0001587732-26-000009:ogs-20251231.htm",
+   "adsh": "0001587732-26-000009",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001587732",
+   "ciks": [
+    "0001587732"
+   ],
+   "name": "ONE Gas, Inc.  (OGS)  (CIK 0001587732)",
+   "sic": "4924",
+   "file_date": "2026-02-19",
+   "period_ending": "2025-12-31",
+   "state": "OK",
+   "doc": "ogs-20251231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2026,
+   "sector": "other"
+  },
+  {
+   "id": "0001638826-26-000028:ttan-20260131.htm",
+   "adsh": "0001638826-26-000028",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001638826",
+   "ciks": [
+    "0001638826"
+   ],
+   "name": "ServiceTitan, Inc.  (TTAN)  (CIK 0001638826)",
+   "sic": "7372",
+   "file_date": "2026-03-25",
+   "period_ending": "2026-01-31",
+   "state": "CA",
+   "doc": "ttan-20260131.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2026,
+   "sector": "technology"
+  },
+  {
+   "id": "0001193125-26-107169:olma-20251231.htm",
+   "adsh": "0001193125-26-107169",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001750284",
+   "ciks": [
+    "0001750284"
+   ],
+   "name": "Olema Pharmaceuticals, Inc.  (OLMA)  (CIK 0001750284)",
+   "sic": "2834",
+   "file_date": "2026-03-16",
+   "period_ending": "2025-12-31",
+   "state": "CA",
+   "doc": "olma-20251231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2026,
+   "sector": "healthcare"
+  },
+  {
+   "id": "0001193125-26-067032:tmdx-20251231.htm",
+   "adsh": "0001193125-26-067032",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001756262",
+   "ciks": [
+    "0001756262"
+   ],
+   "name": "TransMedics Group, Inc.  (TMDX)  (CIK 0001756262)",
+   "sic": "3845",
+   "file_date": "2026-02-24",
+   "period_ending": "2025-12-31",
+   "state": "MA",
+   "doc": "tmdx-20251231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2026,
+   "sector": "healthcare"
+  },
+  {
+   "id": "0001628280-26-017374:aawh-20251231.htm",
+   "adsh": "0001628280-26-017374",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001756390",
+   "ciks": [
+    "0001756390"
+   ],
+   "name": "Ascend Wellness Holdings, Inc.  (AAWH)  (CIK 0001756390)",
+   "sic": "2833",
+   "file_date": "2026-03-12",
+   "period_ending": "2025-12-31",
+   "state": "NJ",
+   "doc": "aawh-20251231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2026,
+   "sector": "healthcare"
+  },
+  {
+   "id": "0001895262-26-000076:ne-20251231.htm",
+   "adsh": "0001895262-26-000076",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001895262",
+   "ciks": [
+    "0001895262"
+   ],
+   "name": "Noble Corp plc  (NE, NE-WT, NE-WTA)  (CIK 0001895262)",
+   "sic": "1381",
+   "file_date": "2026-02-12",
+   "period_ending": "2025-12-31",
+   "state": "TX",
+   "doc": "ne-20251231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2026,
+   "sector": "other"
+  },
+  {
+   "id": "0001899883-26-000015:ftai-20251231.htm",
+   "adsh": "0001899883-26-000015",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001899883",
+   "ciks": [
+    "0001899883"
+   ],
+   "name": "FTAI Infrastructure Inc.  (FIP)  (CIK 0001899883)",
+   "sic": "4011",
+   "file_date": "2026-03-16",
+   "period_ending": "2025-12-31",
+   "state": "NY",
+   "doc": "ftai-20251231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2026,
+   "sector": "other"
+  },
+  {
+   "id": "0001493152-26-010305:form10-k.htm",
+   "adsh": "0001493152-26-010305",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0001983736",
+   "ciks": [
+    "0001983736"
+   ],
+   "name": "Eva Live Inc  (GOAI)  (CIK 0001983736)",
+   "sic": "7370",
+   "file_date": "2026-03-16",
+   "period_ending": "2025-12-31",
+   "state": "CA",
+   "doc": "form10-k.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2026,
+   "sector": "technology"
+  },
+  {
+   "id": "0001193125-26-093932:evmn-20251231.htm",
+   "adsh": "0001193125-26-093932",
+   "form": "10-K",
+   "file_type": "10-K",
+   "root_forms": [
+    "10-K"
+   ],
+   "cik": "0002044725",
+   "ciks": [
+    "0002044725"
+   ],
+   "name": "Evommune, Inc.  (EVMN)  (CIK 0002044725)",
+   "sic": "2834",
+   "file_date": "2026-03-05",
+   "period_ending": "2025-12-31",
+   "state": "CA",
+   "doc": "evmn-20251231.htm",
+   "n_docs_matched": 1,
+   "file_types": [
+    "10-K"
+   ],
+   "main_matched": true,
+   "is_amendment": false,
+   "year": 2026,
+   "sector": "healthcare"
+  }
+ ]
+}

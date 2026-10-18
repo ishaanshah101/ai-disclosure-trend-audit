@@ -1,0 +1,14 @@
+2015: hits    41 collected    41 -> filings    40, original 10-K main-doc matches    38 (36 registrants)
+2016: hits    52 collected    52 -> filings    52, original 10-K main-doc matches    45 (44 registrants)
+2017: hits   116 collected   116 -> filings   114, original 10-K main-doc matches   110 (110 registrants)
+2018: hits   294 collected   294 -> filings   289, original 10-K main-doc matches   271 (271 registrants)
+2019: hits   445 collected   445 -> filings   432, original 10-K main-doc matches   400 (398 registrants)
+2020: hits   558 collected   558 -> filings   543, original 10-K main-doc matches   511 (509 registrants)
+2021: hits   848 collected   848 -> filings   837, original 10-K main-doc matches   734 (730 registrants)
+2022: hits  1156 collected  1156 -> filings  1139, original 10-K main-doc matches  1071 (1065 registrants)
+2023: hits  1295 collected  1295 -> filings  1283, original 10-K main-doc matches  1206 (1201 registrants)
+2024: hits  2436 collected  2436 -> filings  2412, original 10-K main-doc matches  2324 (2317 registrants)
+2025: hits  3324 collected  3323 -> filings  3273, original 10-K main-doc matches  3162 (3153 registrants)
+2026: hits  3883 collected  3882 -> filings  3812, original 10-K main-doc matches  3714 (3710 registrants)
+-> /home/claude/ai-disclosure-trend-audit/data/frame.json
+FRAME_DONE

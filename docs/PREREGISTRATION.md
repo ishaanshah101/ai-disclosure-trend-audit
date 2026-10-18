@@ -300,4 +300,22 @@ those words and with the same prominence as the opposite.
 
 ## 13. Amendments
 
-None at the time of writing.
+**Amendment 1, 2026-10-18, before sampling. The frame excludes amendments and
+exhibit-only matches, and the Section 3.1 table is a table of raw hits.** When the
+enumeration ran it became clear that the `forms=10-K` filter in EDGAR full-text
+search also returns hits on Form 10-K/A and on exhibits filed with a 10-K. Section
+3.1 already said hits are collapsed to filings and restricted to main-document
+matches; this amendment makes the exclusion of amendments explicit, so that the
+frame is the set of original 10-K filings whose main document matches, and it
+records that the companion study's 3,324 figure and this document's table are raw
+hit counts on the same basis. The restricted frame for 2025 is 3,162 filings from
+3,153 registrants. Both counts are published in `data/frame.json`.
+
+**Amendment 2, 2026-10-18, before any corpus sentence was queried. The distinct
+registrant count for the phrase-reuse measure is paginated past the aggregation
+cap.** The pilot in `docs/PHRASE_PILOT.md` found that EDGAR's entity aggregation
+returns at most 30 registrants per query. The preregistered flag at five is
+unaffected. For any phrase that reaches the cap, the full run paginates the hit list
+up to 1,000 documents and counts distinct registrants directly, with a censoring flag
+when the phrase has more hits than that. The window length L = 12 was confirmed by
+the pilot and is unchanged.
