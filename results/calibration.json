@@ -1,0 +1,120 @@
+{
+ "n_units": 120,
+ "n_displays": 130,
+ "duplicates": {
+  "n": 10,
+  "class_consistent": 10,
+  "own_consistent": 10
+ },
+ "survival_by_class": {
+  "capability": {
+   "survived": 26,
+   "n": 30,
+   "rate": 0.8666666666666667,
+   "wilson": [
+    0.703186733179637,
+    0.9469034451594526
+   ]
+  },
+  "risk": {
+   "survived": 26,
+   "n": 27,
+   "rate": 0.9629629629629629,
+   "wilson": [
+    0.8171653406642414,
+    0.9934318540192149
+   ]
+  },
+  "market": {
+   "survived": 25,
+   "n": 28,
+   "rate": 0.8928571428571429,
+   "wilson": [
+    0.7280414845132785,
+    0.9628816331707
+   ]
+  },
+  "governance": {
+   "survived": 5,
+   "n": 8,
+   "rate": 0.625,
+   "wilson": [
+    0.30574239460262737,
+    0.8631557141764026
+   ]
+  },
+  "other": {
+   "survived": 26,
+   "n": 27,
+   "rate": 0.9629629629629629,
+   "wilson": [
+    0.8171653406642414,
+    0.9934318540192149
+   ]
+  }
+ },
+ "transfer_matrix": {
+  "capability": {
+   "capability": 0.8666666666666667,
+   "risk": 0.0,
+   "market": 0.0,
+   "governance": 0.0,
+   "other": 0.13333333333333333
+  },
+  "risk": {
+   "capability": 0.0,
+   "risk": 0.9629629629629629,
+   "market": 0.037037037037037035,
+   "governance": 0.0,
+   "other": 0.0
+  },
+  "market": {
+   "capability": 0.03571428571428571,
+   "risk": 0.0,
+   "market": 0.8928571428571429,
+   "governance": 0.0,
+   "other": 0.07142857142857142
+  },
+  "governance": {
+   "capability": 0.0,
+   "risk": 0.25,
+   "market": 0.0,
+   "governance": 0.625,
+   "other": 0.125
+  },
+  "other": {
+   "capability": 0.037037037037037035,
+   "risk": 0.0,
+   "market": 0.0,
+   "governance": 0.0,
+   "other": 0.9629629629629629
+  }
+ },
+ "overall_survival": 0.9,
+ "survival_by_era": {
+  "2020-2023": {
+   "survived": 37,
+   "n": 39,
+   "rate": 0.9487179487179487
+  },
+  "2015-2019": {
+   "survived": 31,
+   "n": 34,
+   "rate": 0.9117647058823529
+  },
+  "2024-2026": {
+   "survived": 40,
+   "n": 47,
+   "rate": 0.851063829787234
+  }
+ },
+ "own_use": {
+  "true_survived": 51,
+  "true_n": 54,
+  "false_survived": 59,
+  "false_n": 66,
+  "true_rate": 0.9444444444444444,
+  "false_rate": 0.8939393939393939
+ },
+ "reviewer": "Claude Fable 5.1, orchestrating model, blind to the key"
+}

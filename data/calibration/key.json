@@ -1,0 +1,1172 @@
+[
+ {
+  "cid": "c001",
+  "did": "d00329",
+  "rep": 0,
+  "class_majority": "capability",
+  "own_majority": true,
+  "era": "2020-2023",
+  "disputed": false
+ },
+ {
+  "cid": "c002",
+  "did": "d02287",
+  "rep": 0,
+  "class_majority": "market",
+  "own_majority": false,
+  "era": "2015-2019",
+  "disputed": false
+ },
+ {
+  "cid": "c003",
+  "did": "d02198",
+  "rep": 0,
+  "class_majority": "capability",
+  "own_majority": true,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c004",
+  "did": "d02481",
+  "rep": 1,
+  "class_majority": "other",
+  "own_majority": true,
+  "era": "2020-2023",
+  "disputed": true
+ },
+ {
+  "cid": "c005",
+  "did": "d01808",
+  "rep": 0,
+  "class_majority": "other",
+  "own_majority": false,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c006",
+  "did": "d00317",
+  "rep": 0,
+  "class_majority": "other",
+  "own_majority": false,
+  "era": "2015-2019",
+  "disputed": false
+ },
+ {
+  "cid": "c007",
+  "did": "d01565",
+  "rep": 0,
+  "class_majority": "other",
+  "own_majority": true,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c008",
+  "did": "d02442",
+  "rep": 0,
+  "class_majority": "capability",
+  "own_majority": true,
+  "era": "2020-2023",
+  "disputed": false
+ },
+ {
+  "cid": "c009",
+  "did": "d01654",
+  "rep": 0,
+  "class_majority": "other",
+  "own_majority": false,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c010",
+  "did": "d00083",
+  "rep": 0,
+  "class_majority": "risk",
+  "own_majority": false,
+  "era": "2015-2019",
+  "disputed": true
+ },
+ {
+  "cid": "c011",
+  "did": "d01419",
+  "rep": 0,
+  "class_majority": "capability",
+  "own_majority": true,
+  "era": "2020-2023",
+  "disputed": false
+ },
+ {
+  "cid": "c012",
+  "did": "d00068",
+  "rep": 0,
+  "class_majority": "governance",
+  "own_majority": true,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c013",
+  "did": "d02197",
+  "rep": 0,
+  "class_majority": "market",
+  "own_majority": false,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c014",
+  "did": "d01708",
+  "rep": 0,
+  "class_majority": "capability",
+  "own_majority": true,
+  "era": "2020-2023",
+  "disputed": false
+ },
+ {
+  "cid": "c015",
+  "did": "d00860",
+  "rep": 0,
+  "class_majority": "market",
+  "own_majority": false,
+  "era": "2020-2023",
+  "disputed": false
+ },
+ {
+  "cid": "c016",
+  "did": "d01811",
+  "rep": 0,
+  "class_majority": "market",
+  "own_majority": false,
+  "era": "2020-2023",
+  "disputed": false
+ },
+ {
+  "cid": "c017",
+  "did": "d01620",
+  "rep": 0,
+  "class_majority": "other",
+  "own_majority": true,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c018",
+  "did": "d00568",
+  "rep": 0,
+  "class_majority": "market",
+  "own_majority": false,
+  "era": "2020-2023",
+  "disputed": false
+ },
+ {
+  "cid": "c019",
+  "did": "d02232",
+  "rep": 0,
+  "class_majority": "market",
+  "own_majority": false,
+  "era": "2020-2023",
+  "disputed": false
+ },
+ {
+  "cid": "c020",
+  "did": "d02105",
+  "rep": 0,
+  "class_majority": "market",
+  "own_majority": false,
+  "era": "2015-2019",
+  "disputed": false
+ },
+ {
+  "cid": "c021",
+  "did": "d02200",
+  "rep": 0,
+  "class_majority": "market",
+  "own_majority": false,
+  "era": "2020-2023",
+  "disputed": false
+ },
+ {
+  "cid": "c022",
+  "did": "d00440",
+  "rep": 0,
+  "class_majority": "market",
+  "own_majority": false,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c023",
+  "did": "d01896",
+  "rep": 0,
+  "class_majority": "capability",
+  "own_majority": true,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c024",
+  "did": "d00466",
+  "rep": 0,
+  "class_majority": "other",
+  "own_majority": true,
+  "era": "2015-2019",
+  "disputed": false
+ },
+ {
+  "cid": "c025",
+  "did": "d00008",
+  "rep": 0,
+  "class_majority": "market",
+  "own_majority": false,
+  "era": "2020-2023",
+  "disputed": false
+ },
+ {
+  "cid": "c026",
+  "did": "d00725",
+  "rep": 0,
+  "class_majority": "other",
+  "own_majority": false,
+  "era": "2015-2019",
+  "disputed": false
+ },
+ {
+  "cid": "c027",
+  "did": "d02419",
+  "rep": 0,
+  "class_majority": "governance",
+  "own_majority": true,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c028",
+  "did": "d02351",
+  "rep": 0,
+  "class_majority": "risk",
+  "own_majority": false,
+  "era": "2020-2023",
+  "disputed": false
+ },
+ {
+  "cid": "c029",
+  "did": "d02197",
+  "rep": 1,
+  "class_majority": "market",
+  "own_majority": false,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c030",
+  "did": "d01200",
+  "rep": 0,
+  "class_majority": "other",
+  "own_majority": false,
+  "era": "2020-2023",
+  "disputed": false
+ },
+ {
+  "cid": "c031",
+  "did": "d00055",
+  "rep": 0,
+  "class_majority": "other",
+  "own_majority": true,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c032",
+  "did": "d02386",
+  "rep": 0,
+  "class_majority": "governance",
+  "own_majority": false,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c033",
+  "did": "d00177",
+  "rep": 0,
+  "class_majority": "market",
+  "own_majority": false,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c034",
+  "did": "d02471",
+  "rep": 0,
+  "class_majority": "other",
+  "own_majority": true,
+  "era": "2020-2023",
+  "disputed": false
+ },
+ {
+  "cid": "c035",
+  "did": "d02427",
+  "rep": 0,
+  "class_majority": "capability",
+  "own_majority": true,
+  "era": "2015-2019",
+  "disputed": false
+ },
+ {
+  "cid": "c036",
+  "did": "d02215",
+  "rep": 0,
+  "class_majority": "capability",
+  "own_majority": true,
+  "era": "2015-2019",
+  "disputed": false
+ },
+ {
+  "cid": "c037",
+  "did": "d02204",
+  "rep": 0,
+  "class_majority": "market",
+  "own_majority": false,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c038",
+  "did": "d02522",
+  "rep": 0,
+  "class_majority": "risk",
+  "own_majority": false,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c039",
+  "did": "d01523",
+  "rep": 0,
+  "class_majority": "capability",
+  "own_majority": true,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c040",
+  "did": "d00207",
+  "rep": 0,
+  "class_majority": "other",
+  "own_majority": false,
+  "era": "2020-2023",
+  "disputed": false
+ },
+ {
+  "cid": "c041",
+  "did": "d00987",
+  "rep": 0,
+  "class_majority": "risk",
+  "own_majority": false,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c042",
+  "did": "d00077",
+  "rep": 0,
+  "class_majority": "risk",
+  "own_majority": false,
+  "era": "2015-2019",
+  "disputed": false
+ },
+ {
+  "cid": "c043",
+  "did": "d02598",
+  "rep": 1,
+  "class_majority": "risk",
+  "own_majority": false,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c044",
+  "did": "d02318",
+  "rep": 0,
+  "class_majority": "market",
+  "own_majority": false,
+  "era": "2020-2023",
+  "disputed": false
+ },
+ {
+  "cid": "c045",
+  "did": "d00806",
+  "rep": 0,
+  "class_majority": "governance",
+  "own_majority": false,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c046",
+  "did": "d02504",
+  "rep": 0,
+  "class_majority": "risk",
+  "own_majority": true,
+  "era": "2015-2019",
+  "disputed": false
+ },
+ {
+  "cid": "c047",
+  "did": "d00327",
+  "rep": 0,
+  "class_majority": "governance",
+  "own_majority": false,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c048",
+  "did": "d01710",
+  "rep": 0,
+  "class_majority": "other",
+  "own_majority": true,
+  "era": "2015-2019",
+  "disputed": true
+ },
+ {
+  "cid": "c049",
+  "did": "d01969",
+  "rep": 0,
+  "class_majority": "risk",
+  "own_majority": false,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c050",
+  "did": "d00503",
+  "rep": 0,
+  "class_majority": "governance",
+  "own_majority": false,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c051",
+  "did": "d01385",
+  "rep": 0,
+  "class_majority": "market",
+  "own_majority": false,
+  "era": "2020-2023",
+  "disputed": false
+ },
+ {
+  "cid": "c052",
+  "did": "d01402",
+  "rep": 0,
+  "class_majority": "risk",
+  "own_majority": false,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c053",
+  "did": "d00163",
+  "rep": 0,
+  "class_majority": "risk",
+  "own_majority": false,
+  "era": "2015-2019",
+  "disputed": false
+ },
+ {
+  "cid": "c054",
+  "did": "d01776",
+  "rep": 0,
+  "class_majority": "governance",
+  "own_majority": true,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c055",
+  "did": "d01139",
+  "rep": 0,
+  "class_majority": "other",
+  "own_majority": true,
+  "era": "2015-2019",
+  "disputed": false
+ },
+ {
+  "cid": "c056",
+  "did": "d00326",
+  "rep": 0,
+  "class_majority": "other",
+  "own_majority": true,
+  "era": "2015-2019",
+  "disputed": false
+ },
+ {
+  "cid": "c057",
+  "did": "d02009",
+  "rep": 0,
+  "class_majority": "other",
+  "own_majority": false,
+  "era": "2020-2023",
+  "disputed": false
+ },
+ {
+  "cid": "c058",
+  "did": "d01408",
+  "rep": 0,
+  "class_majority": "capability",
+  "own_majority": true,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c059",
+  "did": "d00339",
+  "rep": 0,
+  "class_majority": "risk",
+  "own_majority": false,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c060",
+  "did": "d00467",
+  "rep": 0,
+  "class_majority": "risk",
+  "own_majority": false,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c061",
+  "did": "d00125",
+  "rep": 0,
+  "class_majority": "capability",
+  "own_majority": true,
+  "era": "2015-2019",
+  "disputed": false
+ },
+ {
+  "cid": "c062",
+  "did": "d00011",
+  "rep": 0,
+  "class_majority": "market",
+  "own_majority": false,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c063",
+  "did": "d00471",
+  "rep": 0,
+  "class_majority": "other",
+  "own_majority": true,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c064",
+  "did": "d00584",
+  "rep": 0,
+  "class_majority": "risk",
+  "own_majority": true,
+  "era": "2020-2023",
+  "disputed": false
+ },
+ {
+  "cid": "c065",
+  "did": "d02094",
+  "rep": 0,
+  "class_majority": "governance",
+  "own_majority": true,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c066",
+  "did": "d00918",
+  "rep": 0,
+  "class_majority": "other",
+  "own_majority": true,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c067",
+  "did": "d00550",
+  "rep": 0,
+  "class_majority": "risk",
+  "own_majority": false,
+  "era": "2015-2019",
+  "disputed": false
+ },
+ {
+  "cid": "c068",
+  "did": "d01772",
+  "rep": 0,
+  "class_majority": "capability",
+  "own_majority": true,
+  "era": "2015-2019",
+  "disputed": false
+ },
+ {
+  "cid": "c069",
+  "did": "d01779",
+  "rep": 0,
+  "class_majority": "market",
+  "own_majority": false,
+  "era": "2015-2019",
+  "disputed": false
+ },
+ {
+  "cid": "c070",
+  "did": "d01515",
+  "rep": 0,
+  "class_majority": "risk",
+  "own_majority": false,
+  "era": "2015-2019",
+  "disputed": false
+ },
+ {
+  "cid": "c071",
+  "did": "d00494",
+  "rep": 0,
+  "class_majority": "capability",
+  "own_majority": true,
+  "era": "2020-2023",
+  "disputed": false
+ },
+ {
+  "cid": "c072",
+  "did": "d02406",
+  "rep": 0,
+  "class_majority": "risk",
+  "own_majority": false,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c073",
+  "did": "d01252",
+  "rep": 0,
+  "class_majority": "capability",
+  "own_majority": true,
+  "era": "2015-2019",
+  "disputed": false
+ },
+ {
+  "cid": "c074",
+  "did": "d01088",
+  "rep": 0,
+  "class_majority": "capability",
+  "own_majority": true,
+  "era": "2020-2023",
+  "disputed": false
+ },
+ {
+  "cid": "c075",
+  "did": "d02200",
+  "rep": 1,
+  "class_majority": "market",
+  "own_majority": false,
+  "era": "2020-2023",
+  "disputed": false
+ },
+ {
+  "cid": "c076",
+  "did": "d00601",
+  "rep": 0,
+  "class_majority": "other",
+  "own_majority": false,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c077",
+  "did": "d02095",
+  "rep": 0,
+  "class_majority": "risk",
+  "own_majority": true,
+  "era": "2020-2023",
+  "disputed": false
+ },
+ {
+  "cid": "c078",
+  "did": "d00432",
+  "rep": 0,
+  "class_majority": "other",
+  "own_majority": false,
+  "era": "2020-2023",
+  "disputed": false
+ },
+ {
+  "cid": "c079",
+  "did": "d00734",
+  "rep": 0,
+  "class_majority": "capability",
+  "own_majority": true,
+  "era": "2015-2019",
+  "disputed": false
+ },
+ {
+  "cid": "c080",
+  "did": "d01412",
+  "rep": 0,
+  "class_majority": "market",
+  "own_majority": false,
+  "era": "2015-2019",
+  "disputed": false
+ },
+ {
+  "cid": "c081",
+  "did": "d00312",
+  "rep": 0,
+  "class_majority": "other",
+  "own_majority": false,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c082",
+  "did": "d00580",
+  "rep": 0,
+  "class_majority": "risk",
+  "own_majority": false,
+  "era": "2020-2023",
+  "disputed": false
+ },
+ {
+  "cid": "c083",
+  "did": "d02508",
+  "rep": 0,
+  "class_majority": "market",
+  "own_majority": false,
+  "era": "2015-2019",
+  "disputed": false
+ },
+ {
+  "cid": "c084",
+  "did": "d01677",
+  "rep": 0,
+  "class_majority": "other",
+  "own_majority": true,
+  "era": "2020-2023",
+  "disputed": true
+ },
+ {
+  "cid": "c085",
+  "did": "d01947",
+  "rep": 0,
+  "class_majority": "risk",
+  "own_majority": false,
+  "era": "2020-2023",
+  "disputed": false
+ },
+ {
+  "cid": "c086",
+  "did": "d01211",
+  "rep": 0,
+  "class_majority": "market",
+  "own_majority": false,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c087",
+  "did": "d02481",
+  "rep": 0,
+  "class_majority": "other",
+  "own_majority": true,
+  "era": "2020-2023",
+  "disputed": true
+ },
+ {
+  "cid": "c088",
+  "did": "d00734",
+  "rep": 1,
+  "class_majority": "capability",
+  "own_majority": true,
+  "era": "2015-2019",
+  "disputed": false
+ },
+ {
+  "cid": "c089",
+  "did": "d02170",
+  "rep": 0,
+  "class_majority": "risk",
+  "own_majority": false,
+  "era": "2020-2023",
+  "disputed": false
+ },
+ {
+  "cid": "c090",
+  "did": "d02618",
+  "rep": 1,
+  "class_majority": "risk",
+  "own_majority": false,
+  "era": "2015-2019",
+  "disputed": false
+ },
+ {
+  "cid": "c091",
+  "did": "d02357",
+  "rep": 0,
+  "class_majority": "capability",
+  "own_majority": true,
+  "era": "2020-2023",
+  "disputed": false
+ },
+ {
+  "cid": "c092",
+  "did": "d00226",
+  "rep": 0,
+  "class_majority": "market",
+  "own_majority": false,
+  "era": "2020-2023",
+  "disputed": false
+ },
+ {
+  "cid": "c093",
+  "did": "d01573",
+  "rep": 0,
+  "class_majority": "market",
+  "own_majority": false,
+  "era": "2020-2023",
+  "disputed": false
+ },
+ {
+  "cid": "c094",
+  "did": "d00012",
+  "rep": 0,
+  "class_majority": "other",
+  "own_majority": false,
+  "era": "2020-2023",
+  "disputed": false
+ },
+ {
+  "cid": "c095",
+  "did": "d01189",
+  "rep": 0,
+  "class_majority": "other",
+  "own_majority": true,
+  "era": "2015-2019",
+  "disputed": false
+ },
+ {
+  "cid": "c096",
+  "did": "d01877",
+  "rep": 0,
+  "class_majority": "market",
+  "own_majority": false,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c097",
+  "did": "d01774",
+  "rep": 1,
+  "class_majority": "capability",
+  "own_majority": true,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c098",
+  "did": "d01736",
+  "rep": 0,
+  "class_majority": "market",
+  "own_majority": false,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c099",
+  "did": "d01708",
+  "rep": 1,
+  "class_majority": "capability",
+  "own_majority": true,
+  "era": "2020-2023",
+  "disputed": false
+ },
+ {
+  "cid": "c100",
+  "did": "d00133",
+  "rep": 0,
+  "class_majority": "capability",
+  "own_majority": true,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c101",
+  "did": "d02163",
+  "rep": 0,
+  "class_majority": "market",
+  "own_majority": false,
+  "era": "2015-2019",
+  "disputed": false
+ },
+ {
+  "cid": "c102",
+  "did": "d01693",
+  "rep": 0,
+  "class_majority": "market",
+  "own_majority": false,
+  "era": "2020-2023",
+  "disputed": false
+ },
+ {
+  "cid": "c103",
+  "did": "d02598",
+  "rep": 0,
+  "class_majority": "risk",
+  "own_majority": false,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c104",
+  "did": "d00868",
+  "rep": 0,
+  "class_majority": "risk",
+  "own_majority": true,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c105",
+  "did": "d00509",
+  "rep": 0,
+  "class_majority": "capability",
+  "own_majority": true,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c106",
+  "did": "d01206",
+  "rep": 0,
+  "class_majority": "capability",
+  "own_majority": true,
+  "era": "2015-2019",
+  "disputed": false
+ },
+ {
+  "cid": "c107",
+  "did": "d02618",
+  "rep": 0,
+  "class_majority": "risk",
+  "own_majority": false,
+  "era": "2015-2019",
+  "disputed": false
+ },
+ {
+  "cid": "c108",
+  "did": "d00948",
+  "rep": 0,
+  "class_majority": "risk",
+  "own_majority": true,
+  "era": "2015-2019",
+  "disputed": false
+ },
+ {
+  "cid": "c109",
+  "did": "d01118",
+  "rep": 0,
+  "class_majority": "other",
+  "own_majority": false,
+  "era": "2015-2019",
+  "disputed": false
+ },
+ {
+  "cid": "c110",
+  "did": "d02153",
+  "rep": 0,
+  "class_majority": "other",
+  "own_majority": true,
+  "era": "2020-2023",
+  "disputed": false
+ },
+ {
+  "cid": "c111",
+  "did": "d00980",
+  "rep": 0,
+  "class_majority": "capability",
+  "own_majority": true,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c112",
+  "did": "d00422",
+  "rep": 0,
+  "class_majority": "capability",
+  "own_majority": true,
+  "era": "2015-2019",
+  "disputed": false
+ },
+ {
+  "cid": "c113",
+  "did": "d00329",
+  "rep": 1,
+  "class_majority": "capability",
+  "own_majority": true,
+  "era": "2020-2023",
+  "disputed": false
+ },
+ {
+  "cid": "c114",
+  "did": "d02057",
+  "rep": 0,
+  "class_majority": "risk",
+  "own_majority": false,
+  "era": "2020-2023",
+  "disputed": false
+ },
+ {
+  "cid": "c115",
+  "did": "d02296",
+  "rep": 0,
+  "class_majority": "capability",
+  "own_majority": true,
+  "era": "2015-2019",
+  "disputed": false
+ },
+ {
+  "cid": "c116",
+  "did": "d01774",
+  "rep": 0,
+  "class_majority": "capability",
+  "own_majority": true,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c117",
+  "did": "d00842",
+  "rep": 0,
+  "class_majority": "capability",
+  "own_majority": true,
+  "era": "2024-2026",
+  "disputed": true
+ },
+ {
+  "cid": "c118",
+  "did": "d02332",
+  "rep": 0,
+  "class_majority": "other",
+  "own_majority": false,
+  "era": "2015-2019",
+  "disputed": false
+ },
+ {
+  "cid": "c119",
+  "did": "d02246",
+  "rep": 0,
+  "class_majority": "risk",
+  "own_majority": false,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c120",
+  "did": "d01756",
+  "rep": 0,
+  "class_majority": "capability",
+  "own_majority": true,
+  "era": "2020-2023",
+  "disputed": false
+ },
+ {
+  "cid": "c121",
+  "did": "d00199",
+  "rep": 0,
+  "class_majority": "market",
+  "own_majority": false,
+  "era": "2015-2019",
+  "disputed": false
+ },
+ {
+  "cid": "c122",
+  "did": "d02519",
+  "rep": 0,
+  "class_majority": "market",
+  "own_majority": false,
+  "era": "2015-2019",
+  "disputed": false
+ },
+ {
+  "cid": "c123",
+  "did": "d01001",
+  "rep": 0,
+  "class_majority": "capability",
+  "own_majority": true,
+  "era": "2020-2023",
+  "disputed": false
+ },
+ {
+  "cid": "c124",
+  "did": "d01506",
+  "rep": 0,
+  "class_majority": "capability",
+  "own_majority": true,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c125",
+  "did": "d02105",
+  "rep": 1,
+  "class_majority": "market",
+  "own_majority": false,
+  "era": "2015-2019",
+  "disputed": false
+ },
+ {
+  "cid": "c126",
+  "did": "d00757",
+  "rep": 0,
+  "class_majority": "capability",
+  "own_majority": true,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c127",
+  "did": "d02561",
+  "rep": 0,
+  "class_majority": "capability",
+  "own_majority": true,
+  "era": "2020-2023",
+  "disputed": false
+ },
+ {
+  "cid": "c128",
+  "did": "d00524",
+  "rep": 0,
+  "class_majority": "risk",
+  "own_majority": true,
+  "era": "2020-2023",
+  "disputed": false
+ },
+ {
+  "cid": "c129",
+  "did": "d01752",
+  "rep": 0,
+  "class_majority": "market",
+  "own_majority": false,
+  "era": "2024-2026",
+  "disputed": false
+ },
+ {
+  "cid": "c130",
+  "did": "d01950",
+  "rep": 0,
+  "class_majority": "risk",
+  "own_majority": false,
+  "era": "2020-2023",
+  "disputed": false
+ }
+]

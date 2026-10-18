@@ -1,0 +1,10 @@
+{"id": "t00301", "class": "risk", "own_use": true}
+{"id": "t00302", "class": "capability", "own_use": true}
+{"id": "t00303", "class": "risk", "own_use": false}
+{"id": "t00304", "class": "other", "own_use": true}
+{"id": "t00305", "class": "other", "own_use": false}
+{"id": "t00306", "class": "capability", "own_use": true}
+{"id": "t00307", "class": "market", "own_use": false}
+{"id": "t00308", "class": "risk", "own_use": false}
+{"id": "t00309", "class": "risk", "own_use": false}
+{"id": "t00310", "class": "market", "own_use": false}

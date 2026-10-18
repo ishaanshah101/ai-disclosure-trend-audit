@@ -319,3 +319,32 @@ unaffected. For any phrase that reaches the cap, the full run paginates the hit 
 up to 1,000 documents and counts distinct registrants directly, with a censoring flag
 when the phrase has more hits than that. The window length L = 12 was confirmed by
 the pilot and is unchanged.
+
+**Amendment 3, 2026-10-18, at extraction and before any sentence was rated.
+Sentence-level rates are reported with filings weighted equally as the primary
+presentation, beside the sentence-weighted rates the preregistration implied.**
+Extraction found that one 2023 registrant whose name contains the letters AI
+(C3.ai) contributed 448 of the 2,590 extracted sentences, and 154 of the 2,242
+that survive the term audit, so a sentence-weighted composition for 2023 is largely
+the composition of one filing. Section 8 already committed to bootstrapping over
+filings. This amendment adds that every sentence-level estimand (class shares and
+the own-use share, overall, by era and by year) is computed and reported two ways:
+weighting each sentence once, as Section 2 implied, and weighting each filing once,
+using its within-filing shares. The filing-weighted version is treated as primary in
+the paper's text and the sentence-weighted version is published beside it. The
+predictions in Section 10 are evaluated on the filing-weighted, majority-of-three
+basis, with the other bases reported. Nothing about the rubric, the passes, the
+calibration or the phrase-reuse measure changes.
+
+**Amendment 4, 2026-10-18, after rating and before the paper was written. The
+C3.ai ticker is not redacted.** Section 5 said tickers are removed from the sentence
+text. C3.ai's ticker is "AI", and removing it would erase the very term being rated
+from every one of its sentences, so a ticker that is itself an AI term is left in
+place. The registrant's name is still removed. This is recorded as a deviation
+rather than silently absorbed because it means that one registrant's sentences were
+shown with slightly less redaction than the others.
+
+**Note, not an amendment, 2026-10-18.** The usage limit on the rating model paused
+the blind passes for about seven hours after 45 of 108 batches had completed; the
+remaining batches ran under the same committed prompt and the same assignment when
+the limit reset. No batch was rated twice and no judgement was discarded.

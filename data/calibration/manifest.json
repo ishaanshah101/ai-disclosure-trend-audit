@@ -1,0 +1,23 @@
+{
+ "seed": 20261018,
+ "n_units": 120,
+ "n_displays": 130,
+ "n_duplicates": 10,
+ "cells": {
+  "capability|2015-2019": 245,
+  "capability|2020-2023": 344,
+  "capability|2024-2026": 306,
+  "risk|2015-2019": 28,
+  "risk|2020-2023": 86,
+  "risk|2024-2026": 461,
+  "market|2015-2019": 78,
+  "market|2020-2023": 93,
+  "market|2024-2026": 100,
+  "governance|2015-2019": 0,
+  "governance|2020-2023": 0,
+  "governance|2024-2026": 8,
+  "other|2015-2019": 139,
+  "other|2020-2023": 212,
+  "other|2024-2026": 137
+ }
+}

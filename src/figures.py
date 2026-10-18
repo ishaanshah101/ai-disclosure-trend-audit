@@ -105,7 +105,8 @@ def fig3_reuse():
             continue
         share = [np.mean(v >= k) * 100 for k in ks]
         ax.plot(range(len(ks)), share, color=COL[cls], lw=2, marker="o", ms=4, label=f"{cls} (n={len(v)})")
-        ax.annotate(cls, (len(ks) - 1, share[-1]), textcoords="offset points", xytext=(5, 0), fontsize=8, color=INK2, va="center")
+    ax.annotate("risk", (ks.index(5), np.mean(np.array(vals["risk"]) >= 5) * 100), textcoords="offset points",
+                xytext=(8, 6), fontsize=8, color=COL["risk"])
     ax.axvline(ks.index(5), color=GRID, lw=1, ls="--")
     ax.text(ks.index(5) + 0.1, 95, "preregistered flag (5)", fontsize=8, color=MUTED)
     ax.set_xticks(range(len(ks)))
@@ -170,7 +171,7 @@ def fig6_sector():
         e = sec[k]["own_use_any"]
         ax.plot([e["lo"] * 100, e["hi"] * 100], [i, i], color="#c3c2b7", lw=2)
         ax.plot(e["estimate"] * 100, i, "o", color=COL["other"], ms=7)
-        ax.annotate(f"{e['estimate']*100:.0f}%  (n={sec[k]['n_filings']})", (e["hi"] * 100, i), textcoords="offset points", xytext=(6, 0), fontsize=8, va="center", color=INK2)
+        ax.annotate(f"{e['estimate']*100:.0f}%  (n={sec[k]['n_filings_with_sentences']})", (e["hi"] * 100, i), textcoords="offset points", xytext=(6, 0), fontsize=8, va="center", color=INK2)
     ax.set_yticks(range(len(keys))); ax.set_yticklabels([names[k] for k in keys])
     ax.set_xlim(0, 100)
     ax.set_xlabel("share of AI-mentioning filings with at least one own-use sentence, percent, with 95% bootstrap interval")
