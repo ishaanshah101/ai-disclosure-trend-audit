@@ -58,34 +58,61 @@ def core_phrase(text, L=L):
     return " ".join(t for t, _ in toks[base:base + L])
 
 
-def fts_phrase(phrase, retries=6):
+AGG_CAP = 30          # EDGAR's entity aggregation returns at most 30 buckets
+PAGE_CAP = 1000       # paginate the hit list this far when the aggregation is capped
+
+
+def _get(phrase, frm, retries=6):
     q = urllib.parse.urlencode({"q": f'"{phrase}"', "forms": "10-K",
                                 "dateRange": "custom", "startdt": "2001-01-01",
-                                "enddt": "2026-10-18", "from": 0})
+                                "enddt": "2026-10-18", "from": frm})
     req = urllib.request.Request("https://efts.sec.gov/LATEST/search-index?" + q,
                                  headers={"User-Agent": UA, "Accept": "application/json"})
     for attempt in range(retries):
         try:
-            d = json.load(urllib.request.urlopen(req, timeout=60))
-            total = d["hits"]["total"]["value"]
-            # the entity aggregation lists distinct filers for the whole result set
-            ent = d.get("aggregations", {}).get("entity_filter", {}).get("buckets", [])
-            ciks = set()
-            for b in ent:
-                k = str(b.get("key", ""))
-                mm = re.search(r"CIK (\d{10})", k)
-                ciks.add(mm.group(1) if mm else k)
-            # fall back to the hits on the first page when the aggregation is absent
-            if not ent:
-                for h in d["hits"]["hits"]:
-                    for c in h["_source"].get("ciks") or []:
-                        ciks.add(c)
-            return {"total_hits": total, "n_ciks": len(ciks), "ciks": sorted(ciks),
-                    "agg_truncated": len(ent) >= 100}
+            return json.load(urllib.request.urlopen(req, timeout=60))
         except Exception as e:
             if attempt == retries - 1:
-                return {"error": str(e)}
+                raise
             time.sleep(2 + 3 * attempt)
+
+
+def fts_phrase(phrase):
+    """Total document hits and the set of distinct registrants (CIKs) that filed
+    a 10-K containing the phrase. The entity aggregation is capped at 30
+    registrants, so when it is full the hit list is paginated, up to PAGE_CAP
+    documents, and registrants are counted directly (Amendment 2)."""
+    try:
+        d = _get(phrase, 0)
+    except Exception as e:
+        return {"error": str(e)}
+    total = d["hits"]["total"]["value"]
+    ent = d.get("aggregations", {}).get("entity_filter", {}).get("buckets", [])
+    ciks = set()
+    for b in ent:
+        mm = re.search(r"CIK (\d{10})", str(b.get("key", "")))
+        ciks.add(mm.group(1) if mm else str(b.get("key", "")))
+    for h in d["hits"]["hits"]:
+        for c in h["_source"].get("ciks") or []:
+            ciks.add(c)
+    paginated, censored = False, False
+    if len(ent) >= AGG_CAP and total > len(d["hits"]["hits"]):
+        paginated = True
+        frm = 100
+        while frm < min(total, PAGE_CAP):
+            time.sleep(0.25)
+            try:
+                dd = _get(phrase, frm)
+            except Exception:
+                break
+            for h in dd["hits"]["hits"]:
+                for c in h["_source"].get("ciks") or []:
+                    ciks.add(c)
+            frm += 100
+        censored = total > PAGE_CAP
+    return {"total_hits": total, "n_ciks": len(ciks), "ciks": sorted(ciks),
+            "agg_capped": len(ent) >= AGG_CAP, "paginated": paginated,
+            "ciks_censored": censored}
 
 
 def run(sentences, own_cik_of, L=L, sleep=0.35, log_every=50, out_path=None, resume=None):
@@ -140,6 +167,9 @@ def pilot():
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--pilot", action="store_true")
+    ap.add_argument("--L", type=int, default=L, help="window length (preregistered 12)")
+    ap.add_argument("--out", default=OUT)
+    ap.add_argument("--skip-non-ai", action="store_true", help="skip sentences removed by the term audit")
     a = ap.parse_args()
     if a.pilot:
         pilot(); return
@@ -147,11 +177,13 @@ def main():
     sents, cik_of = [], {}
     for f in d["filings"]:
         for s in f["ai_sentences"]:
+            if a.skip_non_ai and s.get("non_ai"):
+                continue
             sents.append({"id": s["id"], "text": s["text"]})
             cik_of[s["id"]] = f["cik"]
-    resume = json.load(open(OUT)) if os.path.exists(OUT) else {}
-    run(sents, lambda s: cik_of[s["id"]], L=L, out_path=OUT, resume=resume)
-    print("->", OUT)
+    resume = json.load(open(a.out)) if os.path.exists(a.out) else {}
+    run(sents, lambda s: cik_of[s["id"]], L=a.L, out_path=a.out, resume=resume)
+    print("->", a.out)
 
 
 if __name__ == "__main__":

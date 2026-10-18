@@ -1,0 +1,90 @@
+{
+ "n_corpus_rated": 2242,
+ "n_removed_non_ai": 348,
+ "class": {
+  "observed_agreement": 0.9460303300624442,
+  "n_agree": 2121,
+  "krippendorff_alpha": 0.9236430041618584,
+  "positive_specific_agreement": {
+   "capability": 0.9563812600969306,
+   "risk": 0.9833187006145742,
+   "market": 0.9390018484288355,
+   "governance": 0.8,
+   "other": 0.8867313915857605
+  },
+  "disagreement_pairs": {
+   "capability vs other": 73,
+   "market vs other": 21,
+   "other vs risk": 9,
+   "market vs risk": 6,
+   "capability vs market": 6,
+   "governance vs risk": 2,
+   "governance vs other": 2,
+   "capability vs risk": 2
+  },
+  "agreed_counts": {
+   "capability": 888,
+   "risk": 560,
+   "market": 254,
+   "other": 411,
+   "governance": 8
+  }
+ },
+ "own_use": {
+  "observed_agreement": 0.9768064228367529,
+  "n_agree": 2190,
+  "krippendorff_alpha": 0.9522515015882301,
+  "agreed_true": 1285,
+  "agreed_false": 905
+ },
+ "controls": {
+  "n_controls": 30,
+  "n_judgements": 60,
+  "accuracy": 1.0,
+  "accuracy_wilson": [
+   0.93982814785791,
+   1.0
+  ],
+  "by_class": {
+   "capability": {
+    "right": 16,
+    "total": 16
+   },
+   "risk": {
+    "right": 16,
+    "total": 16
+   },
+   "market": {
+    "right": 12,
+    "total": 12
+   },
+   "governance": {
+    "right": 4,
+    "total": 4
+   },
+   "other": {
+    "right": 12,
+    "total": 12
+   }
+  },
+  "confusion": {
+   "capability->capability": 16,
+   "governance->governance": 4,
+   "market->market": 12,
+   "other->other": 12,
+   "risk->risk": 16
+  }
+ },
+ "era_cue": {
+  "n_sentences": 151,
+  "share": 0.06735057983942908,
+  "agreement_with_cue": 0.9337748344370861,
+  "agreement_without": 0.9469153515064562
+ },
+ "name_leak": {
+  "n_sentences": 82,
+  "share": 0.036574487065120426,
+  "agreement_with_leak": 0.9146341463414634,
+  "agreement_without": 0.9472222222222222
+ }
+}
