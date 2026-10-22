@@ -402,3 +402,37 @@ direction of the likely correction stated.
 the blind passes for about seven hours after 45 of 108 batches had completed; the
 remaining batches ran under the same committed prompt and the same assignment when
 the limit reset. No batch was rated twice and no judgement was discarded.
+
+## Amendment 7, 2026-10-22: second revision after a referee-style review
+
+An independent referee-style review of the 18 October draft raised ten substantive
+points. The analyses it prompted are in `src/revision2.py` and
+`results/revision2.json`. None was preregistered, and the paper labels all of them
+exploratory. They are:
+
+- mean AI sentences per filing by class and era, which shows that capability claims
+  per filing doubled while risk sentences were added on top (63 percent of the added
+  volume), so the fall in the capability share is dilution, not substitution;
+- a stricter "substantive" own-use indicator, which excludes own-use carried only by
+  risk-class sentences or by sentences shared verbatim with five or more other
+  registrants, and the mention-to-assertion ratio on both definitions;
+- the filing-level own-use rate conditional on the number of AI sentences in a
+  filing, by terciles and by a design-weighted logit;
+- the per-sentence calibration error rates propagated to the filing-level fractions
+  by simulation, which closes the deviation recorded above about the filing-level
+  correction;
+- the 10-K item in which each AI sentence sits, from the item headings of the
+  downloaded documents;
+- within-firm reuse for registrants drawn in more than one year;
+- a design-weighted sentence-level logit with era indicators, replacing the
+  unweighted linear-in-year logit of the first draft.
+
+The predictions are now classified symmetrically as held (interval excludes the
+null), held on the point estimate only, or failed on the point estimate. Under that
+rule Prediction 6 is "held on the point estimate only" (1.63 against 1.62), which is
+how `results/analysis.json` already recorded it, and Prediction 3 is "failed on the
+point estimate" on the design-weighted value, 61.5 percent. The paper was retitled
+and shortened, the rhetorical framing of "inversion" was replaced by "addition", and
+a full AI-use statement was added. A blinded human-validation sample of 300 sentences
+was drawn under seed 20261022 and published in `data/human_validation/`. Its results
+will be reported in a further amendment when two human coders have completed it.

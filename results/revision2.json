@@ -1,0 +1,531 @@
+{
+ "note": "exploratory analyses added in the second revision, not preregistered",
+ "reps": 10000,
+ "R6_year_weights_within_era": {
+  "2015-2019": {
+   "2015": 0.04190919674039581,
+   "2016": 0.051222351571594875,
+   "2017": 0.1280558789289872,
+   "2018": 0.31548311990686845,
+   "2019": 0.46332945285215366
+  },
+  "2020-2023": {
+   "2020": 0.14522111269614835,
+   "2021": 0.20827389443651925,
+   "2022": 0.30385164051355207,
+   "2023": 0.3426533523537803
+  },
+  "2024-2026": {
+   "2024": 0.25239651416122005,
+   "2025": 0.3434640522875817,
+   "2026": 0.40413943355119825
+  }
+ },
+ "R1_mean_sentences_per_filing": {
+  "2015-2019": {
+   "capability": {
+    "estimate": 1.772417539774932,
+    "lo": 1.206263872720217,
+    "hi": 2.414963523476912
+   },
+   "risk": {
+    "estimate": 0.34707023670935205,
+    "lo": 0.1402840512223516,
+    "hi": 0.6573783469150174
+   },
+   "market": {
+    "estimate": 0.7520838183934808,
+    "lo": 0.47134691501746223,
+    "hi": 1.0810888630190145
+   },
+   "governance": {
+    "estimate": 0.0,
+    "lo": 0.0,
+    "hi": 0.0
+   },
+   "other": {
+    "estimate": 1.0591385331781142,
+    "lo": 0.5837764842840513,
+    "hi": 1.7525615056266977
+   },
+   "all": {
+    "estimate": 3.9447264260768344,
+    "lo": 2.8155463717500973,
+    "hi": 5.566387272021731
+   }
+  },
+  "2020-2023": {
+   "capability": {
+    "estimate": 3.7168159771754627,
+    "lo": 2.2048559201141225,
+    "hi": 6.079173466476462
+   },
+   "risk": {
+    "estimate": 0.9696776034236804,
+    "lo": 0.5180542082738944,
+    "hi": 1.4931295292439373
+   },
+   "market": {
+    "estimate": 0.9551041369472181,
+    "lo": 0.4333212553495007,
+    "hi": 1.7658893009985728
+   },
+   "governance": {
+    "estimate": 0.0,
+    "lo": 0.0,
+    "hi": 0.0
+   },
+   "other": {
+    "estimate": 2.3714693295292437,
+    "lo": 0.9397181169757489,
+    "hi": 4.294756918687588
+   },
+   "all": {
+    "estimate": 8.02522111269615,
+    "lo": 4.7094901569186876,
+    "hi": 13.164500142653349
+   }
+  },
+  "2024-2026": {
+   "capability": {
+    "estimate": 3.81169934640523,
+    "lo": 2.137203703703704,
+    "hi": 5.775438453159042
+   },
+   "risk": {
+    "estimate": 6.444880174291941,
+    "lo": 4.486205664488018,
+    "hi": 8.788083224400873
+   },
+   "market": {
+    "estimate": 1.4636209150326802,
+    "lo": 0.5895757080610022,
+    "hi": 2.7738135076252726
+   },
+   "governance": {
+    "estimate": 0.1135468409586057,
+    "lo": 0.040000000000000015,
+    "hi": 0.20364705882352946
+   },
+   "other": {
+    "estimate": 1.7910544662309373,
+    "lo": 1.116277015250545,
+    "hi": 2.5524661220043576
+   },
+   "all": {
+    "estimate": 13.65713289760349,
+    "lo": 9.331951742919394,
+    "hi": 18.614484422657952
+   }
+  }
+ },
+ "R2_added_volume": {
+  "added_total": 9.712406471526656,
+  "capability": {
+   "added": 2.0392818066302976,
+   "share_of_added": 0.2099666866917845
+  },
+  "risk": {
+   "added": 6.097809937582589,
+   "share_of_added": 0.6278371848891635
+  },
+  "market": {
+   "added": 0.7115370966391994,
+   "share_of_added": 0.07326063820796368
+  },
+  "governance": {
+   "added": 0.1135468409586057,
+   "share_of_added": 0.011690907015834327
+  },
+  "other": {
+   "added": 0.7319159330528231,
+   "share_of_added": 0.07535886550861952
+  },
+  "capability_ratio_late_to_early": 2.1505651241124895
+ },
+ "R3_substantive_own_use": {
+  "definition": "a filing counts if at least one sentence is coded own-use (majority of three) and that sentence is not risk-factor class and is not shared verbatim with five or more other registrants",
+  "2015-2019": {
+   "own_use_any": {
+    "estimate": 0.616320820704127,
+    "lo": 0.5054060775627575,
+    "hi": 0.7247998756508898
+   },
+   "substantive_own_use_any": {
+    "estimate": 0.5977617160177198,
+    "lo": 0.48336014611020445,
+    "hi": 0.7075988964016476
+   },
+   "own_use_only_in_risk_sentences": {
+    "estimate": 0.018559104686407087,
+    "lo": 0.0,
+    "hi": 0.055677314059221265
+   },
+   "ratio_any": 1.6225315881062266,
+   "ratio_substantive": 1.6729074030735627,
+   "ratio_any_interval": [
+    1.3796911859318037,
+    1.9786069942457858
+   ],
+   "ratio_substantive_interval": [
+    1.4132300164475942,
+    2.068850748344493
+   ]
+  },
+  "2020-2023": {
+   "own_use_any": {
+    "estimate": 0.719339730933468,
+    "lo": 0.6245454336746405,
+    "hi": 0.8086275770237384
+   },
+   "substantive_own_use_any": {
+    "estimate": 0.6997107305202259,
+    "lo": 0.6058849694659992,
+    "hi": 0.7894327678038476
+   },
+   "own_use_only_in_risk_sentences": {
+    "estimate": 0.019629000413242115,
+    "lo": 0.0,
+    "hi": 0.053044216906194035
+   },
+   "ratio_any": 1.3901637251460122,
+   "ratio_substantive": 1.4291620185051512,
+   "ratio_any_interval": [
+    1.2366632407969973,
+    1.601164536767639
+   ],
+   "ratio_substantive_interval": [
+    1.266732318170599,
+    1.650478309243018
+   ]
+  },
+  "2024-2026": {
+   "own_use_any": {
+    "estimate": 0.6149498910675383,
+    "lo": 0.5034355119825709,
+    "hi": 0.7236521786492374
+   },
+   "substantive_own_use_any": {
+    "estimate": 0.505045751633987,
+    "lo": 0.3935328976034859,
+    "hi": 0.6182186274509803
+   },
+   "own_use_only_in_risk_sentences": {
+    "estimate": 0.10990413943355122,
+    "lo": 0.042427015250544674,
+    "hi": 0.188314596949891
+   },
+   "ratio_any": 1.6261487554116385,
+   "ratio_substantive": 1.98001863546951,
+   "ratio_any_interval": [
+    1.3818793468798656,
+    1.9863517296622897
+   ],
+   "ratio_substantive_interval": [
+    1.6175507427253828,
+    2.5410836199203235
+   ]
+  },
+  "substantive_late_minus_early": {
+   "estimate": -0.09271596438373275,
+   "lo": -0.2481168038672166,
+   "hi": 0.06461694271864325
+  },
+  "by_year": {
+   "2015": {
+    "n": 29,
+    "own_use_any": 0.7931034482758621,
+    "substantive_own_use_any": 0.7931034482758621
+   },
+   "2016": {
+    "n": 30,
+    "own_use_any": 0.7333333333333333,
+    "substantive_own_use_any": 0.7333333333333333
+   },
+   "2017": {
+    "n": 30,
+    "own_use_any": 0.5666666666666667,
+    "substantive_own_use_any": 0.5666666666666667
+   },
+   "2018": {
+    "n": 25,
+    "own_use_any": 0.56,
+    "substantive_own_use_any": 0.56
+   },
+   "2019": {
+    "n": 25,
+    "own_use_any": 0.64,
+    "substantive_own_use_any": 0.6
+   },
+   "2020": {
+    "n": 24,
+    "own_use_any": 0.6666666666666666,
+    "substantive_own_use_any": 0.625
+   },
+   "2021": {
+    "n": 25,
+    "own_use_any": 0.76,
+    "substantive_own_use_any": 0.76
+   },
+   "2022": {
+    "n": 25,
+    "own_use_any": 0.76,
+    "substantive_own_use_any": 0.76
+   },
+   "2023": {
+    "n": 25,
+    "own_use_any": 0.68,
+    "substantive_own_use_any": 0.64
+   },
+   "2024": {
+    "n": 25,
+    "own_use_any": 0.64,
+    "substantive_own_use_any": 0.56
+   },
+   "2025": {
+    "n": 25,
+    "own_use_any": 0.52,
+    "substantive_own_use_any": 0.4
+   },
+   "2026": {
+    "n": 25,
+    "own_use_any": 0.68,
+    "substantive_own_use_any": 0.56
+   }
+  }
+ },
+ "R4_length_adjustment": {
+  "tercile_cuts": [
+   2.0,
+   5.0
+  ],
+  "cells": {
+   "1 to 2": {
+    "2015-2019": {
+     "n": 85,
+     "own_use_any": 0.4202792708576769,
+     "substantive_own_use_any": 0.38539962608086
+    },
+    "2020-2023": {
+     "n": 45,
+     "own_use_any": 0.44861069614580223,
+     "substantive_own_use_any": 0.40603525545264413
+    },
+    "2024-2026": {
+     "n": 23,
+     "own_use_any": 0.1401948326980093,
+     "substantive_own_use_any": 0.10514612452350697
+    }
+   },
+   "3 to 5": {
+    "2015-2019": {
+     "n": 32,
+     "own_use_any": 0.8103932584269662,
+     "substantive_own_use_any": 0.8103932584269662
+    },
+    "2020-2023": {
+     "n": 21,
+     "own_use_any": 0.8616216216216218,
+     "substantive_own_use_any": 0.8616216216216218
+    },
+    "2024-2026": {
+     "n": 14,
+     "own_use_any": 0.5184620483924427,
+     "substantive_own_use_any": 0.2971384377416859
+    }
+   },
+   "more than 5": {
+    "2015-2019": {
+     "n": 22,
+     "own_use_any": 0.8902472653736557,
+     "substantive_own_use_any": 0.8902472653736557
+    },
+    "2020-2023": {
+     "n": 33,
+     "own_use_any": 1.0,
+     "substantive_own_use_any": 1.0
+    },
+    "2024-2026": {
+     "n": 38,
+     "own_use_any": 0.9175787433234298,
+     "substantive_own_use_any": 0.8084681344540664
+    }
+   }
+  },
+  "per_sentence_own_use": {
+   "2015-2019": 0.5967521710559968,
+   "2020-2023": 0.6048932751240738,
+   "2024-2026": 0.49921322446520955
+  },
+  "logit_any_own": {
+   "terms": [
+    "const",
+    "log_ai_sentences",
+    "era_2020_2023",
+    "era_2024_2026"
+   ],
+   "coef": [
+    -0.9359645229640825,
+    2.026418017084365,
+    0.1898678188310991,
+    -1.583275430353349
+   ],
+   "se": [
+    0.36132907791008617,
+    0.28687325216243137,
+    0.45221871387784657,
+    0.5258199942011391
+   ],
+   "p": [
+    0.009588167519464312,
+    1.6199874472310739e-12,
+    0.6745889101913741,
+    0.0026033760248263815
+   ]
+  }
+ },
+ "R5_calibration_propagated_filing_level": {
+  "method": "each own-use=True sentence stays True with probability p, each False becomes True with probability q, with p and q drawn from Beta posteriors fitted to the blinded calibration (true survived 51 of 54, false survived 59 of 66); filing-level fractions recomputed per draw with design weights",
+  "sims": 4000,
+  "2015-2019": {
+   "mean": 0.6792976995414627,
+   "lo": 0.6103971399704671,
+   "hi": 0.757043599906738
+  },
+  "2020-2023": {
+   "mean": 0.7566968438633546,
+   "lo": 0.7055535148537583,
+   "hi": 0.8155932894072271
+  },
+  "2024-2026": {
+   "mean": 0.7085578834422659,
+   "lo": 0.6311154684095861,
+   "hi": 0.7947677559912855
+  }
+ },
+ "R7_item_location": {
+  "coverage": {
+   "tagged": 2590
+  },
+  "by_era": {
+   "2015-2019": {
+    "Front matter": {
+     "share_of_ai_sentences": 0.0032104440126996103,
+     "risk_share_within_item": 0.0,
+     "capability_share_within_item": 0.0
+    },
+    "Item 1 Business": {
+     "share_of_ai_sentences": 0.6361417807894618,
+     "risk_share_within_item": 0.007411821669335895,
+     "capability_share_within_item": 0.5782462413249386
+    },
+    "Item 1A Risk factors": {
+     "share_of_ai_sentences": 0.13677755137500175,
+     "risk_share_within_item": 0.6110806363137682,
+     "capability_share_within_item": 0.06314057222045788
+    },
+    "Item 7 MD&A": {
+     "share_of_ai_sentences": 0.1548713453063543,
+     "risk_share_within_item": 0.0,
+     "capability_share_within_item": 0.3539610902878705
+    },
+    "Other items": {
+     "share_of_ai_sentences": 0.06899887851648251,
+     "risk_share_within_item": 0.0,
+     "capability_share_within_item": 0.28426715503920336
+    }
+   },
+   "2020-2023": {
+    "Front matter": {
+     "share_of_ai_sentences": 0.0017104729080175652,
+     "risk_share_within_item": 0.0,
+     "capability_share_within_item": 0.0
+    },
+    "Item 1 Business": {
+     "share_of_ai_sentences": 0.614982660276726,
+     "risk_share_within_item": 0.01583114678548503,
+     "capability_share_within_item": 0.6054857841581973
+    },
+    "Item 1A Risk factors": {
+     "share_of_ai_sentences": 0.09220602582087688,
+     "risk_share_within_item": 0.815513885885515,
+     "capability_share_within_item": 0.10886287108831988
+    },
+    "Item 7 MD&A": {
+     "share_of_ai_sentences": 0.1493822501050343,
+     "risk_share_within_item": 0.1603043246129206,
+     "capability_share_within_item": 0.33768400579665964
+    },
+    "Other items": {
+     "share_of_ai_sentences": 0.14171859088934527,
+     "risk_share_within_item": 0.08562211703699246,
+     "capability_share_within_item": 0.21873838021445746
+    }
+   },
+   "2024-2026": {
+    "Front matter": {
+     "share_of_ai_sentences": 0.00403339801950306,
+     "risk_share_within_item": 1.0,
+     "capability_share_within_item": 0.0
+    },
+    "Item 1 Business": {
+     "share_of_ai_sentences": 0.40244722235369773,
+     "risk_share_within_item": 0.13263732220605504,
+     "capability_share_within_item": 0.5333353464573132
+    },
+    "Item 1A Risk factors": {
+     "share_of_ai_sentences": 0.46573242695942263,
+     "risk_share_within_item": 0.8346859667855763,
+     "capability_share_within_item": 0.024832194026622234
+    },
+    "Item 1C Cybersecurity": {
+     "share_of_ai_sentences": 0.00539801182771901,
+     "risk_share_within_item": 0.4065999170566977,
+     "capability_share_within_item": 0.18680016588660467
+    },
+    "Item 7 MD&A": {
+     "share_of_ai_sentences": 0.07704807201527873,
+     "risk_share_within_item": 0.1970936531062053,
+     "capability_share_within_item": 0.44031861066490746
+    },
+    "Other items": {
+     "share_of_ai_sentences": 0.04534086882437881,
+     "risk_share_within_item": 0.2093443177970885,
+     "capability_share_within_item": 0.4107394763570706
+    }
+   }
+  }
+ },
+ "R8_within_firm_reuse": {
+  "rule": "a later-year AI sentence counts as carried over when at least half of its eight-word sequences appear in the same registrant's AI sentences in its earlier sampled filing",
+  "pairs": 34,
+  "later_sentences": 243,
+  "carried": 66,
+  "share_carried": 0.2716049382716049,
+  "median_gap_years": 1.0
+ },
+ "R9_logit_risk_post2023": {
+  "terms": [
+   "const",
+   "filed_2024_or_later",
+   "filed_2020_to_2023"
+  ],
+  "coef": [
+   -1.995960859712285,
+   2.529181142580631,
+   0.5094840995376742
+  ],
+  "se": [
+   0.3624922202658882,
+   0.39722875921185624,
+   0.4258544809371921
+  ],
+  "p": [
+   3.6662637516469044e-08,
+   1.9268012767962545e-10,
+   0.2315480133533816
+  ],
+  "odds_ratio_post2023": 12.543230812615954,
+  "note": "sentence-level, each filing weighted equally within year and years weighted to the frame, standard errors clustered by registrant"
+ }
+}

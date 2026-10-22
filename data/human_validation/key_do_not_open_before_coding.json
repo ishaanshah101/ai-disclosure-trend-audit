@@ -1,0 +1,3043 @@
+{
+ "seed": 20261022,
+ "cells": [
+  [
+   "capability",
+   null,
+   70
+  ],
+  [
+   "other",
+   true,
+   40
+  ],
+  [
+   "other",
+   false,
+   30
+  ],
+  [
+   "risk",
+   true,
+   50
+  ],
+  [
+   "risk",
+   false,
+   40
+  ],
+  [
+   "market",
+   null,
+   40
+  ],
+  [
+   "governance",
+   null,
+   8
+  ]
+ ],
+ "n": 300,
+ "key": [
+  {
+   "coder": "A",
+   "item": "A001",
+   "sid": "s02444"
+  },
+  {
+   "coder": "A",
+   "item": "A002",
+   "sid": "s01082"
+  },
+  {
+   "coder": "A",
+   "item": "A003",
+   "sid": "s02516"
+  },
+  {
+   "coder": "A",
+   "item": "A004",
+   "sid": "s00192"
+  },
+  {
+   "coder": "A",
+   "item": "A005",
+   "sid": "s02247"
+  },
+  {
+   "coder": "A",
+   "item": "A006",
+   "sid": "s00978"
+  },
+  {
+   "coder": "A",
+   "item": "A007",
+   "sid": "s01862"
+  },
+  {
+   "coder": "A",
+   "item": "A008",
+   "sid": "s00364"
+  },
+  {
+   "coder": "A",
+   "item": "A009",
+   "sid": "s00017"
+  },
+  {
+   "coder": "A",
+   "item": "A010",
+   "sid": "s00007"
+  },
+  {
+   "coder": "A",
+   "item": "A011",
+   "sid": "s02353"
+  },
+  {
+   "coder": "A",
+   "item": "A012",
+   "sid": "s01242"
+  },
+  {
+   "coder": "A",
+   "item": "A013",
+   "sid": "s01682"
+  },
+  {
+   "coder": "A",
+   "item": "A014",
+   "sid": "s01942"
+  },
+  {
+   "coder": "A",
+   "item": "A015",
+   "sid": "s00748"
+  },
+  {
+   "coder": "A",
+   "item": "A016",
+   "sid": "s02324"
+  },
+  {
+   "coder": "A",
+   "item": "A017",
+   "sid": "s02500"
+  },
+  {
+   "coder": "A",
+   "item": "A018",
+   "sid": "s00203"
+  },
+  {
+   "coder": "A",
+   "item": "A019",
+   "sid": "s01024"
+  },
+  {
+   "coder": "A",
+   "item": "A020",
+   "sid": "s00257"
+  },
+  {
+   "coder": "A",
+   "item": "A021",
+   "sid": "s00882"
+  },
+  {
+   "coder": "A",
+   "item": "A022",
+   "sid": "s01763"
+  },
+  {
+   "coder": "A",
+   "item": "A023",
+   "sid": "s00453"
+  },
+  {
+   "coder": "A",
+   "item": "A024",
+   "sid": "s02572"
+  },
+  {
+   "coder": "A",
+   "item": "A025",
+   "sid": "s01913"
+  },
+  {
+   "coder": "A",
+   "item": "A026",
+   "sid": "s00926"
+  },
+  {
+   "coder": "A",
+   "item": "A027",
+   "sid": "s01114"
+  },
+  {
+   "coder": "A",
+   "item": "A028",
+   "sid": "s02469"
+  },
+  {
+   "coder": "A",
+   "item": "A029",
+   "sid": "s02234"
+  },
+  {
+   "coder": "A",
+   "item": "A030",
+   "sid": "s00158"
+  },
+  {
+   "coder": "A",
+   "item": "A031",
+   "sid": "s02384"
+  },
+  {
+   "coder": "A",
+   "item": "A032",
+   "sid": "s02254"
+  },
+  {
+   "coder": "A",
+   "item": "A033",
+   "sid": "s01965"
+  },
+  {
+   "coder": "A",
+   "item": "A034",
+   "sid": "s02379"
+  },
+  {
+   "coder": "A",
+   "item": "A035",
+   "sid": "s00133"
+  },
+  {
+   "coder": "A",
+   "item": "A036",
+   "sid": "s00181"
+  },
+  {
+   "coder": "A",
+   "item": "A037",
+   "sid": "s01777"
+  },
+  {
+   "coder": "A",
+   "item": "A038",
+   "sid": "s02337"
+  },
+  {
+   "coder": "A",
+   "item": "A039",
+   "sid": "s01711"
+  },
+  {
+   "coder": "A",
+   "item": "A040",
+   "sid": "s01794"
+  },
+  {
+   "coder": "A",
+   "item": "A041",
+   "sid": "s00719"
+  },
+  {
+   "coder": "A",
+   "item": "A042",
+   "sid": "s00641"
+  },
+  {
+   "coder": "A",
+   "item": "A043",
+   "sid": "s02517"
+  },
+  {
+   "coder": "A",
+   "item": "A044",
+   "sid": "s01919"
+  },
+  {
+   "coder": "A",
+   "item": "A045",
+   "sid": "s02520"
+  },
+  {
+   "coder": "A",
+   "item": "A046",
+   "sid": "s02509"
+  },
+  {
+   "coder": "A",
+   "item": "A047",
+   "sid": "s01897"
+  },
+  {
+   "coder": "A",
+   "item": "A048",
+   "sid": "s02201"
+  },
+  {
+   "coder": "A",
+   "item": "A049",
+   "sid": "s02264"
+  },
+  {
+   "coder": "A",
+   "item": "A050",
+   "sid": "s01659"
+  },
+  {
+   "coder": "A",
+   "item": "A051",
+   "sid": "s01704"
+  },
+  {
+   "coder": "A",
+   "item": "A052",
+   "sid": "s02555"
+  },
+  {
+   "coder": "A",
+   "item": "A053",
+   "sid": "s00225"
+  },
+  {
+   "coder": "A",
+   "item": "A054",
+   "sid": "s00224"
+  },
+  {
+   "coder": "A",
+   "item": "A055",
+   "sid": "s01014"
+  },
+  {
+   "coder": "A",
+   "item": "A056",
+   "sid": "s02457"
+  },
+  {
+   "coder": "A",
+   "item": "A057",
+   "sid": "s01943"
+  },
+  {
+   "coder": "A",
+   "item": "A058",
+   "sid": "s01593"
+  },
+  {
+   "coder": "A",
+   "item": "A059",
+   "sid": "s02411"
+  },
+  {
+   "coder": "A",
+   "item": "A060",
+   "sid": "s00532"
+  },
+  {
+   "coder": "A",
+   "item": "A061",
+   "sid": "s02480"
+  },
+  {
+   "coder": "A",
+   "item": "A062",
+   "sid": "s00710"
+  },
+  {
+   "coder": "A",
+   "item": "A063",
+   "sid": "s00554"
+  },
+  {
+   "coder": "A",
+   "item": "A064",
+   "sid": "s00816"
+  },
+  {
+   "coder": "A",
+   "item": "A065",
+   "sid": "s02355"
+  },
+  {
+   "coder": "A",
+   "item": "A066",
+   "sid": "s00467"
+  },
+  {
+   "coder": "A",
+   "item": "A067",
+   "sid": "s00772"
+  },
+  {
+   "coder": "A",
+   "item": "A068",
+   "sid": "s02090"
+  },
+  {
+   "coder": "A",
+   "item": "A069",
+   "sid": "s00243"
+  },
+  {
+   "coder": "A",
+   "item": "A070",
+   "sid": "s00543"
+  },
+  {
+   "coder": "A",
+   "item": "A071",
+   "sid": "s01908"
+  },
+  {
+   "coder": "A",
+   "item": "A072",
+   "sid": "s01947"
+  },
+  {
+   "coder": "A",
+   "item": "A073",
+   "sid": "s01105"
+  },
+  {
+   "coder": "A",
+   "item": "A074",
+   "sid": "s02290"
+  },
+  {
+   "coder": "A",
+   "item": "A075",
+   "sid": "s02319"
+  },
+  {
+   "coder": "A",
+   "item": "A076",
+   "sid": "s00016"
+  },
+  {
+   "coder": "A",
+   "item": "A077",
+   "sid": "s02208"
+  },
+  {
+   "coder": "A",
+   "item": "A078",
+   "sid": "s01243"
+  },
+  {
+   "coder": "A",
+   "item": "A079",
+   "sid": "s02468"
+  },
+  {
+   "coder": "A",
+   "item": "A080",
+   "sid": "s01542"
+  },
+  {
+   "coder": "A",
+   "item": "A081",
+   "sid": "s01592"
+  },
+  {
+   "coder": "A",
+   "item": "A082",
+   "sid": "s02557"
+  },
+  {
+   "coder": "A",
+   "item": "A083",
+   "sid": "s00237"
+  },
+  {
+   "coder": "A",
+   "item": "A084",
+   "sid": "s01873"
+  },
+  {
+   "coder": "A",
+   "item": "A085",
+   "sid": "s00174"
+  },
+  {
+   "coder": "A",
+   "item": "A086",
+   "sid": "s00666"
+  },
+  {
+   "coder": "A",
+   "item": "A087",
+   "sid": "s02112"
+  },
+  {
+   "coder": "A",
+   "item": "A088",
+   "sid": "s01916"
+  },
+  {
+   "coder": "A",
+   "item": "A089",
+   "sid": "s00202"
+  },
+  {
+   "coder": "A",
+   "item": "A090",
+   "sid": "s00268"
+  },
+  {
+   "coder": "A",
+   "item": "A091",
+   "sid": "s00012"
+  },
+  {
+   "coder": "A",
+   "item": "A092",
+   "sid": "s00784"
+  },
+  {
+   "coder": "A",
+   "item": "A093",
+   "sid": "s00414"
+  },
+  {
+   "coder": "A",
+   "item": "A094",
+   "sid": "s02136"
+  },
+  {
+   "coder": "A",
+   "item": "A095",
+   "sid": "s01710"
+  },
+  {
+   "coder": "A",
+   "item": "A096",
+   "sid": "s01937"
+  },
+  {
+   "coder": "A",
+   "item": "A097",
+   "sid": "s01685"
+  },
+  {
+   "coder": "A",
+   "item": "A098",
+   "sid": "s02148"
+  },
+  {
+   "coder": "A",
+   "item": "A099",
+   "sid": "s00744"
+  },
+  {
+   "coder": "A",
+   "item": "A100",
+   "sid": "s01559"
+  },
+  {
+   "coder": "A",
+   "item": "A101",
+   "sid": "s00613"
+  },
+  {
+   "coder": "A",
+   "item": "A102",
+   "sid": "s02277"
+  },
+  {
+   "coder": "A",
+   "item": "A103",
+   "sid": "s00897"
+  },
+  {
+   "coder": "A",
+   "item": "A104",
+   "sid": "s01788"
+  },
+  {
+   "coder": "A",
+   "item": "A105",
+   "sid": "s02442"
+  },
+  {
+   "coder": "A",
+   "item": "A106",
+   "sid": "s00277"
+  },
+  {
+   "coder": "A",
+   "item": "A107",
+   "sid": "s02216"
+  },
+  {
+   "coder": "A",
+   "item": "A108",
+   "sid": "s00195"
+  },
+  {
+   "coder": "A",
+   "item": "A109",
+   "sid": "s01950"
+  },
+  {
+   "coder": "A",
+   "item": "A110",
+   "sid": "s00047"
+  },
+  {
+   "coder": "A",
+   "item": "A111",
+   "sid": "s00946"
+  },
+  {
+   "coder": "A",
+   "item": "A112",
+   "sid": "s02119"
+  },
+  {
+   "coder": "A",
+   "item": "A113",
+   "sid": "s02556"
+  },
+  {
+   "coder": "A",
+   "item": "A114",
+   "sid": "s02488"
+  },
+  {
+   "coder": "A",
+   "item": "A115",
+   "sid": "s00707"
+  },
+  {
+   "coder": "A",
+   "item": "A116",
+   "sid": "s02294"
+  },
+  {
+   "coder": "A",
+   "item": "A117",
+   "sid": "s02197"
+  },
+  {
+   "coder": "A",
+   "item": "A118",
+   "sid": "s01493"
+  },
+  {
+   "coder": "A",
+   "item": "A119",
+   "sid": "s00648"
+  },
+  {
+   "coder": "A",
+   "item": "A120",
+   "sid": "s02518"
+  },
+  {
+   "coder": "A",
+   "item": "A121",
+   "sid": "s00101"
+  },
+  {
+   "coder": "A",
+   "item": "A122",
+   "sid": "s00120"
+  },
+  {
+   "coder": "A",
+   "item": "A123",
+   "sid": "s00457"
+  },
+  {
+   "coder": "A",
+   "item": "A124",
+   "sid": "s02285"
+  },
+  {
+   "coder": "A",
+   "item": "A125",
+   "sid": "s01584"
+  },
+  {
+   "coder": "A",
+   "item": "A126",
+   "sid": "s00385"
+  },
+  {
+   "coder": "A",
+   "item": "A127",
+   "sid": "s00462"
+  },
+  {
+   "coder": "A",
+   "item": "A128",
+   "sid": "s01012"
+  },
+  {
+   "coder": "A",
+   "item": "A129",
+   "sid": "s00325"
+  },
+  {
+   "coder": "A",
+   "item": "A130",
+   "sid": "s02241"
+  },
+  {
+   "coder": "A",
+   "item": "A131",
+   "sid": "s01091"
+  },
+  {
+   "coder": "A",
+   "item": "A132",
+   "sid": "s02230"
+  },
+  {
+   "coder": "A",
+   "item": "A133",
+   "sid": "s00226"
+  },
+  {
+   "coder": "A",
+   "item": "A134",
+   "sid": "s02253"
+  },
+  {
+   "coder": "A",
+   "item": "A135",
+   "sid": "s00043"
+  },
+  {
+   "coder": "A",
+   "item": "A136",
+   "sid": "s01772"
+  },
+  {
+   "coder": "A",
+   "item": "A137",
+   "sid": "s01976"
+  },
+  {
+   "coder": "A",
+   "item": "A138",
+   "sid": "s02484"
+  },
+  {
+   "coder": "A",
+   "item": "A139",
+   "sid": "s02252"
+  },
+  {
+   "coder": "A",
+   "item": "A140",
+   "sid": "s02433"
+  },
+  {
+   "coder": "A",
+   "item": "A141",
+   "sid": "s00702"
+  },
+  {
+   "coder": "A",
+   "item": "A142",
+   "sid": "s01740"
+  },
+  {
+   "coder": "A",
+   "item": "A143",
+   "sid": "s02346"
+  },
+  {
+   "coder": "A",
+   "item": "A144",
+   "sid": "s00119"
+  },
+  {
+   "coder": "A",
+   "item": "A145",
+   "sid": "s01992"
+  },
+  {
+   "coder": "A",
+   "item": "A146",
+   "sid": "s00110"
+  },
+  {
+   "coder": "A",
+   "item": "A147",
+   "sid": "s02025"
+  },
+  {
+   "coder": "A",
+   "item": "A148",
+   "sid": "s01265"
+  },
+  {
+   "coder": "A",
+   "item": "A149",
+   "sid": "s02309"
+  },
+  {
+   "coder": "A",
+   "item": "A150",
+   "sid": "s00336"
+  },
+  {
+   "coder": "A",
+   "item": "A151",
+   "sid": "s00519"
+  },
+  {
+   "coder": "A",
+   "item": "A152",
+   "sid": "s00791"
+  },
+  {
+   "coder": "A",
+   "item": "A153",
+   "sid": "s01904"
+  },
+  {
+   "coder": "A",
+   "item": "A154",
+   "sid": "s02416"
+  },
+  {
+   "coder": "A",
+   "item": "A155",
+   "sid": "s00358"
+  },
+  {
+   "coder": "A",
+   "item": "A156",
+   "sid": "s01715"
+  },
+  {
+   "coder": "A",
+   "item": "A157",
+   "sid": "s00675"
+  },
+  {
+   "coder": "A",
+   "item": "A158",
+   "sid": "s00464"
+  },
+  {
+   "coder": "A",
+   "item": "A159",
+   "sid": "s00402"
+  },
+  {
+   "coder": "A",
+   "item": "A160",
+   "sid": "s01582"
+  },
+  {
+   "coder": "A",
+   "item": "A161",
+   "sid": "s01886"
+  },
+  {
+   "coder": "A",
+   "item": "A162",
+   "sid": "s01438"
+  },
+  {
+   "coder": "A",
+   "item": "A163",
+   "sid": "s00396"
+  },
+  {
+   "coder": "A",
+   "item": "A164",
+   "sid": "s01137"
+  },
+  {
+   "coder": "A",
+   "item": "A165",
+   "sid": "s02114"
+  },
+  {
+   "coder": "A",
+   "item": "A166",
+   "sid": "s00931"
+  },
+  {
+   "coder": "A",
+   "item": "A167",
+   "sid": "s00890"
+  },
+  {
+   "coder": "A",
+   "item": "A168",
+   "sid": "s02260"
+  },
+  {
+   "coder": "A",
+   "item": "A169",
+   "sid": "s00424"
+  },
+  {
+   "coder": "A",
+   "item": "A170",
+   "sid": "s00049"
+  },
+  {
+   "coder": "A",
+   "item": "A171",
+   "sid": "s02487"
+  },
+  {
+   "coder": "A",
+   "item": "A172",
+   "sid": "s02262"
+  },
+  {
+   "coder": "A",
+   "item": "A173",
+   "sid": "s02458"
+  },
+  {
+   "coder": "A",
+   "item": "A174",
+   "sid": "s01562"
+  },
+  {
+   "coder": "A",
+   "item": "A175",
+   "sid": "s00917"
+  },
+  {
+   "coder": "A",
+   "item": "A176",
+   "sid": "s02573"
+  },
+  {
+   "coder": "A",
+   "item": "A177",
+   "sid": "s00057"
+  },
+  {
+   "coder": "A",
+   "item": "A178",
+   "sid": "s00444"
+  },
+  {
+   "coder": "A",
+   "item": "A179",
+   "sid": "s00175"
+  },
+  {
+   "coder": "A",
+   "item": "A180",
+   "sid": "s02356"
+  },
+  {
+   "coder": "A",
+   "item": "A181",
+   "sid": "s00678"
+  },
+  {
+   "coder": "A",
+   "item": "A182",
+   "sid": "s00747"
+  },
+  {
+   "coder": "A",
+   "item": "A183",
+   "sid": "s02403"
+  },
+  {
+   "coder": "A",
+   "item": "A184",
+   "sid": "s00607"
+  },
+  {
+   "coder": "A",
+   "item": "A185",
+   "sid": "s02162"
+  },
+  {
+   "coder": "A",
+   "item": "A186",
+   "sid": "s01712"
+  },
+  {
+   "coder": "A",
+   "item": "A187",
+   "sid": "s01565"
+  },
+  {
+   "coder": "A",
+   "item": "A188",
+   "sid": "s00376"
+  },
+  {
+   "coder": "A",
+   "item": "A189",
+   "sid": "s00786"
+  },
+  {
+   "coder": "A",
+   "item": "A190",
+   "sid": "s00814"
+  },
+  {
+   "coder": "A",
+   "item": "A191",
+   "sid": "s00264"
+  },
+  {
+   "coder": "A",
+   "item": "A192",
+   "sid": "s01410"
+  },
+  {
+   "coder": "A",
+   "item": "A193",
+   "sid": "s00076"
+  },
+  {
+   "coder": "A",
+   "item": "A194",
+   "sid": "s00228"
+  },
+  {
+   "coder": "A",
+   "item": "A195",
+   "sid": "s00905"
+  },
+  {
+   "coder": "A",
+   "item": "A196",
+   "sid": "s00064"
+  },
+  {
+   "coder": "A",
+   "item": "A197",
+   "sid": "s01952"
+  },
+  {
+   "coder": "A",
+   "item": "A198",
+   "sid": "s01999"
+  },
+  {
+   "coder": "A",
+   "item": "A199",
+   "sid": "s00812"
+  },
+  {
+   "coder": "A",
+   "item": "A200",
+   "sid": "s00149"
+  },
+  {
+   "coder": "A",
+   "item": "A201",
+   "sid": "s00754"
+  },
+  {
+   "coder": "A",
+   "item": "A202",
+   "sid": "s00180"
+  },
+  {
+   "coder": "A",
+   "item": "A203",
+   "sid": "s02206"
+  },
+  {
+   "coder": "A",
+   "item": "A204",
+   "sid": "s00487"
+  },
+  {
+   "coder": "A",
+   "item": "A205",
+   "sid": "s02307"
+  },
+  {
+   "coder": "A",
+   "item": "A206",
+   "sid": "s00679"
+  },
+  {
+   "coder": "A",
+   "item": "A207",
+   "sid": "s01987"
+  },
+  {
+   "coder": "A",
+   "item": "A208",
+   "sid": "s00997"
+  },
+  {
+   "coder": "A",
+   "item": "A209",
+   "sid": "s02107"
+  },
+  {
+   "coder": "A",
+   "item": "A210",
+   "sid": "s00715"
+  },
+  {
+   "coder": "A",
+   "item": "A211",
+   "sid": "s00515"
+  },
+  {
+   "coder": "A",
+   "item": "A212",
+   "sid": "s02175"
+  },
+  {
+   "coder": "A",
+   "item": "A213",
+   "sid": "s00273"
+  },
+  {
+   "coder": "A",
+   "item": "A214",
+   "sid": "s02464"
+  },
+  {
+   "coder": "A",
+   "item": "A215",
+   "sid": "s02455"
+  },
+  {
+   "coder": "A",
+   "item": "A216",
+   "sid": "s01616"
+  },
+  {
+   "coder": "A",
+   "item": "A217",
+   "sid": "s00788"
+  },
+  {
+   "coder": "A",
+   "item": "A218",
+   "sid": "s00778"
+  },
+  {
+   "coder": "A",
+   "item": "A219",
+   "sid": "s00182"
+  },
+  {
+   "coder": "A",
+   "item": "A220",
+   "sid": "s01831"
+  },
+  {
+   "coder": "A",
+   "item": "A221",
+   "sid": "s00176"
+  },
+  {
+   "coder": "A",
+   "item": "A222",
+   "sid": "s02360"
+  },
+  {
+   "coder": "A",
+   "item": "A223",
+   "sid": "s00173"
+  },
+  {
+   "coder": "A",
+   "item": "A224",
+   "sid": "s00517"
+  },
+  {
+   "coder": "A",
+   "item": "A225",
+   "sid": "s02497"
+  },
+  {
+   "coder": "A",
+   "item": "A226",
+   "sid": "s01013"
+  },
+  {
+   "coder": "A",
+   "item": "A227",
+   "sid": "s01932"
+  },
+  {
+   "coder": "A",
+   "item": "A228",
+   "sid": "s00796"
+  },
+  {
+   "coder": "A",
+   "item": "A229",
+   "sid": "s00342"
+  },
+  {
+   "coder": "A",
+   "item": "A230",
+   "sid": "s00586"
+  },
+  {
+   "coder": "A",
+   "item": "A231",
+   "sid": "s00258"
+  },
+  {
+   "coder": "A",
+   "item": "A232",
+   "sid": "s01902"
+  },
+  {
+   "coder": "A",
+   "item": "A233",
+   "sid": "s02117"
+  },
+  {
+   "coder": "A",
+   "item": "A234",
+   "sid": "s00709"
+  },
+  {
+   "coder": "A",
+   "item": "A235",
+   "sid": "s02154"
+  },
+  {
+   "coder": "A",
+   "item": "A236",
+   "sid": "s00629"
+  },
+  {
+   "coder": "A",
+   "item": "A237",
+   "sid": "s02514"
+  },
+  {
+   "coder": "A",
+   "item": "A238",
+   "sid": "s02163"
+  },
+  {
+   "coder": "A",
+   "item": "A239",
+   "sid": "s00793"
+  },
+  {
+   "coder": "A",
+   "item": "A240",
+   "sid": "s00771"
+  },
+  {
+   "coder": "A",
+   "item": "A241",
+   "sid": "s00448"
+  },
+  {
+   "coder": "A",
+   "item": "A242",
+   "sid": "s02526"
+  },
+  {
+   "coder": "A",
+   "item": "A243",
+   "sid": "s00849"
+  },
+  {
+   "coder": "A",
+   "item": "A244",
+   "sid": "s00140"
+  },
+  {
+   "coder": "A",
+   "item": "A245",
+   "sid": "s00915"
+  },
+  {
+   "coder": "A",
+   "item": "A246",
+   "sid": "s01214"
+  },
+  {
+   "coder": "A",
+   "item": "A247",
+   "sid": "s01230"
+  },
+  {
+   "coder": "A",
+   "item": "A248",
+   "sid": "s02165"
+  },
+  {
+   "coder": "A",
+   "item": "A249",
+   "sid": "s02481"
+  },
+  {
+   "coder": "A",
+   "item": "A250",
+   "sid": "s00231"
+  },
+  {
+   "coder": "A",
+   "item": "A251",
+   "sid": "s02339"
+  },
+  {
+   "coder": "A",
+   "item": "A252",
+   "sid": "s00877"
+  },
+  {
+   "coder": "A",
+   "item": "A253",
+   "sid": "s01066"
+  },
+  {
+   "coder": "A",
+   "item": "A254",
+   "sid": "s02431"
+  },
+  {
+   "coder": "A",
+   "item": "A255",
+   "sid": "s01535"
+  },
+  {
+   "coder": "A",
+   "item": "A256",
+   "sid": "s02296"
+  },
+  {
+   "coder": "A",
+   "item": "A257",
+   "sid": "s02244"
+  },
+  {
+   "coder": "A",
+   "item": "A258",
+   "sid": "s02492"
+  },
+  {
+   "coder": "A",
+   "item": "A259",
+   "sid": "s00129"
+  },
+  {
+   "coder": "A",
+   "item": "A260",
+   "sid": "s01528"
+  },
+  {
+   "coder": "A",
+   "item": "A261",
+   "sid": "s02022"
+  },
+  {
+   "coder": "A",
+   "item": "A262",
+   "sid": "s02535"
+  },
+  {
+   "coder": "A",
+   "item": "A263",
+   "sid": "s00108"
+  },
+  {
+   "coder": "A",
+   "item": "A264",
+   "sid": "s01998"
+  },
+  {
+   "coder": "A",
+   "item": "A265",
+   "sid": "s01955"
+  },
+  {
+   "coder": "A",
+   "item": "A266",
+   "sid": "s02180"
+  },
+  {
+   "coder": "A",
+   "item": "A267",
+   "sid": "s01028"
+  },
+  {
+   "coder": "A",
+   "item": "A268",
+   "sid": "s00713"
+  },
+  {
+   "coder": "A",
+   "item": "A269",
+   "sid": "s00426"
+  },
+  {
+   "coder": "A",
+   "item": "A270",
+   "sid": "s00538"
+  },
+  {
+   "coder": "A",
+   "item": "A271",
+   "sid": "s01626"
+  },
+  {
+   "coder": "A",
+   "item": "A272",
+   "sid": "s00290"
+  },
+  {
+   "coder": "A",
+   "item": "A273",
+   "sid": "s01680"
+  },
+  {
+   "coder": "A",
+   "item": "A274",
+   "sid": "s02299"
+  },
+  {
+   "coder": "A",
+   "item": "A275",
+   "sid": "s00840"
+  },
+  {
+   "coder": "A",
+   "item": "A276",
+   "sid": "s02528"
+  },
+  {
+   "coder": "A",
+   "item": "A277",
+   "sid": "s02164"
+  },
+  {
+   "coder": "A",
+   "item": "A278",
+   "sid": "s00857"
+  },
+  {
+   "coder": "A",
+   "item": "A279",
+   "sid": "s01193"
+  },
+  {
+   "coder": "A",
+   "item": "A280",
+   "sid": "s00198"
+  },
+  {
+   "coder": "A",
+   "item": "A281",
+   "sid": "s01759"
+  },
+  {
+   "coder": "A",
+   "item": "A282",
+   "sid": "s00674"
+  },
+  {
+   "coder": "A",
+   "item": "A283",
+   "sid": "s00527"
+  },
+  {
+   "coder": "A",
+   "item": "A284",
+   "sid": "s01606"
+  },
+  {
+   "coder": "A",
+   "item": "A285",
+   "sid": "s01791"
+  },
+  {
+   "coder": "A",
+   "item": "A286",
+   "sid": "s01631"
+  },
+  {
+   "coder": "A",
+   "item": "A287",
+   "sid": "s00686"
+  },
+  {
+   "coder": "A",
+   "item": "A288",
+   "sid": "s01722"
+  },
+  {
+   "coder": "A",
+   "item": "A289",
+   "sid": "s00652"
+  },
+  {
+   "coder": "A",
+   "item": "A290",
+   "sid": "s02375"
+  },
+  {
+   "coder": "A",
+   "item": "A291",
+   "sid": "s01720"
+  },
+  {
+   "coder": "A",
+   "item": "A292",
+   "sid": "s01714"
+  },
+  {
+   "coder": "A",
+   "item": "A293",
+   "sid": "s01065"
+  },
+  {
+   "coder": "A",
+   "item": "A294",
+   "sid": "s01052"
+  },
+  {
+   "coder": "A",
+   "item": "A295",
+   "sid": "s00194"
+  },
+  {
+   "coder": "A",
+   "item": "A296",
+   "sid": "s02383"
+  },
+  {
+   "coder": "A",
+   "item": "A297",
+   "sid": "s01642"
+  },
+  {
+   "coder": "A",
+   "item": "A298",
+   "sid": "s00743"
+  },
+  {
+   "coder": "A",
+   "item": "A299",
+   "sid": "s01586"
+  },
+  {
+   "coder": "A",
+   "item": "A300",
+   "sid": "s00971"
+  },
+  {
+   "coder": "B",
+   "item": "B001",
+   "sid": "s02572"
+  },
+  {
+   "coder": "B",
+   "item": "B002",
+   "sid": "s00277"
+  },
+  {
+   "coder": "B",
+   "item": "B003",
+   "sid": "s00043"
+  },
+  {
+   "coder": "B",
+   "item": "B004",
+   "sid": "s01685"
+  },
+  {
+   "coder": "B",
+   "item": "B005",
+   "sid": "s00519"
+  },
+  {
+   "coder": "B",
+   "item": "B006",
+   "sid": "s00715"
+  },
+  {
+   "coder": "B",
+   "item": "B007",
+   "sid": "s02487"
+  },
+  {
+   "coder": "B",
+   "item": "B008",
+   "sid": "s01794"
+  },
+  {
+   "coder": "B",
+   "item": "B009",
+   "sid": "s00648"
+  },
+  {
+   "coder": "B",
+   "item": "B010",
+   "sid": "s01886"
+  },
+  {
+   "coder": "B",
+   "item": "B011",
+   "sid": "s00110"
+  },
+  {
+   "coder": "B",
+   "item": "B012",
+   "sid": "s01114"
+  },
+  {
+   "coder": "B",
+   "item": "B013",
+   "sid": "s01772"
+  },
+  {
+   "coder": "B",
+   "item": "B014",
+   "sid": "s01791"
+  },
+  {
+   "coder": "B",
+   "item": "B015",
+   "sid": "s00629"
+  },
+  {
+   "coder": "B",
+   "item": "B016",
+   "sid": "s01642"
+  },
+  {
+   "coder": "B",
+   "item": "B017",
+   "sid": "s00786"
+  },
+  {
+   "coder": "B",
+   "item": "B018",
+   "sid": "s02165"
+  },
+  {
+   "coder": "B",
+   "item": "B019",
+   "sid": "s00978"
+  },
+  {
+   "coder": "B",
+   "item": "B020",
+   "sid": "s01528"
+  },
+  {
+   "coder": "B",
+   "item": "B021",
+   "sid": "s01714"
+  },
+  {
+   "coder": "B",
+   "item": "B022",
+   "sid": "s00129"
+  },
+  {
+   "coder": "B",
+   "item": "B023",
+   "sid": "s02197"
+  },
+  {
+   "coder": "B",
+   "item": "B024",
+   "sid": "s00076"
+  },
+  {
+   "coder": "B",
+   "item": "B025",
+   "sid": "s01193"
+  },
+  {
+   "coder": "B",
+   "item": "B026",
+   "sid": "s00243"
+  },
+  {
+   "coder": "B",
+   "item": "B027",
+   "sid": "s00228"
+  },
+  {
+   "coder": "B",
+   "item": "B028",
+   "sid": "s01052"
+  },
+  {
+   "coder": "B",
+   "item": "B029",
+   "sid": "s02299"
+  },
+  {
+   "coder": "B",
+   "item": "B030",
+   "sid": "s00173"
+  },
+  {
+   "coder": "B",
+   "item": "B031",
+   "sid": "s02455"
+  },
+  {
+   "coder": "B",
+   "item": "B032",
+   "sid": "s02514"
+  },
+  {
+   "coder": "B",
+   "item": "B033",
+   "sid": "s01919"
+  },
+  {
+   "coder": "B",
+   "item": "B034",
+   "sid": "s01592"
+  },
+  {
+   "coder": "B",
+   "item": "B035",
+   "sid": "s00194"
+  },
+  {
+   "coder": "B",
+   "item": "B036",
+   "sid": "s01965"
+  },
+  {
+   "coder": "B",
+   "item": "B037",
+   "sid": "s02216"
+  },
+  {
+   "coder": "B",
+   "item": "B038",
+   "sid": "s02384"
+  },
+  {
+   "coder": "B",
+   "item": "B039",
+   "sid": "s01028"
+  },
+  {
+   "coder": "B",
+   "item": "B040",
+   "sid": "s00180"
+  },
+  {
+   "coder": "B",
+   "item": "B041",
+   "sid": "s00743"
+  },
+  {
+   "coder": "B",
+   "item": "B042",
+   "sid": "s00258"
+  },
+  {
+   "coder": "B",
+   "item": "B043",
+   "sid": "s00713"
+  },
+  {
+   "coder": "B",
+   "item": "B044",
+   "sid": "s02254"
+  },
+  {
+   "coder": "B",
+   "item": "B045",
+   "sid": "s00119"
+  },
+  {
+   "coder": "B",
+   "item": "B046",
+   "sid": "s01562"
+  },
+  {
+   "coder": "B",
+   "item": "B047",
+   "sid": "s02492"
+  },
+  {
+   "coder": "B",
+   "item": "B048",
+   "sid": "s00679"
+  },
+  {
+   "coder": "B",
+   "item": "B049",
+   "sid": "s02555"
+  },
+  {
+   "coder": "B",
+   "item": "B050",
+   "sid": "s02264"
+  },
+  {
+   "coder": "B",
+   "item": "B051",
+   "sid": "s00686"
+  },
+  {
+   "coder": "B",
+   "item": "B052",
+   "sid": "s00710"
+  },
+  {
+   "coder": "B",
+   "item": "B053",
+   "sid": "s01586"
+  },
+  {
+   "coder": "B",
+   "item": "B054",
+   "sid": "s00641"
+  },
+  {
+   "coder": "B",
+   "item": "B055",
+   "sid": "s01913"
+  },
+  {
+   "coder": "B",
+   "item": "B056",
+   "sid": "s02208"
+  },
+  {
+   "coder": "B",
+   "item": "B057",
+   "sid": "s02520"
+  },
+  {
+   "coder": "B",
+   "item": "B058",
+   "sid": "s00149"
+  },
+  {
+   "coder": "B",
+   "item": "B059",
+   "sid": "s00747"
+  },
+  {
+   "coder": "B",
+   "item": "B060",
+   "sid": "s00744"
+  },
+  {
+   "coder": "B",
+   "item": "B061",
+   "sid": "s00192"
+  },
+  {
+   "coder": "B",
+   "item": "B062",
+   "sid": "s02480"
+  },
+  {
+   "coder": "B",
+   "item": "B063",
+   "sid": "s01897"
+  },
+  {
+   "coder": "B",
+   "item": "B064",
+   "sid": "s01720"
+  },
+  {
+   "coder": "B",
+   "item": "B065",
+   "sid": "s00336"
+  },
+  {
+   "coder": "B",
+   "item": "B066",
+   "sid": "s00424"
+  },
+  {
+   "coder": "B",
+   "item": "B067",
+   "sid": "s00120"
+  },
+  {
+   "coder": "B",
+   "item": "B068",
+   "sid": "s01932"
+  },
+  {
+   "coder": "B",
+   "item": "B069",
+   "sid": "s02260"
+  },
+  {
+   "coder": "B",
+   "item": "B070",
+   "sid": "s02163"
+  },
+  {
+   "coder": "B",
+   "item": "B071",
+   "sid": "s02164"
+  },
+  {
+   "coder": "B",
+   "item": "B072",
+   "sid": "s01947"
+  },
+  {
+   "coder": "B",
+   "item": "B073",
+   "sid": "s00133"
+  },
+  {
+   "coder": "B",
+   "item": "B074",
+   "sid": "s00678"
+  },
+  {
+   "coder": "B",
+   "item": "B075",
+   "sid": "s01937"
+  },
+  {
+   "coder": "B",
+   "item": "B076",
+   "sid": "s02411"
+  },
+  {
+   "coder": "B",
+   "item": "B077",
+   "sid": "s02469"
+  },
+  {
+   "coder": "B",
+   "item": "B078",
+   "sid": "s02262"
+  },
+  {
+   "coder": "B",
+   "item": "B079",
+   "sid": "s01992"
+  },
+  {
+   "coder": "B",
+   "item": "B080",
+   "sid": "s00997"
+  },
+  {
+   "coder": "B",
+   "item": "B081",
+   "sid": "s01715"
+  },
+  {
+   "coder": "B",
+   "item": "B082",
+   "sid": "s00140"
+  },
+  {
+   "coder": "B",
+   "item": "B083",
+   "sid": "s02296"
+  },
+  {
+   "coder": "B",
+   "item": "B084",
+   "sid": "s00931"
+  },
+  {
+   "coder": "B",
+   "item": "B085",
+   "sid": "s02356"
+  },
+  {
+   "coder": "B",
+   "item": "B086",
+   "sid": "s01902"
+  },
+  {
+   "coder": "B",
+   "item": "B087",
+   "sid": "s00464"
+  },
+  {
+   "coder": "B",
+   "item": "B088",
+   "sid": "s00257"
+  },
+  {
+   "coder": "B",
+   "item": "B089",
+   "sid": "s00101"
+  },
+  {
+   "coder": "B",
+   "item": "B090",
+   "sid": "s02431"
+  },
+  {
+   "coder": "B",
+   "item": "B091",
+   "sid": "s00788"
+  },
+  {
+   "coder": "B",
+   "item": "B092",
+   "sid": "s01952"
+  },
+  {
+   "coder": "B",
+   "item": "B093",
+   "sid": "s02416"
+  },
+  {
+   "coder": "B",
+   "item": "B094",
+   "sid": "s02457"
+  },
+  {
+   "coder": "B",
+   "item": "B095",
+   "sid": "s01712"
+  },
+  {
+   "coder": "B",
+   "item": "B096",
+   "sid": "s00268"
+  },
+  {
+   "coder": "B",
+   "item": "B097",
+   "sid": "s00709"
+  },
+  {
+   "coder": "B",
+   "item": "B098",
+   "sid": "s00538"
+  },
+  {
+   "coder": "B",
+   "item": "B099",
+   "sid": "s01631"
+  },
+  {
+   "coder": "B",
+   "item": "B100",
+   "sid": "s00342"
+  },
+  {
+   "coder": "B",
+   "item": "B101",
+   "sid": "s00175"
+  },
+  {
+   "coder": "B",
+   "item": "B102",
+   "sid": "s01066"
+  },
+  {
+   "coder": "B",
+   "item": "B103",
+   "sid": "s02117"
+  },
+  {
+   "coder": "B",
+   "item": "B104",
+   "sid": "s01438"
+  },
+  {
+   "coder": "B",
+   "item": "B105",
+   "sid": "s02253"
+  },
+  {
+   "coder": "B",
+   "item": "B106",
+   "sid": "s00666"
+  },
+  {
+   "coder": "B",
+   "item": "B107",
+   "sid": "s02114"
+  },
+  {
+   "coder": "B",
+   "item": "B108",
+   "sid": "s01559"
+  },
+  {
+   "coder": "B",
+   "item": "B109",
+   "sid": "s02112"
+  },
+  {
+   "coder": "B",
+   "item": "B110",
+   "sid": "s00273"
+  },
+  {
+   "coder": "B",
+   "item": "B111",
+   "sid": "s00016"
+  },
+  {
+   "coder": "B",
+   "item": "B112",
+   "sid": "s01763"
+  },
+  {
+   "coder": "B",
+   "item": "B113",
+   "sid": "s00771"
+  },
+  {
+   "coder": "B",
+   "item": "B114",
+   "sid": "s00515"
+  },
+  {
+   "coder": "B",
+   "item": "B115",
+   "sid": "s02403"
+  },
+  {
+   "coder": "B",
+   "item": "B116",
+   "sid": "s00017"
+  },
+  {
+   "coder": "B",
+   "item": "B117",
+   "sid": "s00554"
+  },
+  {
+   "coder": "B",
+   "item": "B118",
+   "sid": "s00224"
+  },
+  {
+   "coder": "B",
+   "item": "B119",
+   "sid": "s01242"
+  },
+  {
+   "coder": "B",
+   "item": "B120",
+   "sid": "s02154"
+  },
+  {
+   "coder": "B",
+   "item": "B121",
+   "sid": "s00917"
+  },
+  {
+   "coder": "B",
+   "item": "B122",
+   "sid": "s02244"
+  },
+  {
+   "coder": "B",
+   "item": "B123",
+   "sid": "s00414"
+  },
+  {
+   "coder": "B",
+   "item": "B124",
+   "sid": "s01593"
+  },
+  {
+   "coder": "B",
+   "item": "B125",
+   "sid": "s02337"
+  },
+  {
+   "coder": "B",
+   "item": "B126",
+   "sid": "s00707"
+  },
+  {
+   "coder": "B",
+   "item": "B127",
+   "sid": "s00926"
+  },
+  {
+   "coder": "B",
+   "item": "B128",
+   "sid": "s00198"
+  },
+  {
+   "coder": "B",
+   "item": "B129",
+   "sid": "s00772"
+  },
+  {
+   "coder": "B",
+   "item": "B130",
+   "sid": "s00905"
+  },
+  {
+   "coder": "B",
+   "item": "B131",
+   "sid": "s00264"
+  },
+  {
+   "coder": "B",
+   "item": "B132",
+   "sid": "s00527"
+  },
+  {
+   "coder": "B",
+   "item": "B133",
+   "sid": "s01024"
+  },
+  {
+   "coder": "B",
+   "item": "B134",
+   "sid": "s02444"
+  },
+  {
+   "coder": "B",
+   "item": "B135",
+   "sid": "s00674"
+  },
+  {
+   "coder": "B",
+   "item": "B136",
+   "sid": "s00158"
+  },
+  {
+   "coder": "B",
+   "item": "B137",
+   "sid": "s01584"
+  },
+  {
+   "coder": "B",
+   "item": "B138",
+   "sid": "s00195"
+  },
+  {
+   "coder": "B",
+   "item": "B139",
+   "sid": "s00543"
+  },
+  {
+   "coder": "B",
+   "item": "B140",
+   "sid": "s02247"
+  },
+  {
+   "coder": "B",
+   "item": "B141",
+   "sid": "s01659"
+  },
+  {
+   "coder": "B",
+   "item": "B142",
+   "sid": "s02375"
+  },
+  {
+   "coder": "B",
+   "item": "B143",
+   "sid": "s00290"
+  },
+  {
+   "coder": "B",
+   "item": "B144",
+   "sid": "s02319"
+  },
+  {
+   "coder": "B",
+   "item": "B145",
+   "sid": "s01955"
+  },
+  {
+   "coder": "B",
+   "item": "B146",
+   "sid": "s01012"
+  },
+  {
+   "coder": "B",
+   "item": "B147",
+   "sid": "s02136"
+  },
+  {
+   "coder": "B",
+   "item": "B148",
+   "sid": "s01942"
+  },
+  {
+   "coder": "B",
+   "item": "B149",
+   "sid": "s01943"
+  },
+  {
+   "coder": "B",
+   "item": "B150",
+   "sid": "s00396"
+  },
+  {
+   "coder": "B",
+   "item": "B151",
+   "sid": "s02090"
+  },
+  {
+   "coder": "B",
+   "item": "B152",
+   "sid": "s01999"
+  },
+  {
+   "coder": "B",
+   "item": "B153",
+   "sid": "s02285"
+  },
+  {
+   "coder": "B",
+   "item": "B154",
+   "sid": "s00226"
+  },
+  {
+   "coder": "B",
+   "item": "B155",
+   "sid": "s00814"
+  },
+  {
+   "coder": "B",
+   "item": "B156",
+   "sid": "s00364"
+  },
+  {
+   "coder": "B",
+   "item": "B157",
+   "sid": "s00231"
+  },
+  {
+   "coder": "B",
+   "item": "B158",
+   "sid": "s02526"
+  },
+  {
+   "coder": "B",
+   "item": "B159",
+   "sid": "s01243"
+  },
+  {
+   "coder": "B",
+   "item": "B160",
+   "sid": "s00457"
+  },
+  {
+   "coder": "B",
+   "item": "B161",
+   "sid": "s00675"
+  },
+  {
+   "coder": "B",
+   "item": "B162",
+   "sid": "s00849"
+  },
+  {
+   "coder": "B",
+   "item": "B163",
+   "sid": "s02464"
+  },
+  {
+   "coder": "B",
+   "item": "B164",
+   "sid": "s00517"
+  },
+  {
+   "coder": "B",
+   "item": "B165",
+   "sid": "s02509"
+  },
+  {
+   "coder": "B",
+   "item": "B166",
+   "sid": "s01616"
+  },
+  {
+   "coder": "B",
+   "item": "B167",
+   "sid": "s01230"
+  },
+  {
+   "coder": "B",
+   "item": "B168",
+   "sid": "s02517"
+  },
+  {
+   "coder": "B",
+   "item": "B169",
+   "sid": "s02339"
+  },
+  {
+   "coder": "B",
+   "item": "B170",
+   "sid": "s01682"
+  },
+  {
+   "coder": "B",
+   "item": "B171",
+   "sid": "s02442"
+  },
+  {
+   "coder": "B",
+   "item": "B172",
+   "sid": "s02355"
+  },
+  {
+   "coder": "B",
+   "item": "B173",
+   "sid": "s02484"
+  },
+  {
+   "coder": "B",
+   "item": "B174",
+   "sid": "s02307"
+  },
+  {
+   "coder": "B",
+   "item": "B175",
+   "sid": "s00857"
+  },
+  {
+   "coder": "B",
+   "item": "B176",
+   "sid": "s02383"
+  },
+  {
+   "coder": "B",
+   "item": "B177",
+   "sid": "s01710"
+  },
+  {
+   "coder": "B",
+   "item": "B178",
+   "sid": "s01105"
+  },
+  {
+   "coder": "B",
+   "item": "B179",
+   "sid": "s00174"
+  },
+  {
+   "coder": "B",
+   "item": "B180",
+   "sid": "s00444"
+  },
+  {
+   "coder": "B",
+   "item": "B181",
+   "sid": "s00793"
+  },
+  {
+   "coder": "B",
+   "item": "B182",
+   "sid": "s02557"
+  },
+  {
+   "coder": "B",
+   "item": "B183",
+   "sid": "s01082"
+  },
+  {
+   "coder": "B",
+   "item": "B184",
+   "sid": "s00203"
+  },
+  {
+   "coder": "B",
+   "item": "B185",
+   "sid": "s01013"
+  },
+  {
+   "coder": "B",
+   "item": "B186",
+   "sid": "s02148"
+  },
+  {
+   "coder": "B",
+   "item": "B187",
+   "sid": "s01908"
+  },
+  {
+   "coder": "B",
+   "item": "B188",
+   "sid": "s02022"
+  },
+  {
+   "coder": "B",
+   "item": "B189",
+   "sid": "s01759"
+  },
+  {
+   "coder": "B",
+   "item": "B190",
+   "sid": "s00453"
+  },
+  {
+   "coder": "B",
+   "item": "B191",
+   "sid": "s01916"
+  },
+  {
+   "coder": "B",
+   "item": "B192",
+   "sid": "s02458"
+  },
+  {
+   "coder": "B",
+   "item": "B193",
+   "sid": "s01626"
+  },
+  {
+   "coder": "B",
+   "item": "B194",
+   "sid": "s02379"
+  },
+  {
+   "coder": "B",
+   "item": "B195",
+   "sid": "s02324"
+  },
+  {
+   "coder": "B",
+   "item": "B196",
+   "sid": "s01535"
+  },
+  {
+   "coder": "B",
+   "item": "B197",
+   "sid": "s00652"
+  },
+  {
+   "coder": "B",
+   "item": "B198",
+   "sid": "s00064"
+  },
+  {
+   "coder": "B",
+   "item": "B199",
+   "sid": "s00012"
+  },
+  {
+   "coder": "B",
+   "item": "B200",
+   "sid": "s02107"
+  },
+  {
+   "coder": "B",
+   "item": "B201",
+   "sid": "s02252"
+  },
+  {
+   "coder": "B",
+   "item": "B202",
+   "sid": "s01950"
+  },
+  {
+   "coder": "B",
+   "item": "B203",
+   "sid": "s02433"
+  },
+  {
+   "coder": "B",
+   "item": "B204",
+   "sid": "s02481"
+  },
+  {
+   "coder": "B",
+   "item": "B205",
+   "sid": "s02497"
+  },
+  {
+   "coder": "B",
+   "item": "B206",
+   "sid": "s01862"
+  },
+  {
+   "coder": "B",
+   "item": "B207",
+   "sid": "s00402"
+  },
+  {
+   "coder": "B",
+   "item": "B208",
+   "sid": "s00487"
+  },
+  {
+   "coder": "B",
+   "item": "B209",
+   "sid": "s01998"
+  },
+  {
+   "coder": "B",
+   "item": "B210",
+   "sid": "s02201"
+  },
+  {
+   "coder": "B",
+   "item": "B211",
+   "sid": "s02556"
+  },
+  {
+   "coder": "B",
+   "item": "B212",
+   "sid": "s00202"
+  },
+  {
+   "coder": "B",
+   "item": "B213",
+   "sid": "s00007"
+  },
+  {
+   "coder": "B",
+   "item": "B214",
+   "sid": "s00182"
+  },
+  {
+   "coder": "B",
+   "item": "B215",
+   "sid": "s01680"
+  },
+  {
+   "coder": "B",
+   "item": "B216",
+   "sid": "s01777"
+  },
+  {
+   "coder": "B",
+   "item": "B217",
+   "sid": "s02353"
+  },
+  {
+   "coder": "B",
+   "item": "B218",
+   "sid": "s00890"
+  },
+  {
+   "coder": "B",
+   "item": "B219",
+   "sid": "s02294"
+  },
+  {
+   "coder": "B",
+   "item": "B220",
+   "sid": "s01493"
+  },
+  {
+   "coder": "B",
+   "item": "B221",
+   "sid": "s01873"
+  },
+  {
+   "coder": "B",
+   "item": "B222",
+   "sid": "s00877"
+  },
+  {
+   "coder": "B",
+   "item": "B223",
+   "sid": "s01565"
+  },
+  {
+   "coder": "B",
+   "item": "B224",
+   "sid": "s01831"
+  },
+  {
+   "coder": "B",
+   "item": "B225",
+   "sid": "s00812"
+  },
+  {
+   "coder": "B",
+   "item": "B226",
+   "sid": "s02234"
+  },
+  {
+   "coder": "B",
+   "item": "B227",
+   "sid": "s00532"
+  },
+  {
+   "coder": "B",
+   "item": "B228",
+   "sid": "s02468"
+  },
+  {
+   "coder": "B",
+   "item": "B229",
+   "sid": "s00467"
+  },
+  {
+   "coder": "B",
+   "item": "B230",
+   "sid": "s02025"
+  },
+  {
+   "coder": "B",
+   "item": "B231",
+   "sid": "s00426"
+  },
+  {
+   "coder": "B",
+   "item": "B232",
+   "sid": "s00325"
+  },
+  {
+   "coder": "B",
+   "item": "B233",
+   "sid": "s00057"
+  },
+  {
+   "coder": "B",
+   "item": "B234",
+   "sid": "s02230"
+  },
+  {
+   "coder": "B",
+   "item": "B235",
+   "sid": "s00791"
+  },
+  {
+   "coder": "B",
+   "item": "B236",
+   "sid": "s01722"
+  },
+  {
+   "coder": "B",
+   "item": "B237",
+   "sid": "s00778"
+  },
+  {
+   "coder": "B",
+   "item": "B238",
+   "sid": "s01582"
+  },
+  {
+   "coder": "B",
+   "item": "B239",
+   "sid": "s02488"
+  },
+  {
+   "coder": "B",
+   "item": "B240",
+   "sid": "s02518"
+  },
+  {
+   "coder": "B",
+   "item": "B241",
+   "sid": "s01410"
+  },
+  {
+   "coder": "B",
+   "item": "B242",
+   "sid": "s00586"
+  },
+  {
+   "coder": "B",
+   "item": "B243",
+   "sid": "s02528"
+  },
+  {
+   "coder": "B",
+   "item": "B244",
+   "sid": "s01976"
+  },
+  {
+   "coder": "B",
+   "item": "B245",
+   "sid": "s00840"
+  },
+  {
+   "coder": "B",
+   "item": "B246",
+   "sid": "s02241"
+  },
+  {
+   "coder": "B",
+   "item": "B247",
+   "sid": "s02500"
+  },
+  {
+   "coder": "B",
+   "item": "B248",
+   "sid": "s02277"
+  },
+  {
+   "coder": "B",
+   "item": "B249",
+   "sid": "s02119"
+  },
+  {
+   "coder": "B",
+   "item": "B250",
+   "sid": "s02535"
+  },
+  {
+   "coder": "B",
+   "item": "B251",
+   "sid": "s00462"
+  },
+  {
+   "coder": "B",
+   "item": "B252",
+   "sid": "s00897"
+  },
+  {
+   "coder": "B",
+   "item": "B253",
+   "sid": "s00237"
+  },
+  {
+   "coder": "B",
+   "item": "B254",
+   "sid": "s02290"
+  },
+  {
+   "coder": "B",
+   "item": "B255",
+   "sid": "s01606"
+  },
+  {
+   "coder": "B",
+   "item": "B256",
+   "sid": "s00754"
+  },
+  {
+   "coder": "B",
+   "item": "B257",
+   "sid": "s00613"
+  },
+  {
+   "coder": "B",
+   "item": "B258",
+   "sid": "s00358"
+  },
+  {
+   "coder": "B",
+   "item": "B259",
+   "sid": "s02175"
+  },
+  {
+   "coder": "B",
+   "item": "B260",
+   "sid": "s02180"
+  },
+  {
+   "coder": "B",
+   "item": "B261",
+   "sid": "s01542"
+  },
+  {
+   "coder": "B",
+   "item": "B262",
+   "sid": "s02360"
+  },
+  {
+   "coder": "B",
+   "item": "B263",
+   "sid": "s02516"
+  },
+  {
+   "coder": "B",
+   "item": "B264",
+   "sid": "s00702"
+  },
+  {
+   "coder": "B",
+   "item": "B265",
+   "sid": "s01265"
+  },
+  {
+   "coder": "B",
+   "item": "B266",
+   "sid": "s01711"
+  },
+  {
+   "coder": "B",
+   "item": "B267",
+   "sid": "s01014"
+  },
+  {
+   "coder": "B",
+   "item": "B268",
+   "sid": "s00971"
+  },
+  {
+   "coder": "B",
+   "item": "B269",
+   "sid": "s00719"
+  },
+  {
+   "coder": "B",
+   "item": "B270",
+   "sid": "s00376"
+  },
+  {
+   "coder": "B",
+   "item": "B271",
+   "sid": "s01987"
+  },
+  {
+   "coder": "B",
+   "item": "B272",
+   "sid": "s00181"
+  },
+  {
+   "coder": "B",
+   "item": "B273",
+   "sid": "s02346"
+  },
+  {
+   "coder": "B",
+   "item": "B274",
+   "sid": "s02206"
+  },
+  {
+   "coder": "B",
+   "item": "B275",
+   "sid": "s00176"
+  },
+  {
+   "coder": "B",
+   "item": "B276",
+   "sid": "s00047"
+  },
+  {
+   "coder": "B",
+   "item": "B277",
+   "sid": "s00882"
+  },
+  {
+   "coder": "B",
+   "item": "B278",
+   "sid": "s00816"
+  },
+  {
+   "coder": "B",
+   "item": "B279",
+   "sid": "s02309"
+  },
+  {
+   "coder": "B",
+   "item": "B280",
+   "sid": "s00385"
+  },
+  {
+   "coder": "B",
+   "item": "B281",
+   "sid": "s00049"
+  },
+  {
+   "coder": "B",
+   "item": "B282",
+   "sid": "s00946"
+  },
+  {
+   "coder": "B",
+   "item": "B283",
+   "sid": "s01065"
+  },
+  {
+   "coder": "B",
+   "item": "B284",
+   "sid": "s00748"
+  },
+  {
+   "coder": "B",
+   "item": "B285",
+   "sid": "s00448"
+  },
+  {
+   "coder": "B",
+   "item": "B286",
+   "sid": "s02573"
+  },
+  {
+   "coder": "B",
+   "item": "B287",
+   "sid": "s00607"
+  },
+  {
+   "coder": "B",
+   "item": "B288",
+   "sid": "s00796"
+  },
+  {
+   "coder": "B",
+   "item": "B289",
+   "sid": "s00108"
+  },
+  {
+   "coder": "B",
+   "item": "B290",
+   "sid": "s01904"
+  },
+  {
+   "coder": "B",
+   "item": "B291",
+   "sid": "s01137"
+  },
+  {
+   "coder": "B",
+   "item": "B292",
+   "sid": "s00784"
+  },
+  {
+   "coder": "B",
+   "item": "B293",
+   "sid": "s02162"
+  },
+  {
+   "coder": "B",
+   "item": "B294",
+   "sid": "s01214"
+  },
+  {
+   "coder": "B",
+   "item": "B295",
+   "sid": "s00915"
+  },
+  {
+   "coder": "B",
+   "item": "B296",
+   "sid": "s00225"
+  },
+  {
+   "coder": "B",
+   "item": "B297",
+   "sid": "s01704"
+  },
+  {
+   "coder": "B",
+   "item": "B298",
+   "sid": "s01740"
+  },
+  {
+   "coder": "B",
+   "item": "B299",
+   "sid": "s01788"
+  },
+  {
+   "coder": "B",
+   "item": "B300",
+   "sid": "s01091"
+  }
+ ]
+}

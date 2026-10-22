@@ -27,5 +27,7 @@ python3 src/build_calibration.py --score
 python3 src/analyze.py
 python3 src/analyze.py --unweighted   # pooled-sample comparison file
 python3 src/figures.py
+python3 src/revision2.py            # item tags need the downloaded 10-Ks in data/filings
+python3 src/figures_rev2.py
 python3 src/build_browser.py
 python3 src/verify_paper.py
